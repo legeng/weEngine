@@ -1,0 +1,9 @@
+/attachment/audios/*
+/attachment/images/*
+/attachment/*.png
+/attachment/*.jpg
+/attachment/*.jpeg
+/data/logs/*
+/data/patch/*
+/data/tpl/*
+/data/update/*
