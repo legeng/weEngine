@@ -1,0 +1,378 @@
+2016-11-23 11:43:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872588</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[来来来]]></Content>
+<MsgId>6356004368203199445</MsgId>
+</xml>
+
+2016-11-23 11:43:12 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:43:12 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 这是问号 ;
+
+2016-11-23 11:43:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872598</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[奥巴马]]></Content>
+<MsgId>6356004411152872407</MsgId>
+</xml>
+
+2016-11-23 11:43:21 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:43:21 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 比身份比不过奥巴马 ;
+
+2016-11-23 11:43:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872604</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[笑话]]></Content>
+<MsgId>6356004436922676185</MsgId>
+</xml>
+
+2016-11-23 11:43:27 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:43:27 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 称谓“??”是一种称谓，广东人孙儿称奶奶为“??”，就是北方人所称的奶奶。在皖西南地区，“??”是一种方言称谓，和“伯母”同意。 ??收录于李克勤2009年12月30日推出的个人专辑《Threesome》描述亲情，有关生老病死的老人问题，由林夕填写，克勤特别用上 Analogue 制式录音，唱出最原始的感情味道。 歌词 作曲： Vincent Chow 填词： 林夕 编曲： Ted Lo 监... ;
+
+2016-11-23 11:43:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872627</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[看看]]></Content>
+<MsgId>6356004535706923999</MsgId>
+</xml>
+
+2016-11-23 11:43:49 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:43:49 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 机器人已经在爆炸中了....错误代码:40001，请告诉管理员，或者会有惊喜喔！ ;
+
+2016-11-23 11:43:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872636</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[来来来]]></Content>
+<MsgId>6356004574361629667</MsgId>
+</xml>
+
+2016-11-23 11:44:00 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:44:00 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 这是问号 ;
+
+2016-11-23 11:44:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872651</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[exit]]></Content>
+<MsgId>6356004638786139117</MsgId>
+</xml>
+
+2016-11-23 11:44:14 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:44:14 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 谢谢下次使用 ;
+
+2016-11-23 11:44:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872658</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[今天晚上]]></Content>
+<MsgId>6356004668850910194</MsgId>
+</xml>
+
+2016-11-23 11:44:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-23 11:44:21 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 欢迎关注喝水吧微信公众号，回复关键字如：
+1、城市名+天气，如北京天气查询北京天气信息；
+2、"百科+查询内容" 或 "定义+查询内容", 如: "百科姚明", "定义自行车" ；
+3、"@查询内容(英文)"；
+4、"日历", "万年历", "黄历"或"几号" ；
+5、"新闻" 查询新闻信息；
+6、"快递+单号", 如: "申通1200041125" 查询快递信息;
+祝你使用愉快！！！ ;
+
+2016-11-23 11:44:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872663</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[天气]]></Content>
+<MsgId>6356004690325746676</MsgId>
+</xml>
+
+2016-11-23 11:44:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-23 11:44:26 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 欢迎关注喝水吧微信公众号，回复关键字如：
+1、城市名+天气，如北京天气查询北京天气信息；
+2、"百科+查询内容" 或 "定义+查询内容", 如: "百科姚明", "定义自行车" ；
+3、"@查询内容(英文)"；
+4、"日历", "万年历", "黄历"或"几号" ；
+5、"新闻" 查询新闻信息；
+6、"快递+单号", 如: "申通1200041125" 查询快递信息;
+祝你使用愉快！！！ ;
+
+2016-11-23 11:46:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872771</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[@ticwear]]></Content>
+<MsgId>6356005154182214687</MsgId>
+</xml>
+
+2016-11-23 11:46:14 params :
+------------
+Array:
+message : Array ;
+module : userapi ;
+rule : 3 ;
+priority : 255 ;
+keyword : Array ;
+
+2016-11-23 11:46:14 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 没有找到结果, 要不换个词试试? ;
+
+2016-11-23 11:49:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872951</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[聊天]]></Content>
+<MsgId>6356005927276328053</MsgId>
+</xml>
+
+2016-11-23 11:49:13 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-23 11:49:13 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 欢迎使用图灵机器人 ;
+
+2016-11-23 11:49:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872961</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[成语故事]]></Content>
+<MsgId>6356005970226001017</MsgId>
+</xml>
+
+2016-11-23 11:49:24 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:49:24 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : hhh我们都懂的h语小黄语 ;
+
+2016-11-23 11:49:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872969</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[成语故事]]></Content>
+<MsgId>6356006004585739389</MsgId>
+</xml>
+
+2016-11-23 11:49:32 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:49:32 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : hhh我们都懂的h语小黄语 ;
+
+2016-11-23 11:49:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3496a9c1c454]]></ToUserName>
+<FromUserName><![CDATA[oKMr3srQuWpSwlzD382XDfbG8HZI]]></FromUserName>
+<CreateTime>1479872986</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[故事]]></Content>
+<MsgId>6356006077600183425</MsgId>
+</xml>
+
+2016-11-23 11:49:51 params :
+------------
+Array:
+message : Array ;
+module : ykbl_robot ;
+rule : 27 ;
+priority : 0 ;
+context : 1 ;
+
+2016-11-23 11:49:51 response :
+------------
+Array:
+FromUserName : gh_3496a9c1c454 ;
+ToUserName : oKMr3srQuWpSwlzD382XDfbG8HZI ;
+MsgType : text ;
+Content : 称谓“??”是一种称谓，广东人孙儿称奶奶为“??”，就是北方人所称的奶奶。在皖西南地区，“??”是一种方言称谓，和“伯母”同意。 ??收录于李克勤2009年12月30日推出的个人专辑《Threesome》描述亲情，有关生老病死的老人问题，由林夕填写，克勤特别用上 Analogue 制式录音，唱出最原始的感情味道。 歌词 作曲： Vincent Chow 填词： 林夕 编曲： Ted Lo 监... ;
+

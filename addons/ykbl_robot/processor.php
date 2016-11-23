@@ -22,9 +22,9 @@ class Ykbl_robotModuleProcessor extends WeModuleProcessor {
                 if (empty($welcom)){
                 $replay="亲，您已经进入万能机器人模式，请输入您想要知道的事情对机器人进行咨询！谢谢！\n功能指令:例如，讲笑话,打开XX网站,下载XX软件,A到B的火车，明天A到B的飞机,看新闻....\n如果需要退出，请输入【".$tc."】";
                 }else{
-                $replay=$welcom;    
+                    $replay=$welcom;    
                 }
-                $this->beginContext("1800");
+                    $this->beginContext("1800");
                 }else{
                  if ($content==$tc){
                         $this->endContext();
