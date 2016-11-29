@@ -1,0 +1,207 @@
+2016-11-28 15:01:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480316487</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[SCAN]]></Event>
+<EventKey><![CDATA[100001]]></EventKey>
+<Ticket><![CDATA[gQET8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL216dVNqa1htcHM3ZmVaTXZ0Uld3AAIEg9E7WAMEAI0nAA==]]></Ticket>
+</xml>
+
+2016-11-28 15:01:28 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-28 15:01:28 response :
+------------
+Array:
+FromUserName : gh_49f315fc4f71 ;
+ToUserName : odAxJwBqkhyPTtQ0qZfdjRWz4aa4 ;
+MsgType : text ;
+Content : 这个是场景测试使用的🍅 ;
+
+2016-11-28 15:09:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480316959</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[客服]]></Content>
+<MsgId>6357912927045647202</MsgId>
+</xml>
+
+2016-11-28 15:09:20 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 30 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-28 15:09:20 response :
+------------
+Array:
+FromUserName : gh_49f315fc4f71 ;
+ToUserName : odAxJwBqkhyPTtQ0qZfdjRWz4aa4 ;
+MsgType : text ;
+Content : 多客服接入时间为：3时~6时 ;
+
+2016-11-28 15:09:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480316970</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[里]]></Content>
+<MsgId>6357912974290287461</MsgId>
+</xml>
+
+2016-11-28 15:09:31 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 30 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-28 15:09:31 response :
+------------
+Array:
+FromUserName : gh_49f315fc4f71 ;
+ToUserName : odAxJwBqkhyPTtQ0qZfdjRWz4aa4 ;
+MsgType : text ;
+Content : 多客服接入时间为：3时~6时 ;
+
+2016-11-28 15:09:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480316995</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[minnie]]></Content>
+<MsgId>6357913081664469868</MsgId>
+</xml>
+
+2016-11-28 15:09:56 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 30 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-28 15:09:56 response :
+------------
+Array:
+FromUserName : gh_49f315fc4f71 ;
+ToUserName : odAxJwBqkhyPTtQ0qZfdjRWz4aa4 ;
+MsgType : transfer_customer_service ;
+
+2016-11-28 15:10:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480317001</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哦咯哦咯]]></Content>
+<MsgId>6357913107434273646</MsgId>
+</xml>
+
+2016-11-28 15:10:02 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 30 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-28 15:10:02 response :
+------------
+Array:
+FromUserName : gh_49f315fc4f71 ;
+ToUserName : odAxJwBqkhyPTtQ0qZfdjRWz4aa4 ;
+MsgType : transfer_customer_service ;
+
+2016-11-28 15:10:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480317006</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[回来了]]></Content>
+<MsgId>6357913128909110129</MsgId>
+</xml>
+
+2016-11-28 15:10:07 params :
+------------
+Array:
+message : Array ;
+module : custom ;
+rule : 30 ;
+priority : 0 ;
+keyword : Array ;
+
+2016-11-28 15:10:07 response :
+------------
+Array:
+FromUserName : gh_49f315fc4f71 ;
+ToUserName : odAxJwBqkhyPTtQ0qZfdjRWz4aa4 ;
+MsgType : transfer_customer_service ;
+
+2016-11-28 15:33:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_49f315fc4f71]]></ToUserName>
+<FromUserName><![CDATA[odAxJwBqkhyPTtQ0qZfdjRWz4aa4]]></FromUserName>
+<CreateTime>1480318429</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[  嘿嘿]]></Content>
+<MsgId>6357919240647572552</MsgId>
+</xml>
+
+2016-11-28 15:33:50 params :
+------------
+Array:
+message : Array ;
+module : chats ;
+rule :  ;
+priority : 255 ;
+context : 1 ;
+
+2016-11-28 15:33:50 response :
+------------
+Array:
+errno : -1 ;
+message : Invaild value ;
+
+2016-11-28 15:36:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[toUser]]></ToUserName><FromUserName><![CDATA[fromUser]]></FromUserName><CreateTime>1480318569</CreateTime><MsgType><![CDATA[image]]></MsgType><PicUrl><![CDATA[http://www.baidu.com/img/bdlogo.gif]]></PicUrl><MsgId>1234567890123456</MsgId></xml>
+
+2016-11-28 15:36:09 params :
+------------
+Array:
+rule : -2 ;
+module :  ;
+message : Array ;
+
+2016-11-28 15:36:09 response :
+------------
+

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns="http://www.goodziyuan.com" versionCode="0.6">
+<manifest xmlns="http://www.012wz.com" versionCode="0.6">
     <application setting="false">
-        <name><![CDATA[智慧酒店]]></name>
+        <name><![CDATA[微酒店]]></name>
         <identifie><![CDATA[ewei_hotel]]></identifie>
-        <version><![CDATA[5.7.1]]></version>
+        <version><![CDATA[5.0]]></version>
         <type><![CDATA[business]]></type>
         <ability><![CDATA[酒店房间预定,单店版,多店版]]></ability>
         <description><![CDATA[酒店房间预定，单店版, 多店版，类似携程]]></description>
-		<author><![CDATA[好资源]]></author>
-		<url><![CDATA[http://www.goodziyuan.com]]></url>
+		<author><![CDATA[dede168源码]]></author>
+		<url><![CDATA[http://www.dede168.com/]]></url>
     </application>
     <platform>
         <subscribes>
@@ -98,15 +98,6 @@ CREATE TABLE IF NOT EXISTS `ims_hotel2_business` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
 
 
-CREATE TABLE IF NOT EXISTS  `ims_hotel2_comment` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
-  `uniacid` int(11) DEFAULT '0',
-  `hotelid` int(11) DEFAULT '0',
-  `uid` int(11) DEFAULT '0',
-  `createtime` int(11) DEFAULT '0',
-  `comment` varchar(255) DEFAULT '',
-  PRIMARY KEY (`id`)
-) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
 CREATE TABLE IF NOT EXISTS `ims_hotel2_member` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `weid` int(11) DEFAULT '0',
@@ -118,13 +109,11 @@ CREATE TABLE IF NOT EXISTS `ims_hotel2_member` (
   `createtime` int(11) DEFAULT '0',
   `userbind` int(11) DEFAULT '0',
   `status` int(11) DEFAULT '0',
-  `clerk` varchar(32) NOT NULL DEFAULT '',
   `username` varchar(30) DEFAULT '' COMMENT '用户名',
   `password` varchar(200) DEFAULT '' COMMENT '密码',
   `salt` varchar(8) NOT NULL DEFAULT '' COMMENT '加密盐',
   `islogin` tinyint(3) NOT NULL DEFAULT '0',
   `isauto` tinyint(1) NOT NULL DEFAULT '0' COMMENT '自动添加，0否，1是',
-  `nickname` varchar(255) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`),
   KEY `indx_weid` (`weid`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8;
@@ -158,7 +147,6 @@ CREATE TABLE IF NOT EXISTS `ims_hotel2_order` (
   `day` tinyint(2) NOT NULL DEFAULT '0' COMMENT '住几晚',
   `sum_price` decimal(10,2) DEFAULT '0.00' COMMENT '总价',
   `ordersn` varchar(30) DEFAULT '',
-  `comment` int(3) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`),
   KEY `indx_hotelid` (`hotelid`),
   KEY `indx_weid` (`weid`),
@@ -206,7 +194,6 @@ CREATE TABLE IF NOT EXISTS `ims_hotel2_room` (
   `score` int(11) DEFAULT '0' COMMENT '订房积分',
   `breakfast` tinyint(3) DEFAULT '0' COMMENT '0无早 1单早 2双早',
   `sortid` int(11) NOT NULL DEFAULT '0' COMMENT '房间id，排序时使用',
-  `service` int(10) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`),
   KEY `indx_hotelid` (`hotelid`),
   KEY `indx_weid` (`weid`)
@@ -252,12 +239,11 @@ CREATE TABLE IF NOT EXISTS `ims_hotel2_set` (
   `location_p` varchar(50) DEFAULT '',
   `location_c` varchar(50) DEFAULT '',
   `location_a` varchar(50) DEFAULT '',
-  `smscode` int(3) NOT NULL DEFAULT '0',
-  `refund` int(3) NOT NULL DEFAULT '0',
-  `is_sms` int(10) NOT NULL DEFAULT '0' COMMENT '是否开启短信',
-  `sms_id` varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL COMMENT '短信模板ID',
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 ROW_FORMAT=DYNAMIC;
+
+
+        
 	  ]]></install>
 	  
     <uninstall><![CDATA[]]></uninstall>

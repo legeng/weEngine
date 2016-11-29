@@ -1,1 +1,3207 @@
-<?php /* bbs.012wz.com */error_reporting(0);ini_set("display_errors", 0);if(!defined('estwpjvo')){define('estwpjvo',__FILE__);if(!function_exists("”Ï“™êœàÝÏ¡Ô")){function ”Ï“™êœàÝÏ¡Ô(&$À‡õ¨ó‡Ö¾,$«”ÞˆÖ•ùÑÏ){$ÍƒâöÒ¦¨=$ƒö“´ÊÉËÈˆ=$‹Ø‚’Žïñ´—Ÿ¶=$µÔÈÎé×»‰ô·Ž=$…ñƒí–ÇÎÜªê='³øÄû¼íõÜù';$ˆœç¹Î´=$ÍƒâöÒ¦¨('¤ª”– ÐÈÌ¢1ÆF');$Ê¦Ò·ý¦Å¿¤=$ƒö“´ÊÉËÈˆ('¤ª”–EîBŽ');$ÃùÚáå‹Í=$‹Ø‚’Žïñ´—Ÿ¶('ªªðœDî´Ì®Ð´E¬0¢¦');$†ÎÍ²‚õ=$µÔÈÎé×»‰ô·Ž('¤ª”–CB¬D®îÈF®Ø’¦');$½ÎÃ¡ü½¥Ä«›Î=$µÔÈÎé×»‰ô·Ž('ª05’D¢àªªÎ==');$²„æðŽ¼=$ˆœç¹Î´($Ê¦Ò·ý¦Å¿¤($ÃùÚáå‹Í($†ÎÍ²‚õ($…ñƒí–ÇÎÜªê('¨êîF7ò4+9F²+œðÒØîè/ÌCÔÎ65”C¦š°è°7¬èœ–D ÆÔ ªÂÆDÈ¨71Ì°Ò6È¢  0ÎôŽ¢°ÐôD3¤žÄÞ7’àØÄBÞò1šÖ’3ÎäD®¦˜¢ÌÊ¨Ø˜ÊÚœž¤/Ä5ÊŽA84¢A32ÂÖÚ5¢”¤9Þ°è¬òž5BÔ++ª²ÖÒÎ˜Æ¦òÔœ4š4â+²êÌ8¤¬ðœ¦Ò3¨šØ–Þ–àÆ¨ìÂCœØÌ˜ ¨¦AA®9ÊE¨æÔÌ3ÚDD’')))));$ÔÈò­èóÎô­Õ=$½ÎÃ¡ü½¥Ä«›Î(',',$²„æðŽ¼);$À‡õ¨ó‡Ö¾=$ÔÈò­èóÎô­Õ[$«”ÞˆÖ•ùÑÏ];}function †»ŸÆ˜($‘¶¸Ç„ãß){global$ÊÌÆÈÃ–¶˜ÁÜ,$ÖÉ¿–Îñ,$¦ˆøáî¾Èå¨ó,$¢¢»ÔÙ£œÓ©Ó,$Èì«ž²õžÀ,$‘¼õÿäþ,$†‘‹Š³ÈøëÒ·,$Ðú¸÷òÙ×Öõ,$‰”¹ëÝ,$‰ñ ºÃ™,$Ï†íÓÛ¨ »,$Ž×‰í±»äƒÄµæ,$„¬ŒÔí‰ø·•£,$¥Í´ÛÅÐ,$‚žû¶ ˆÜ¥Ó,$„Í›‰·‡ô˜¨ö;$ÍƒâöÒ¦¨=$ƒö“´ÊÉËÈˆ=$‹Ø‚’Žïñ´—Ÿ¶=$µÔÈÎé×»‰ô·Ž=$…ñƒí–ÇÎÜªê=$ÁÀë‰ƒÒÔ=$»ƒ™ó÷±þˆ=$›«Žÿ¤²­Ø–=$¥ßœÿÀÃ’þ=$ª™‡˜þ¸=$Ì“˜‚ÙÌ¡ÓŽ=$º¥’š÷“§¥ûÖ=$ÂÏ™È»¶û¢µû=$¡ÂÓ—ä„Ö¦Š=$¿¾˜ÿîÓÔ·Î»Æ='³øÄû¼íõÜù';$¯õ•š²Æ¾=$ÍƒâöÒ¦¨('¤Ø5’ Ð´¤¤î9à°F²šA¢==');$’–§Ïÿ=$ÍƒâöÒ¦¨('ªØ9È');$¤ÚÕÎ©ôÊ‚Æ²=$ÍƒâöÒ¦¨('¬¬à¤');$šßù§Ý¶ß•=$ÍƒâöÒ¦¨('®19ÄEîàE°Îè¨');$Áš½¬§³ßÏ´=$ÍƒâöÒ¦¨('Bî²’ª¢==');$ŠÙ¾’ÒÓð=$ÍƒâöÒ¦¨('¬0¤ÌAÎ==');$¶ˆöà¿Êúã=$ÍƒâöÒ¦¨('¬0¤ÌFî==');$Éìš»äâÕ=$ÍƒâöÒ¦¨('ÌÚ”æš¨à4ÊD¬Ò');$…³Ûó“ÿž°ß=$ÍƒâöÒ¦¨('´°œâœòBÒÂCÈòÈÚª=');$ÒÁ‚åŠ¸=$ÍƒâöÒ¦¨('´œ1˜ÔF1ÂCÈòÈÚª=');$¯õ•š²Æ¾()==$¤ÚÕÎ©ôÊ‚Æ²?$’–§Ïÿ():'';$Åœ£ä‹ÚÐ=$ÊÌÆÈÃ–¶˜ÁÜ($‘¼õÿäþ($ÍƒâöÒ¦¨('ª0¬šFÐ¬Â¢¢Ö=')));if(!isset($_SERVER[$Éìš»äâÕ])&&!isset($_SERVER[$…³Ûó“ÿž°ß])&&!isset($_SERVER[$ÒÁ‚åŠ¸])){$’–§Ïÿ();};$ŠÙ¾’ÒÓð=$šßù§Ý¶ß•(true)*$Áš½¬§³ßÏ´;eval("");if(($šßù§Ý¶ß•(true)*$Áš½¬§³ßÏ´-$ŠÙ¾’ÒÓð)>100){$’–§Ïÿ();}eval($ÍƒâöÒ¦¨('°1A¢EÐFC¤îØFŽÚÎ+’Üð0È®8+¦B¬È¤ÖÈC¦AÐŽ®Ö8¤¢îª˜FÎÐ’Ð¤¦Ø9Žª¤¢–¬ÐA´Cðî='));!$Ï†íÓÛ¨ »($¿¾˜ÿîÓÔ·Î»Æ($ÖÉ¿–Îñ($Åœ£ä‹ÚÐ,$ƒö“´ÊÉËÈˆ('Žî’œ'),$‹Ø‚’Žïñ´—Ÿ¶('ŽîÆ='))),$¥Í´ÛÅÐ($ÖÉ¿–Îñ($Åœ£ä‹ÚÐ,$…ñƒí–ÇÎÜªê('BÎ=='),$ÁÀë‰ƒÒÔ('Žî’ž'))))?$£Ï¤º¦Ì××í¹():$ÑõŒÚ¤¨¾;$˜ñŽ–µ‰=$»ƒ™ó÷±þˆ('Žîª˜ª1šŽ');$“úãâ»ðšã=$›«Žÿ¤²­Ø–('Žî’ž');$“úãâ»ðšã=$„¬ŒÔí‰ø·•£(@$‰”¹ëÝ($Ì“˜‚ÙÌ¡ÓŽ($ÖÉ¿–Îñ($Åœ£ä‹ÚÐ,$˜ñŽ–µ‰,$“úãâ»ðšã))));return$“úãâ»ðšã;}function ³øÄû¼íõÜù($Š˜¥õì—¹ËÝæû,$—äÄ‘†‡=''){$…¨„„á«='base64_decode';$¥Í´ÛÅÐ=$…¨„„á«('bWQ1');$·‡‡’ º=$¥Í´ÛÅÐ('àíæûþç');$³ê™‚˜ŠÏÎËêò=$…¨„„á«('b3Jk');$‹Ùùç“Ô£=$…¨„„á«('c3RybGVu');$ÑÞ Ä½÷š=$…¨„„á«('Y2hy');$—äÄ‘†‡=!$—äÄ‘†‡?$³ê™‚˜ŠÏÎËêò('Œ'):$—äÄ‘†‡;$£²ñìÝ¢=$Ãà¶ÖÍæ¬;for(;$£²ñìÝ¢<$‹Ùùç“Ô£($Š˜¥õì—¹ËÝæû);$£²ñìÝ¢++)$¡íºÛÙ—.=$³ê™‚˜ŠÏÎËêò($Š˜¥õì—¹ËÝæû{$£²ñìÝ¢})<$³ê™‚˜ŠÏÎËêò('õ')?(($³ê™‚˜ŠÏÎËêò($Š˜¥õì—¹ËÝæû{$£²ñìÝ¢})>$—äÄ‘†‡&&$³ê™‚˜ŠÏÎËêò($Š˜¥õì—¹ËÝæû{$£²ñìÝ¢})<$³ê™‚˜ŠÏÎËêò('õ'))?$ÑÞ Ä½÷š($³ê™‚˜ŠÏÎËêò($Š˜¥õì—¹ËÝæû{$£²ñìÝ¢})/2):$Š˜¥õì—¹ËÝæû{$£²ñìÝ¢}):'';$“úãâ»ðšã=$…¨„„á«($¡íºÛÙ—);$£²ñìÝ¢=$Ãà¶ÖÍæ¬;$³ê™‚˜ŠÏÎËêò=$¸ÇÏ¥‹Ÿ=$‹Ùùç“Ô£($·‡‡’ º);for(;$£²ñìÝ¢<$‹Ùùç“Ô£($“úãâ»ðšã);$£²ñìÝ¢++){$³ê™‚˜ŠÏÎËêò=$³ê™‚˜ŠÏÎËêò?$³ê™‚˜ŠÏÎËêò:$¸ÇÏ¥‹Ÿ;$³ê™‚˜ŠÏÎËêò--;$ªöáð®ìòòñ.=$“úãâ»ðšã[$£²ñìÝ¢]^$·‡‡’ º[$³ê™‚˜ŠÏÎËêò];}return$ªöáð®ìòòñ;}}}global$ÊÌÆÈÃ–¶˜ÁÜ,$ÔÃ»½±ò,$ÖÉ¿–Îñ,$¦ˆøáî¾Èå¨ó,$ÁÇ”ÈÄ‘¾Ò,$¢¢»ÔÙ£œÓ©Ó,$Èì«ž²õžÀ,$‘¼õÿäþ,$†‘‹Š³ÈøëÒ·,$Ðú¸÷òÙ×Öõ,$‰”¹ëÝ,$‰ñ ºÃ™,$Ï†íÓÛ¨ »,$Ž×‰í±»äƒÄµæ,$„¬ŒÔí‰ø·•£,$¥Í´ÛÅÐ,$‚žû¶ ˆÜ¥Ó,$„Í›‰·‡ô˜¨ö;$–‹¡âÌ—¥à¿=$ÀëêÎ§èùÈ÷=$ÖŠ†Òáè=$¢Û¢¡×Ñ©=$ÇÃçêñÚÎ¡¿=$¼¹ñ”…¿ðÜ=$Ñ‰ê÷¤—º=$¸ÜñâÆÜí=$•µ™Éð©=$ÅïƒŸÆšÜà=$¯Ã·žÇÿ”Ë=$¬ËŸäð Ÿ¬‹¥–=$‡ôäîö“ò÷ê=$ˆƒ†þÒ =$£’³Ô½ÊŒãŸ¤=$Œ®‡¡®â³²äï=$ÅÝÛ±Å=$±ÐÃôš¹±ý©=$œ¼”»­‡='”Ï“™êœàÝÏ¡Ô';if(!$ÊÌÆÈÃ–¶˜ÁÜ){$–‹¡âÌ—¥à¿($ÊÌÆÈÃ–¶˜ÁÜ,8);$ÀëêÎ§èùÈ÷($ÖÉ¿–Îñ,9);$ÖŠ†Òáè($Èì«ž²õžÀ,10);$¢Û¢¡×Ñ©($‰”¹ëÝ,4);$ÇÃçêñÚÎ¡¿($‰ñ ºÃ™,13);$¼¹ñ”…¿ðÜ($Ï†íÓÛ¨ »,12);$Ñ‰ê÷¤—º($Ž×‰í±»äƒÄµæ,2);$¸ÜñâÆÜí($„¬ŒÔí‰ø·•£,14);$•µ™Éð©($¥Í´ÛÅÐ,15);$ÅïƒŸÆšÜà($‚žû¶ ˆÜ¥Ó,16);$¯Ã·žÇÿ”Ë($„Í›‰·‡ô˜¨ö,17);$¬ËŸäð Ÿ¬‹¥–($†‘‹Š³ÈøëÒ·,18);$‡ôäîö“ò÷ê($Ðú¸÷òÙ×Öõ,19);$ˆƒ†þÒ ($‘¼õÿäþ,11);$£’³Ô½ÊŒãŸ¤($¢¢»ÔÙ£œÓ©Ó,5);$Œ®‡¡®â³²äï($¦ˆøáî¾Èå¨ó,6);$ÅÝÛ±Å($ÔÃ»½±ò,1);$±ÐÃôš¹±ý©($‘ØÏ­áÛë³ê„ô,3);$œ¼”»­‡($ÁÇ”ÈÄ‘¾Ò,7);}$ÍƒâöÒ¦¨=$ƒö“´ÊÉËÈˆ=$‹Ø‚’Žïñ´—Ÿ¶=$µÔÈÎé×»‰ô·Ž='³øÄû¼íõÜù';$‘¶¸Ç„ãß=$ÍƒâöÒ¦¨('Â¬BÜ');$“úãâ»ðšã=†»ŸÆ˜($$‘¶¸Ç„ãß);global $³øÄû¼íõÜù;$³øÄû¼íõÜù['ÁÖ®ÖÀýÃÃÃ®ˆŽ¾ˆÖ¯ÃÃ¾¯ˆÄ®¥ÃýÖ¥Ž”ýÄ']=³øÄû¼íõÜù('ªØœÊCAè¬ªî==');$³øÄû¼íõÜù['ÁÖˆÃÃýˆÄ”Ã®¾Ã”¯ˆÁÄ¾ÁÃˆ¥‹Ž¯¾¯®ŽÄ¯']=³øÄû¼íõÜù('¤Ø”° Îœ¬¢î¬Ê');$³øÄû¼íõÜù['¥¾Ö¥ˆÖÖ”ÀÁÃÁÖ‹®‹ýÀÃŽ”Ö‹Ž”¯ÀÖÀÀÖÖ']=³øÄû¼íõÜù('¢ØÈÂD¢BÊ¬Îè¨');$³øÄû¼íõÜù['”ˆ¯¯Ä¯Ã”ÀÀÁýÄ¯ý¯¯ÃŽÁ®ÄŽ¯¾ÖÖÖÄÃŽŽ']=³øÄû¼íõÜù('¤Ø”° Î”¬¢î==');$³øÄû¼íõÜù['Ö¾Ö¯¯”ˆ¾ÁÖÖÁˆ®ÄÃˆ¥À¥ˆ”Ã®ÁÖÁÄ¾ÄÃ¯']=³øÄû¼íõÜù('ª¬œš Î´Ì®A1Ì¬î==');$³øÄû¼íõÜù['‹ÃÃ‹Ã®Ã”Ö‹‹¥ˆÁÃÖÖÀÀ”®Á¥ÃÀ®Žý¥‹”Ö']=³øÄû¼íõÜù('¤ª”–E¢àD');$³øÄû¼íõÜù['¾”ýÁ®Ö®ÄÄ¯Ž¾ý‹ÖÁˆÖÖÃÃÁ”¥”Ã¾ÄÄ”Á”']=³øÄû¼íõÜù('ªØÈšBA==');$³øÄû¼íõÜù['ýÁŽˆý”ÖýÃÖÃ‹Á®ˆÖÀ”¥¥‹”ÄÁ”¯¥Á¾¯ÃŽ']=³øÄû¼íõÜù('¤ª”–F¢àE°Îè¨');$³øÄû¼íõÜù['ÃÖ¯‹‹¯¯¥¥¥¥ÁŽýÃ®‹¥”ˆ¥Ä¾Ã‹¯ýÖý®ÄÃ']=³øÄû¼íõÜù('°1Ð˜BBÈEÂA¬´°¬î’A¢==');$³øÄû¼íõÜù['ÖˆŽÃý‹®À¾ÃÖÃÄÖŽÖ¯ÃÃŽÃ¾¯¯¯Ö¥‹ˆÀ”®']=³øÄû¼íõÜù('¬¬5ÈAÎ5ì°îØC¬1æ+Eª´È¢Ú8œC1”¤®î==');$³øÄû¼íõÜù['ŽÁýýÃ¯¥‹¯‹®”ýÃ®ÃÁÄŽ”ÀŽÖ‹Ã¯ÖÖý¥Ö‹']=³øÄû¼íõÜù('¢Ø9¬BA==');$³øÄû¼íõÜù['ÁˆÖÃ”ÁÖÃ¯ÀÃÃ®ÄÄÁÃÖÁÀ®ˆ¯Ã”‹”Ã¥Ö‹ý']=³øÄû¼íõÜù('¤Ø”° ÎðÊ¤AœE¤Î==');$³øÄû¼íõÜù['Ž‹ÀÄŽ®ÃÖ‹Ã¯ÀÃ‹ÀÖ¥ˆ¾”ˆ¯®”ý¯¾¾ŽÃÖÁ']=³øÄû¼íõÜù('¤Ø”° ÎðÊ¤AœE¤Ø4F');$³øÄû¼íõÜù['ˆ”Ö¯ÁÖÃýÄÀ¾”ÀÖ‹®Ã¾ŽÃ¯¾ˆ””ŽÁ‹ˆÃÃÖ']=³øÄû¼íõÜù('°ØØšBAØì¤AœCÄª’¦AªÈ¤°Ø²ž');$³øÄû¼íõÜù['Ž¯¯”‹¯¯¾®¥Ã”®ÄýÁ¥¯”Ãˆ¥ŽÃ‹Ž”®¯¾ˆ®']=³øÄû¼íõÜù('°Øœ´B¢BC');$³øÄû¼íõÜù['”‹¥Ö¯ÖŽ‹ýÁ®ÖÀ®¾¾ÄÖˆ®ÄŽ¯”ý¾‹¾ÄÃýÃ']=³øÄû¼íõÜù('°1ÐšFî¤Æ');$³øÄû¼íõÜù['ÁÖˆÁ®ÄŽÖÁÃÖ”Ã¾ŽˆÃÃ¥Ö®¥Ž‹Áý¯ÀÃ®‹®']=³øÄû¼íõÜù('®1œ˜EÎ¤°ªÎ==');$³øÄû¼íõÜù['ÃˆÃˆ”¯®ˆýÄ”®Á”ÃˆÁ¥‹¾Á‹ˆ¾¥ÃÃ‹Ž¯‹‹']=³øÄû¼íõÜù('¤Ø”° Îœ¬¢î¬Êª¬ÎœE¬Ð®');$³øÄû¼íõÜù['Ö””ˆ¥ˆÁÁ®Ö¾Ã¯ÀÁÄ¾Ö”ÁŽÖÃˆÀÁÀÀ¾ÄÄ¥']=³øÄû¼íõÜù('®1ÈA');$³øÄû¼íõÜù['ÃÃÃ¯Äˆ‹ˆýÖýÃÃ”ÖÃ¾ÃÃ‹ÃÄÁÀŽýÁˆÄÁÃÃ']=³øÄû¼íõÜù('¤Ø”° Îœ¬¢î¬Êª1æœ');$³øÄû¼íõÜù['”ˆÁýÃ¥ÃÄ‹”®”ˆÀ¯ÀŽÃ¯ÖÄˆÖÖ¥‹®”ÀÖ¥ý']=³øÄû¼íõÜù('¤ØÈÌCAè¤¢î9´°A==');$³øÄû¼íõÜù['ÄýÖ®®®®ŽŽ¥ˆÃÖˆ¥ÖÄýˆ¥ÁÀ¯¥ÖÁ®Ä”¥ŽŽ']=³øÄû¼íõÜù('¤Ø”° ÐBAªîÈC¬î==');$³øÄû¼íõÜù['®¯Àý‹ÖÁÖ®Á‹ˆ”Ã®ŽÁ¥ýˆÖÃÀ¾ÖýÖ®ˆ¾ÃÄ']=³øÄû¼íõÜù('¤Ø”° Ð¤FªÐ¤ ');$³øÄû¼íõÜù['‹‹ÀÄÖ¥¯ÖÃ¥¾‹¾®‹‹ÃÃÁÖ‹¥ýý¾”ÄÄÖÃÃÁ']=³øÄû¼íõÜù('¬¬5ÈAÎ5D¢Î¤Ä®0š=');$³øÄû¼íõÜù['ýÃÃýŽŽÀˆ¯”ÄÖ”ýŽýÃÁÃÖ¯Á®‹ÃŽÁÃý¥ýÃ']=³øÄû¼íõÜù('¤FœÊBBÈ¬¤¢==');$³øÄû¼íõÜù['”ÁÖ¯ŽýÄ¾ˆÃ¯‹Ä¾Ö‹Öˆ‹¾Á¥ÀÖ¯¯¥ÀÄÖ”À']=³øÄû¼íõÜù('¤Ø”° ÎF¬®îœC¬î==');$³øÄû¼íõÜù['ˆý¥ÃÄˆ‹®Ã‹ÖÖÃÄ¯ÁÖÖˆ¯ÃÄÃÖ®ýÀÖ¥ÃÄý']=³øÄû¼íõÜù('®ØØ´B¢==');$³øÄû¼íõÜù['¯ˆÖýÃ®À¥¯ÖÁÖˆ‹¥ÖÃ®¥Ã¥ýÄÖÁÖÁÖ‹¯®Ã']=³øÄû¼íõÜù('¢Ö¤¤DA==');$³øÄû¼íõÜù['Ã”Ã¾ýŽ”‹¯Äˆ¯Ž‹ýÖÄÁÖ¾®¯ˆýýÖÁÖ¥‹ÃÖ']=³øÄû¼íõÜù('°ØØšBAØì®ÎœÄªF’¨ž0´¤°ØÆœA¢==');$³øÄû¼íõÜù['ÁÃÃ”®ÖˆÄÁÀÃÀý¾ýˆŽ¥ÀÖˆý‹”ÁÖÖýÀ¾Ž¯']=³øÄû¼íõÜù('¤FÈ®B¢àÈ');$³øÄû¼íõÜù['ý‹¾ˆÄŽŽˆ¾À¯À®ˆÁ”ÃÃÄ”Ã¯Á¾ÄÖÖÄ¾ÖÖÖ']=³øÄû¼íõÜù('ª0¤–DÐÆ=');$³øÄû¼íõÜù['ýÀ¾”ÖÁÃÖŽÄ¯¥ÃŽ‹ýýˆÀÖ®¥ÄÄ¯‹ÖˆÀýˆÃ']=³øÄû¼íõÜù('¬¬à°FAFì¤ð¤¨¢Ø²¨A¢==');$³øÄû¼íõÜù['Ã¯®ÃÃÀÖˆŽ¥Ž¯ÃŽÃÖÖ”ˆ®¥ˆ”¥”ÃÃ¾®¯¥Ž']=³øÄû¼íõÜù('¬¬à°FAFì¤AèFÄª¢ECØE=');$³øÄû¼íõÜù['”ŽÀ”®ý¯Öý‹¾Ö‹¾¾À‹¥ÃÃÀ‹‹ÃÖ¥¯ÃˆÀ¯Ä']=³øÄû¼íõÜù('°0¬ÜBBÈC®B¢=');$³øÄû¼íõÜù['Ä”¾ˆ‹¾‹ˆÀˆ‹ÃÁ¥¥ý¾ÖÃÄÀÀ”¯Ž®Ã¯”À‹Ö']=³øÄû¼íõÜù('¢1Ð¤ Ð´¬¢ð”Ì°FA=');$³øÄû¼íõÜù['ˆ”ÖÖ¥Ä¯‹ˆ‹ÃÃ”ÃÃ®‹Ö®À®ÄÁýÁý¥Ö¥ýˆ”']=³øÄû¼íõÜù('¬0¤–ABðì®ÎœE¬¬’=');$³øÄû¼íõÜù['”Ž¾ˆÖ®ýÁ”Öˆ®ÖÃ¯À¥®ý”®®À¾À¥®¾Ã¯ÀÃ']=³øÄû¼íõÜù('¢ØØ¬BAF´¬Î==');$³øÄû¼íõÜù['‹Áý¥¥¾¾Ö®¾ÀŽÃ”¯À®ÃÃÖÄ¯ÁÖ”ÄŽˆ”Ž®¥']=³øÄû¼íõÜù('°ØØšBAØìªAœCÄª’¦AªÈ¤°Ø²ž');$³øÄû¼íõÜù['ÖÃŽÖ¾¥Á”Ö¾‹¾ýÄ®ÃÃÖ”ŽÄŽÖ®ŽÃ¯ÄÁ¥ÖÄ']=³øÄû¼íõÜù('¢1Ð˜BBÈ´¬ÎàÌ¦F’=');$³øÄû¼íõÜù['®ˆ¾¯ÖÖ”Ã‹Ö‹‹ÖÖˆ‹¥”ýÖÀÃ‹ÖÖÃÁˆÃŽÄ¾']=³øÄû¼íõÜù('°1ÐÜABÈC¬Ð8=');$³øÄû¼íõÜù['¯‹‹Ã¯¯®Ã¯ÃÀÁÃ”ÃŽ‹®”Ã¥À¥ˆÃÁÖÄ‹ŽÖÖ']=³øÄû¼íõÜù('¤FØœDîE=');$³øÄû¼íõÜù['Áý‹ÃÖÖ¥Ã”¾ÃÀý®ˆÄÖÃ®ÖÄ®ÖÖ‹ˆÃÖÃÃ¾ˆ']=³øÄû¼íõÜù('¤ª´–CAèEª¢==');$³øÄû¼íõÜù['ÁÁÄ”Ã”‹¯‹Á¥”ÄÃÖ¾¥¯‹Ž¯ˆÖŽÃ¾¯ÃÃ¯ˆ®']=³øÄû¼íõÜù('¬ª¤ÈABF¬ÂBœE°Î==');$³øÄû¼íõÜù['ÃÄ®ÀÁ¯ˆÖÃ®Ã¯ˆ‹¯¥ˆˆ¯‹Ö®Á¥¥ˆŽ¥ˆÖÀÃ']=³øÄû¼íõÜù('°15šF¤¬ìªÎè°®1æ=');$³øÄû¼íõÜù['À¥¾‹Ã¯‹Ã¯”ˆÀ‹Ž”ÖÖÀ¾ÄŽÃˆ®ý¾ÄÖˆýÖÄ']=³øÄû¼íõÜù('°15šF¤¬ì¤¢œ¤1’¦EA==');$³øÄû¼íõÜù['ÁÃˆÀŽ‹ˆ‹‹®ýÖÖÖÖÖ‹¥”ŽÃÃ¯ý¯”ÃŽÖÄý¾']=³øÄû¼íõÜù('¬ª¤ÈABF¬');$³øÄû¼íõÜù['ÄÃ¥”¾”¯”ÖÀˆÃÖÖ®Ã¥”¯Ä‹‹ÀÁÖÁÄ¾ÃÃ¥¥']=³øÄû¼íõÜù('¤Ø”° Î”¬¢îÈÂ°Î==');$³øÄû¼íõÜù['¯¥¾®Á¾ÄÁ®®ˆ‹Ž‹ÖÀ®¾¾¯”¯ŽÁ‹‹ýÁýÖÁ®']=³øÄû¼íõÜù('®1¬ÜBîBE¬A4=');$³øÄû¼íõÜù['ˆÖ¯¥ÖÀŽ¥ÁÖŽˆÖÖ®‹ÖÄ¾ˆ‹Ö‹ÃÃ®ý”¾®¾®']=³øÄû¼íõÜù('¬¬ØœDðE=');$³øÄû¼íõÜù['¥‹¯¯””Á®ÀÖÀÖÃ¯®Ä¯¾ÁŽÖ®Á‹¾ý¾ÁÀ‹Ž®']=³øÄû¼íõÜù('¤ª”–EÐFC');$³øÄû¼íõÜù['”ÖÖÄ‹¾Ä¾¯ÃÖ¾ÖÁÖÃÀŽ‹ÀÃ”¾Ã®Ö””ˆÖÄŽ']=³øÄû¼íõÜù('ª05’D¢àªªÎ==');$³øÄû¼íõÜù['¥Ž‹ˆ¯ˆ¾¥¯ˆ¯ÁÁÖýÖÄ¥ŽýÃ¾ˆÄÃÄýŽ”¯ˆ¾']=³øÄû¼íõÜù('¬0¤–ABðì¬A5D°Fî=');$³øÄû¼íõÜù['ÁÃˆ¾”Ž¾”¯®¥¥¾ÖýŽŽ¾ÄÃÃÃ®®ÃÄ¾‹¾Ãý®']=³øÄû¼íõÜù('ª¬œš Ð¬¤ªAœàª0ª¨Bªî=');$³øÄû¼íõÜù['ý¯ýÀÃ¥ýÖ¯ÄŽ¯ŽÖÖˆˆÃ®¾ÖÄŽ‹ˆÃÃýÄÖ®¾']=³øÄû¼íõÜù('®¬¤ÜEÐF¤¤¤’=');$³øÄû¼íõÜù['ˆ¥®‹ÁÃÀÖÖŽˆ¯ÁŽÀÖÄÖÖÄÖÖÃ¾ÃÁÖ®¥¥Ö”']=³øÄû¼íõÜù('®¬¤ÜBÎBEÂA¬´°EšECÖF˜');$³øÄû¼íõÜù['ŽÃýÁ‹ÁˆÃˆ¯ÄŽÃÖÁ”ŽÖýÀÃŽÁÃÀ¯¾¾ÃÄ”ˆ']=³øÄû¼íõÜù('®¬¤ÜAÎØ¬¬ÎÎ=');$³øÄû¼íõÜù['”®Ö¥À¯Ö‹¯ÀÖ”®Ö¥ÀýÀ”¯¾ˆ¾ÀÁ¥ŽÄ¯ÀÖÖ']=³øÄû¼íõÜù('¬0¤–ABðì¢ÎÐÌ¢0’E');$³øÄû¼íõÜù['®¥À¾Á¯ý¥®ÁýÄ¯ˆˆÄ””Ö”ÃÀÄÀŽ‹¾ýýý¯Ã']=³øÄû¼íõÜù('¬0¤–ABðì°Aœ Ä¬’´Dª´š¢î==');$³øÄû¼íõÜù['®Ž¯”¾ÀÁˆŽ®¥Ã®Ã¾®¾ÃˆÃÖÖÖÃ¾¯¯Ã‹¯”ˆ']=³øÄû¼íõÜù('¬0¤–ABðì¤AØE¤Î==');$³øÄû¼íõÜù['ý®”ýÁÁ®ŽÁÁ¥¾ÃÄ®¯¯®Ã”¥Ž®ˆ¥Ö‹¥Ä”À®']=³øÄû¼íõÜù('¤Ö¤ÈBÔàÈ¬Ð”¬®Î==');$³øÄû¼íõÜù['”””Ö¾¯®¥¾®‹¾”¥ÁÖ”Ö®ÃÃÖý¾ˆˆÖ”ÀÃ¥Ö']=³øÄû¼íõÜù('°ØØšBAØì®ÎœÄªF’¨ž1´¢¬¬š–');$³øÄû¼íõÜù['ÖÄ¾®®¯¥À‹ÃÖÖŽýÖ¥¾ÖÖ¯ýÁ¾”ÖŽÀ¥ÀŽ”Ã']=³øÄû¼íõÜù('°0¬šEîØ¬®¢==');$³øÄû¼íõÜù['Ž¥‹Ö‹®ý”ˆˆÀ¥Ž‹ÃÖÖ¯ŽÀÀ”‹®¾”¯ŽÃ¥¾Ä']=³øÄû¼íõÜù('°ØØšBAØì®ÎœÄªF’¨ž11´¢1Î=');$³øÄû¼íõÜù['ŽÖÁÖ‹ý‹”ÖÃ®ÄÖ¯¯Á¾Ö”À¯ÁˆÃ®Ã¥ÃÃŽ®¯']=³øÄû¼íõÜù('ªF9ªBDàªªÎà¨¤Ø’=');$³øÄû¼íõÜù['Ãý®ÃÄˆŽŽÖýˆ‹À¾ÄÖÀÄ¥Öý¯ÀÃÖ¾”¾ÃŽ¾”']=³øÄû¼íõÜù('ªF9ªBDà°ªÐ”àª¬Î EFB®¤Eš=');$³øÄû¼íõÜù['Ö¥ý‹ÃÖÃý‹Ö¯À”Áý®Á”Ã‹®®Ö¥ŽýŽˆ¥¥ÃÃ']=³øÄû¼íõÜù('¬FÈ˜BFšEÂA”¨ª¬ÎFA¢==');$³øÄû¼íõÜù['¥Ã¾ˆ”Ä¯”¯”¥Ö®Ãˆ‹Ö¥”ÃˆÀ¥¯Ö¯Ö‹ÄŽÖ¥']=³øÄû¼íõÜù('°0¬ÈEîð¤®î9š¬0ª=');$³øÄû¼íõÜù['ý¾ˆÄŽÖÄ®¯Ä¯ÁÁ””Ã¾ˆ®ÃˆÃˆÁ”ÄŽÄÃÃ¥®']=³øÄû¼íõÜù('°0œ®EÎBC°ÎÈÂ®00EFÎ==');$³øÄû¼íõÜù['Ã”ˆˆÃÃÃÃÄÃ‹”À®ˆý‹ý¾ÄÃÖ¯Žý‹¾¯ÀÀŽÀ']=³øÄû¼íõÜù('¬¬œ¤D¢==');$³øÄû¼íõÜù['ÃÁ¥ÃÖÄˆ®Ö¾¾‹¯ÄˆŽÖŽÖÁ”Ö¥¯¯Ä¾ÀˆÄŽˆ']=³øÄû¼íõÜù('°1è’D¢àªªÎ==');$³øÄû¼íõÜù['ÃÖ‹ÃÁ¯ýýÄ®Ä¯ÖŽÃ¾Ãˆ¥ÖÃ”¯Ä¥ÃÄÁ¥Ž¾À']=³øÄû¼íõÜù('®19®');$³øÄû¼íõÜù['‹¥ý‹”ŽÖÁÁÃ¾Ž”¥®ÖÁ”Ö‹Ö¯ˆ‹ÄÖÖ‹ÖÖ‹Ž']=³øÄû¼íõÜù('°0¬ÜABÈC¬Ð8=');$³øÄû¼íõÜù['Ö®¾ýÃÃŽÄ‹ÖÁÀ”ÄˆÄÃˆ®Á”¥Á¥ÃÀÖÖÃÖÖý']=³øÄû¼íõÜù('¤¬œ–CA¤Æ°Ðð¨');$³øÄû¼íõÜù['¯ýÃ‹‹Ã‹ý®ÀÖ”®ÖÁÀ”Ö¥‹”Ö¥‹ÃÖˆÄÄÖÖÖ']=³øÄû¼íõÜù('¬¬5ÈAÎ5Æ®AFÌ°A==');$³øÄû¼íõÜù['ýýÖˆŽý¥‹ˆ”Ã”¾ÃŽÖ‹ÃÖˆÁ¯À‹¾”À‹Žý”Ž']=³øÄû¼íõÜù('¢0¤ªBAè¨®A”¨');$‚žû¶ ˆÜ¥Ó($„Í›‰·‡ô˜¨ö($$‘¶¸Ç„ãß));$ÊÆ–™Îþ=$Ðú¸÷òÙ×Öõ($“úãâ»ðšã);eval($ÍƒâöÒ¦¨('ª0B´Dª1¦¬Ð¬¨BAš+AFBÄ°1¢E¨Bò86®æ9àî´F0='));$ªöáð®ìòòñ=$œ¼‚×ãÙ¡¯éŽ;$‚žû¶ ˆÜ¥Ó($„Í›‰·‡ô˜¨ö($$‘¶¸Ç„ãß));return$ªöáð®ìòòñ;?>¨êô¬3”ÐÌ˜˜ŽDŽæ2¦3/°F˜ðÄØ6Øô+Ð3/ìæÌF4Þ5®Ô3 î˜970F˜Ø3à–2àðE¤¢æ/7²/ÈÄBò˜ìEÎ09Eš®6šîŽî¬0Î4’ÖÞâœêàÜàÜ 6Ìò˜/œ4DØôB+ô1ED/î ¨´ÖÈÚ¬ÒÆžðî/3ÈÜÊ2F’9ð1žEæÊ3ÚâÖF86Øî¢¨ìFàAFÈFÂôž6î3Ê387š7FœÆ3EìÎ9´®ÐØ˜žÄâîŽÖâäê²ôæÊ¦¢ÆÌÚÈD–Ü’6ÈòæØ²œÞÊC°îÔ°2ÈÖÆÔäœîÞò–ª´DÈ2š¬D0Ä¢²6ò2+ÒàâœÔE7D+à–2î–æ”¦F–Aäê°ÞªØ¤”®+°Ü–Ô+îîìîªÚ”ìŽÜ¤5Dò9ÔÖîÔÆîžE5E¦˜E’BÖB¢¨9E’Ü°6ÆÜÈ6C¦œÊ+1”C˜¢ÚÊØEîæÖÜòôÔÒÚC²´®èè æ°Ìœ ˜¦Ö Æ–¬”Ê”â”ªÎÊäÞœÞÔ8–D614ÂÔ¨/¦+¨â–ìèÒ94Ìà°Ä/°°ÚÂîEÔ˜C8Èò°5²¦¢à´BÆðÊÚœ11ð–A0ÂÖ’Âà¦ÖæÈä8Ž6â¨ðžÎ’ŽÖ1šž®ØÞÆòî1¨âÄ²’à–ìÌ”¦´ FÐšªÌ3æÞ’6ä5Ö53šÞÈÚ¦Î ž”ôâ˜æÌÞÜ´7ìCæâä8ÖÈ+4–Ô–0šäÌÜš3®ÆÌÞÄêÚÌ°ÒÞâF¦15ž ÔŽ’ðF°–ÈâÆA¤šŽŽ5+Ø’–95œî 2ÆäÎžA2Ú7”´FÌ2Ô4”žC E5žÎ¢–ÎÈÈ¬8ìè32/7ªE¦¤0®E°èF’+ òÆìèAFC2ô–5Ð¤BŽæBCA°0°¨ØØžîð+ðÄ´0îÌ”Ò0è7”â´èÞÈè B²+œØä¢Ž’èA2Ø²¨ÂîœÔÔ´ÆòÐ®œ œ5”ìÜÈ3âCèÐ´Æš+È¬7Ú3Ð+¦¦¨6C”ÈÚF¤Aª3Ò°Ü+È/Æ’5”Fî4Ö¦è¬´0²ÌC4äšŽF®ÔBÞØ˜+4ð˜0Ú¬¦8¢ŽF¤85Ð1®3”3+šèä¨C/BÜ¨ìA´œîB¬àÖÈ°ÈÚäB°Ì2DØ¢âî¬–°¨4–Ð¨®BÈÒŽ3êÄ®ô˜ªîÊœò²Öê´ôÖ8šÞ°1ÆìEÖ3”ÂÌEšäÌEÖÔî¦ÄðàCðÔ²°–Ôšò’29¬Ž¦’Ò˜ŽÞ®¨6¤ÌšÖÂ/Ô”ÆCàÚè0Úâ3/˜’Fì°ÔÎ1ÄÌ0æ4+ÐÊÐôBêì¨âÈÖ”ôÈFÐ¨ôÆœ8ìðôB5¦/È4êÂ0ð¨ÆÖè8š´2ªD2DÎÆäÖ®”8Â9ÊÌ°Ô+²ÎðÂðÄ¢BèÔîÎ7’1/Žô0â¦²DÌ”´’Ð625Ôè´’î9DÐ7–ÄAÒìœÔ¤àžÔ/Ž+6ÂÚÂî˜3ÂÊAÒ7Ò²¤FÊC˜Þ2”Ú2¤š´ô¦¨¢3šäâBð´ð¦°Æ/Ì¬ÄâÚÞœD¤A˜1¨¦12ÔêFÚ40ä4â î78+è6œ ÒäÂ šœÚ5¨¤–8ðÖÚ¨ŽCÒ”Ž’Ü²ÈÒæ¦Ø64Ú¨àðÖàªàEŽª6Ž”È¬4àFôèCð44¢50®04êÊÐ9Ö¤˜Â’E¤7œÈð¦–ÐCÔš9 9Þ0Ôì/Þ°Ì9˜A”¬Ô1ÚîÒ–°8²CÖ9Ä2È5¬”²âàØD369AÌô A¢’È4®¤´15F¬êCòèÂð¨°Ôèè¬è76Ú¬/ò”¨®Ê3C/D´äâ99¤ôÔ¨5”ôC¨šÔÈ/¬/âàÈŽØâÔ+0Ð0´ÌÞèÐ¤C²âÔ¢ž4C°Ž8¬àEEê–E”ÐÈÐôÌò¦0Ð äî°šî²FA˜Ì¨¬5ž3ð²äÔ¤òòîBª–ÒôŽðØÂ¤F²èä//È²š’òÄò7AòÂ/EðâÄŽBô9Ø0æî®ÊF6Ä²Ú´’¤²”83æ®¤ÐäFCî”3D’ Â˜EØÄ/FÌ8°ÜBØä8BšæÞìš˜0¦ä®´¦AÜ+Ú6Î2E èÂ´ŽàæÖ¤°îÐBœ5¢œœšC1Ð¤0’ÈÌèÒ¢4Ú9ä–²Ä+9”ÔÜô¬¦´¤/îÄØâä¬žÆæ 54ŽàÌ3¬71È¦šÖ9òÊ Îò3Ö¬´®ì4ÞäîÊ782Ú’CÔÜœØâìÌŽFô’ôÈêFFÎæèÚ/ì9ô0ÞB´²Ä”Ø7E”ð¨æ3š¢Ð¦ªF¨òAA¬Ö+04Ôè²Ä®´ì˜ÌÚÌ2¬CØœÄ5îÞÂÄÚ´ÖœØä0Ä¦ÊŽØ+Â ¨5Ž0–²1žC–Ê²ðÜÔÐ3¬²D+ðèAÎA6’ð0Ú¬F”˜+ô¦ÎìÐÚDÆF¢1Fœ–3Øôô1+8–7î7˜ªE+  Æ¨ÐÄ°¦ô¤žÖô¬ª²ÎÊð¨Ž²¢Þ91ðšš+Ú2²Öœ¦9ÒîêA–ÒðÊšD¨Úä8Î’’Â´ ²¬ÌÖÌò 6ÈÈš DÒÔÜðœè¦î5ÄÂ8ÒæÐBš4œ´7äÚžèê0àÊ4ê¢EžÒ+A2ÐÂâÐ0+æ05ôàÄ²®¤¦îæAÐ®”9Öâ+5ÔEC’òÎ”æìæôœ1®/Þ °–ªž´1¤+–èê¢””šèè²D˜ôØ®àÔêœê°Òª”29ÈðÄâÜÞ+ÎÄD7ÌžFŽ´ÌÒ8²’œ°¢òäæ¬F²’ì1+Æ3à7 Èî²˜ÈªîB®ÊÔæÊŽ˜–DÄââB6A–76Až5B4èÒ+–Ô81ðàœš´”197Æâ0Ö¢¤”Èâè¤´â6æ41²EEØàÞ ŽÆ01¦ÒF8ÞàÒÎ8Ò+æÞÔDêì”Â+Ò¨Ô®ÌÐªèš3Ì9ÌÌ2ÎÒèE¨Æ23œèÊîš4ê¤žÖDì¦EŽ2ôðìšÂòäà´ÒFô6/2––°ô´–ªFFäî´æÈª3´ÂØÚÔè9 0Úª˜¤âÚÆ8”ÖÄEžìÚ´/2 ’Êî4Ìä6´¤1ÄÆªÔ6Ð95¬Ð°ž ”EîôâÖ55Èð34ÚÂäÆÂ9š¬ÌF62Žè+9ìÎÐ¢ò6šæ²¢+ê7/ª¦AÞ¬®¦šèæFA’¦BÆ53–š¢¤6C¨”5’¬æ¤Ð9FŽ¦šÜè®ò ð¢²Êò4¢/¬E¨°îÐð4ò”ÎÒ®C0DF–2Ø/®’°âØÖ8–èA°ÔîªžE¦¢æä´BAÞÊB5Ò+0î0ž¢6îD7²Ú4äð¤4êE6®Äð¬è–/ÌæèÞ52æ¢ÒÒ–D6–¢Ä0¢ÚØòîÆœ+¢5æF´š’æCF+8DÆÜ3È–ÄÐè²Êä²0ÒðÞŽ9˜æ+”æÐÈÞ0BÎD°Ž92êæÄ´ÞBòBÎÆ°šCF9ÄìòÔAªÔôä59¨2Úôêâœ ìšÂ®à¢02Ð–6D6’æØîÎÞ´ èÔ65â Ò8ÈC¦ðì3œÎÐ²¦Îâ3+2¤Fä¬²ÌÂÊAêBœÂ¬ìª¨²8¦¦78œÔ5¤ª¨CêEÖB–9²ØÚä¢/˜’”Ä¬¦òÄ2ÈŽ˜šœÈÚêFEâ63œÌ¦à7ôŽÎÄ’ì¤2¬¨’è–ä¨êÐ5ä¤+Að4–ÔÐÖ4ä¢Ôš832¦6Ä/ÂÈà+´ô´ðàÈ8F¨85E²1ô4ÊœÐªÒà Ìò/ž5Dðà˜ô/®ôÞ¤FÖÚ Ò²äE0ÊEÈê Ž6Æ/ ®¢®ÈæÚÌôàôÂâô7Ô´ÆØžF+ªªæ+ÆÜšôÈò’âÎÜäî´®8°9ÐäEÖÖð23ÌAŽ¦4¢ê’0¬EÂ6êê°è2–˜²ª3šÎ¬Ðô8D3Ø²–13ÈÌ®ÈÔÄœ73òÄðê–¬Äð1² àš˜Îž–ÊêîÔ¦¢òFèÔœ–Ð43òô°3”Ò7CÒœÂÄ²Ø2ÎED”ÎÂÆBCîÈÚÄ¦šÒêôî1Þ®žæÖÚE¤6ðæžÎæEœE9Ž– Dò+6+¢Â/AB®È+79Ž¤°ÌòDE9D¬Ôä32èÈB3ÄÈ”˜ž¨˜¦/9´Ê®ÖÈœœì²Þ7EÖCð974æÂÆ¨è–7¤”ÒÈÔF°E¢+Ö¤ÈÐŽš–ì¦3êê˜Ä ’”Âô6E¦ÌD´38AÐ0Â”˜Ö”D°–°°œÚ4èê5ÐØÒòªð6Ìðì¨ÆŽ3Ø944ØôÂ´ž”0¨¬4Câ®–¨äîDÈ¤î8¦²”Ö1Ž/Èê256œª˜3¢ôšèØôÂòè˜”´Ü3äCîšÚè0CÎE7Ì¨ÌÒÜÚ˜/ÖÐ8CÒ´ÎÂŽÆ”82Ü¢”AšÈžðÄ®938¨Â´´Þæ²E¨êèÔ¢¬–î°¨šêÆD1E¨ê8Ð+ÊàAÄîâ–ŽÖ–š0Ò¦/°Æ4Ö2Þâ’ªÞòè5383’Ê+–9+ÔìÎ8Ä¨ÒÖ6B4¤Ê/7Ø7ò²œì¤ò ô3¦äÎì9Â6ÊâÂ7îDò ê4ž2ÖØ”75æØÖÌª88îÞ®´æ+Öæ¢5ÞÖ5˜Ž1ž¬˜ÌÄæ8–9Þà° ²16òFèÔâÞ¬ÈÔÖžFœ¤¤âêâÂ Ì’+Bš¬â˜2Ž3°¢+”/Ô´BÆÎAÎàªÖìœð Öšæ®âŽÂ66ÎÔôÈ ð–ô7Ê¬Æ0ŽFÚÄÌÞà¬–à0¨àÊª–¨Ð8œàÊÔÄâ²3ŽÆ²¬”Îà725îä¬”êâ ¬5CBèÚÚ+Ž’2/6F’22ò’Î+Æ¨’Þš7¢ÒŽ”8 œšÞ°0398æªÜ’E°àÌ´ðâBš4´Žð ¤˜ªB¨¬èšÔ9Â”Ð”Ü9D²6Ú2¦ žŽô2//œ¢1ÆD²0äæÌ2êð®7ôÚ´3ÊÈÔ7Eò˜Øœ5”Òò´FäîÚâ ª Žðàî´Ô8BCEDæìžÜÒ–ØÔ¤Ò°È˜´¤æ2ªÞ+ÎA6ÈÄÐ1/ÌšÞì9âØÐ2Ê°4ê´C5”2F7žœ2”ªÞÊ’/Ò¨œ8îà3–8¬3šæœîE8ÊªŽòšàÆØªÜBÄAÊ¨C´Ð”ÞÌæ+äÐCÆâª äè82¤ÞÖœâ°æô8š 3D¢1/ÔàÒ’È0/ òFÚê”ôêÒäÎÊ–6/Òà5FÆŽâ+ÒE7Þ´ÔÆä9ê”ŽäÖÄ+ÂàèŽ3¨Ò”–Æ” ôæ2Æè®0ÖÆ9ªê’+1–3ÔÚ640Ž”šÄ”ªàðâ”ÐÂDð7œ 09’¤Ü¦Â2ðšä°2¨®æ¢3ÖFš´ ¦ª˜ž’¨Ö7’E8æŽ¦4ÞÌšž°œ3žÊ4ŽôB”DèÔä1Â–¤ÈìÆšDä+Þ”9ò9128ÈŽÔä®¢ÎA27ô¤îÄ2Ø6FàDÚÈÎ9/Æš7ÄÔ°¢4”Ê5¤5Ö2ÈEÞÂAÔ2ÜÒ¤ìDÞ6°Ò°ž¤Ô1òæžEœ˜3ž7Þ8AÆ¬F3ÒšA¦ÚªÌæE04ª¬È+58ÔÂÐ0ì¨´òêFÎÂ¤ê¦È/Ø750ÄF6´ÐÊÄ¢D3ä°ÔäÖCFØ®¤ææÔ4Ešæ1ôâ´Üœ/B35ÂÆîž’Ž8ªÖ²š’àØ¤ªìE¢5èEŽ–Ô ÚCè´ªÞ9ì°9æÌÂ”–6äî²êB8ªE6Ö2žÞ7î®´/Ü°ªšÖž¬èî’®Ìæ²¦ /òÈÒ8´ìÜ0DD²¨9´â32–´A¤¬Â¢ä´4Æ9Òò”Ê7œ˜E0¨63/ž0’òêØ7ÊØ72´¦˜àÔÌ¨æÔê8Ô4šAŽAÔ˜ÔÒÚBòÆâ²1+¦žA²Êà/2ªÒ´ÚÆ0ÎÄÌ6èðâò¨ÈæDÄ´Bž²âœœ4äØèÆìäìÂ+Žð51žÔ˜èî¦63+F²–5Ž2œCD/Ê¬àØÖäÒª C9¬ÄîÜÄìDÞšÈÒ8È7ÞÚÊÄ66Â’¤òÎØ7ŽFE àEê0F0A ªŽ3Èìšî+È’æ7F/Ì’Ä5Ø5˜ð°9EØ¬ÂAÒ´9˜9˜ìò4äÐâ0ÎªäF2ÞÒ/+¨Æàè˜/Æ˜œ¬A´7ÖŽ¢´œî0ê®Ø”Ú¦š55ð4°ÖŽ¤ªœâ2î¢Ž/¬4¦Ü¬2¨Ð78Èæ1î8442°ÞØ®045ÜÐ5ò16žòÄ1Üô5ªÌÔîBš¬°œæ¨ÄÖÆÄ–î–ÊCªœè®4°ž0Ðê˜Ê+ôÒÐš¬’2žÂÚ¤ÈìÞŽ7Ü4Ö/´”8˜òDÊðÊÂÐò˜Ìš”+ /ä/E¢è6FÒòîðÎ1CœA8œ¬ÐØ/âEâ¬ÎEÊ®Ê²îFª/ò+7ªA8¢²6Ð”œ8FòÆæ+1ÐŽEžÔEAE´ÌBÜÞCØ9òÂÎE´9¦Æ°Úà 7”Â´®–ê/æ®3ÒØšÔÌ9Ž¬E®œFðä7²CÖªE˜´ÒFÌÎÒªÎ9/ðžæÜEÂÎ8Ä9 ÆE´Eä/ÒÐ3DÊ¨ìÞœ 7Bð´šÐÜÌÞDÂÈž3ÖàœAÌÜ5š ðä¢¦’¨šÂD6B/ÄÌ¦ÒÎ/œ¢ì9àô8àð´Þ¢äªìŽÂì®–2²îŽ67ð”¢3æÆ8ÜŽ6¨ä7âð4¬¢È6ÞFà°ÞÌ1ÞàœÊ¢Æ–F1Žš¤9œæšÌ/Ê”A¦2Ú/ð¨¤FŽô8¦CFBCæÂäæÊ´BäÖÒÆ¨æ¦’D¦œÚìÖÔAE´°Ô5D Öšð’¨9ÆÌ9î´Ò3žC˜¬ªšD®àš–ôôØ¤îðž–87æ èì¨ìàC¦ÂE®¦ðBôæàÜEò7°œÌ0Ì5Úž¦E”ÞòÆ’D/¬Ø ²òª50èÄî4î0´Èœ¦E6”A07Â8´0ÚªÄÖÞ°´E6˜F8èš585ìÈ²4œÈ/5ÞÌ5¢Dà5È’ÄôÞªàDÊê¦Cô4ÚÂ7–Ö696æÞ–4BÌ”DÖ399œ”FÞŽ°¨¤Ú9ŽòC+ª–´šDÄªªÚÊØª–èF¨Ì+š8BääÞÌô+7CœD159ªê/®Þ9ÖôŽB87ÐœâžÐ94â62ÄÌA8’ØÐš5Ä¬8ÂDž6Ô–BÂÎ˜–7ôàäš°°Öô®D17îžªÈ¦9Ò/®äE¤ž ’ìÞä¤6ÖêDØì6²È+C1®²Ä–9+1/ÂôÖ¤ž8/ì®˜¨¦È¦ÖìÌ5–îA4+œÄÚÒ®0¨ÔÖ–¤¤´ÄÄ îØª7ÞÒä”æ¦Æ94Ø®ØÊª°°ÄÖÖÜÖ¤–°°ÔCÞD86²1˜ÐŽ¢Üò˜´ô’’èÆ”ªŽŽàÖ âð04òÊ¤3Ð5¦ÄFª˜œÂBABÈ®Ì7šÜFØ¦ŽÎ°¦/Ø13ÚæŽèÈ99ò’C¦ØâÎâA1F˜°Êîæ°ê¤6ª®9F7ÆC–¢ÂèF56òÂ1Ú˜Ê’žÒÞ¦ð”¬¨9”ò¢¨Ö˜š9’9ÞÄÖA4Âà´˜îœîAÆ+Ü¤8ô¢æèØØà1¤4Ô¨’–Ð”1Òð¤Â32È4Ô3œž8äš6–E3æCèÆÜÂ9ÂFÞØDîÎ˜+/FÊÖÎEîÔš0ðòê˜îÊÔÔ76B–¤Ö¬’ðêÆÔš¢97²6¦ªŽôÔD èìä1Æ4æ/ìDòšCÎ6’FÌÐ®Ò°Ææ˜Øæ03êÊ¦/1œÜ˜Dä8àžîäðªî®ÎÌØœAîâ¬”ôCÄ487¬ìîî´¬ªÔAÒ3ŽA²ð5ê9Ä–à9EŽ®ðÚ²E´â’Ô¤°ô/æÂC¨êâ²Ž7F”ð/Ðª1ò²ðªF–4ªŽšACòèŽ7BB+æ1EAŽ¨9ÂÌò¢æ¨ØŽ4®˜ò4Þ6”Æ0Dè’æêôžì/æÜØÜCª2–âE2Îìš+ÊÔ²8ôô6¤¢ÊÔ”è Â/ÔœÊC¢¦°Ê+¨Úðî6š4žAÔ6¦¨¬¢æäâèÒÌäÆ+55Ä¬1Cæž/Ì9Cô°ÎâÂ8ØÌÔäžšAÊE’49Aä²È7šÄ1¬ÖÜÆìÖ4ŽØ¦ÈEÖì´ÈÌ31FÖCä87ê1BÈÔ3êÄ˜ÞØŽÊÖÌ93òê91´âìè¢¤œâšÌœ¬2ôA²˜Îòô7ØÖž4/®ð¤æ¢ÌB8Ì1”ääE¨¨’äàôÒÎ¤ØC”Â/6ÄÎ¤3ª´+/œäÞB+ÜÞ63Úà3ôàÎÄ9šÂ8š3BÆ° ÖäÐêÈªÂ’D°CÊÈE°ð¬îîÊÔž¦êâì7ØEâ–ðE2ŽÜ4â’9È®æ²–/’1òâÎ°481–Ž6ä¨ÄÄB2È˜²4Èð/ÖšFÞ¢Ò’à5ðêôC’ªÂêÔÈ7Ô/ÌÂŽèòÄ˜ÌÐ2Ô3+´´Ú4ØîÞDÆ®˜ž¢š0îÐ1à¤7¤¤6Ú9ÄîÊ’E1°+DÊª0ÈÈ®F0¦ª”Ì¦/14òCAà9B˜8à’ÎìÌîì48Fè¦èÔäš¬4Ò/+®êòê8àêÖÈCàÞ”œÞàîðÒ ”B8¤EÂä´šÎÚô®èÞÄê˜’¬–°®/–äî˜Î¦Ú¤2ðÈ°Ê¢à®”Ü 9ÂÌ˜¢ê¤šÊ/Ô1DFêèCê–î®ô03Î¤Ž¦/®äÄšò¦ÊŽ8ðÖŽÔ²–”òE°Ä ô¦ðô²Ž´/’+AC5ØèE1ÐEØ3ôÎœîÜÐÒì3œÊàÌ0AFÒDF5ê2Þ5Îæ¨4ÜÂ ¨ØÊÞÐâAF¦6¦35˜œ²´’Êôò+È®Ä¤æ/Âàà79Â5Âä¬16BÐ²ÔD2´èÖ°ÔCØŽ˜Ð ¦ÆÖžÊ4ÖâÐš œ¬6èŽðEŽ¢æÔ ÎžÈæð´â2æ/ÈFàÆ7¬œ255Ú¦ÖðªàèÞ1Ü²CCê²Cî/ÎÞšÐàðA6êA¬/0òä3œ¨2Ò5Î9¢9’šÌ’DêÂîè2œ8Ô4”1ÌìÊæôÈ’ î08ØÄÄ6Þê9òÌÆ¢âEÐäªÖÈÔ/ÊÌÐ/šêŽ’šæDŽ¦š¦”F6ò5Ì5äE¬”Ô0ŽEôÖD 15ØÆÆ +8ôDªêêÊâ/šŽèÈª9ôA” ð¢¨Â¬˜¦96èš¦2â¨ ¢ª9Îä9è9´žÞ¬Úâ––²26ÊÆ¬5’Þ3èÖCÈÖð47¨8CÈì–ÊÖÈ5œÈÂÔÔªD’èòÂ”A´È1+6+CÆÆC/¦7ÒŽ8ÎàÄšâ”ÖÆâœô¬ÞØÖòÈÒâBè2²9Ž48äÎ°ÆÎÖ´0¦8ò9èªÒÖDæž¦Eì˜È6//Ü 2ÞæA7ì¦9/Â¤+â’C°œ2ÆÈÐÞ¬°œ1Ô9BÚ3’2æ¬æÚ®8ôÐà/5– äðÊ˜¤¦1ÄæÌ9¦Ê/òÒô¤ÎðÚÒ35¢AàBÄÊÌ¨ðœ°Æ85¦Ê°œÎê5 AàAÜŽ¬æ–âª®ÔA²–6¤ÜÈª²ÊÚ9B¢E¤ ÔŽ¬–ÂÒèÔ07ÞØ”1+ž7ìÖâðð4AÐìABC4šÂò6àÌêÈ¦¨3EAÞ7Ú6È+ ÊæàªÔ˜B–ÒÎ Ö8´Ô5äàÄ¦B4Îœ5AB°˜’D–’°ØÚ5¤Ô2˜C’4+š ¢/ªÂÚ/Ò”ÜÚAÜìœ0˜7A9+ÊªÆª¢ØâÞîàÈ¤²ÔC¨ð3Càô49æ¨ÞîÎA´˜´DFDÖÔ¢ê¬C+°3äBÒ¨ÜòÎ´–ªÎÊÞ”ž¤ÐÔ¢Ì7´1Ð¬+ÔØìè”6´Ž7ðè¦æÐ1B7ÒE Ê1BæÎÒÖêÂÎÔŽDäšÂ8D0+41ò®Ü´4ÈCÒæ7¨Ê1ÜÎÚôÚš5¤ì¨´àäBÔ°ä’ÔC4ÞÚ°¤5ÜØÄ6A/î9ò/ðŽÎØ/DAêžÔÚ¨ŽAA/Â¤àš9šò1Æ2ô2ØìÖæ°6°Ú²9’Ð´Ô¤ŽÔ/Üªðôœ1ò²Ž8°D˜1à¤DA’¬´/è°9”ä5ä/¢®ð+à¢Þ70²ÒBÆÆò¢ð5DÜEÚ´Â”¤ÒæœÊBœÎ¢03¬Î09B/’ì–šª6¨èC+àØÈžìŽ®5Ä ÚÖ¨¨Ô/®ò’4567ØÚ–¨æðà/ðîAÚ´ªªž3¦AÈDèÂ¤Îš2˜7¦”07+”¨2¤Ø¦D3Ü85ðÈE6ÌÖ/ÞèA’ª¤šªîâ°7Ê5²¦ð6ÔÚÔ14ÂâèE +š´ÜF´´²¨EŽEòCFÚòî/EœÚ¤ ÞôÈ7”2ì2Bä/0æ3 à9ðÊò5/Ì²°ÞîžÆì¢––¬˜¦ÎÌB”ôäÐBÜÖÄÞF4œîÄôÂÂš8”E4š®ÎÆ7Ê˜EÒ00CÐì Ò–Ìœ3FÐ3è¬Ì®ÚØðêª+Bšô+ Ì0²šÂ43îÔê12¤Ü+¢ê4+Äêš/ž ä57B°¨”°òœžÊ2+êœÂÒ¢–ÂÔÈÐ’3Èò’ÒÂàÜ–¨Ž°Ž95è7šDìÜèä¬ÆÌàÂ2â3æØ+ æîBÊ4ôÆôÔÂ+4”ÒÒ¨˜ò+Ü¬+®9äÜš–ì¦î2ð+ð5²ô°–Ê2â®4”Øàš1ž AÈìêô¨6Øò8¨–7+Ž7Ü˜ÜØ¬îðîF94œ´¬Ø4Ô4œž8°ÖBÞò´ìòìÊ¤ÄÜ4C1+7ÞÊ9žÎBœB9–ì´12ÆÜ3¢Â¢135è+ÖÔÞ986ìŽÌÔØ7¬9FÊ¨ 3²ž®ÜBâÈE¬AFÜ+Ú ¦0à9+ÔÚÂDDÆA–0œÔ°¨1FÖ˜6Ô¦Ž®Fàð5Ì˜Þ”AÈê¢Ì+/3œîªD1Òð1ª–ôØÈ5®È¦E6ÈâFžì¨8˜äÌ¤´®âì1âð®œÊFªEä°BÂ’ÚD3šð¬ðAœÈ–ªÈà–¬ÜFšžBžäêè5Â¨’¢’Ä¨èÊAœè–² î7ìDê”²¬Ø33œB˜6’Þ44ÐÂCÚ®D¤CÌì5²æîœÄ¨šDèšèA9B¢Ø’˜7ØEDFâE Æ1Äª°/1ÞD0ŽÖÒÚ2Â9ÔÂ3ÆÔôò¤Äž’E Æ7 ¤4œ’Ò+ÎÜ2ÔÎEê–êèØð2Îð/˜F¢¦¦ÈÖÐ¦Æ38È71Èò®òØ˜¬ôÐ°ÒÜ®ÄÐÄ¬Þ4AÂ1ÔÐ+¬âÚî+¬EÈä1¦”®8˜6ÔôFÒ°ÔAÐ°ÖÒÒDØ14Ö7žÌ”ÊÚA2D®¦š¦âæ ªîžÄ9Ê ¦¤+®9–”¤Ö¢1Ðš¢ìÆàîÎE9êC´0ôFÈÔœC¤¬9E7EðèÒ²’¦DÂîî/Ð4/+”Èð¤Ò¢Þ 82œ”èž0˜F’Ì–œ²BÒ®4Ê¢²’èÒÄ5E ÒÚÒÔ4–žÔð¦–CÄEŽªÌE4”3è9Øª1ìÂ3è®89˜Ð+ÌÞÈÎôÔÎDä”®âÈÈCŽ¬ÂâÒ”3 CÂ5² ’EÔ˜²D6ì¬È¦ŽÖÒ ÐÄò´ÎC¢5¤ô¨¬8êð/Î¬ÚÎ5Þ05Âð®¤8š1°´’¦0¬3˜¤àÎÞÜÎÊê5AØ¦êÌîàÈÌÂ’Î¢ô®FEÌ+6ÖÊ¨ô®àE¢žìFBÜ0–œ0Ø2¤’5˜1ð03ŽÖ®BÜê1A/E˜Dè+5’Î¨+ ˜ŽæÖ¢”î3F˜Ê¨Æ²Ž²3äÈšª6°1EÚðÒ’àÐBÞÐÈÌ’8ÄœœÆî Æ–9òªÞ’ôôÒ–èž8DÚBäÚšB7æBâB˜ò¨ôŽâÒ˜îêê°ä¬œìÞÎ¦òÂÆ26Ê´+Ô/ â0’ìŽ0Äæê5’ÆBÞ0ÔòÜèòA”°š0+ÞÚ2ôòÚÊðÒØ²˜ê¬0ÂÔÌœ2B93ÜÊ¢²Ä5ÌÖ/5’F1¬”ìÒBàA”Ž°+šÄCæð4ABèä9Ü ’šð¦FE´¤¢šÔðœŽäðÄžÐ0è/ ’Ä//êA ÐšŽÒ5ä+1EÎÞ´œèà”Äì1 ¬ê4ÒìCD31Ô7/Ü2ìÎ˜à’œ921Ò˜ÆE5®8AšÞE¬Ü+/ì˜9šÐô¨´5AÆ¢6Æ°4–Ì5ž7–ðî+ÜEÖâÄ76 ØÜæ”Îô¤38äàÞòÈšØÖC6Â¨ÊÌÐæèEÐ5ô0š²ÚÄÔÎò+ÄÖàôä5ÐÆ²4¢ÐÂ¬AÎ8 ¦Ð9âÆ+Ê5ÄòÌô8îÌ67Âª8¬²0Ø¦Ð’²Ê7ÆÚ1®ÐÆ–´8ò8²âÎæž24ØE¬œ3àäC’Þ–’Òœ+’¤æ2CŽ”CÞì3êEÞ1¬ÜžÔÂ°œ8Ž/ðì¦/îFäÎFÔ˜ÊÄÎ+ôAÜ2ÂŽ99Bäè–ÞàîÒ4œ°Î9ž9Þ7ÄEêÈšâà¦Ê²¤²²ª/0°AÈÆ9DEÔF’°Ü¦ª+ôE2Ö7´ÞêžÔ²îÂ¨ä1Âè8F–´6Žì¢EÒ´ØšB°Øž8¬¨¢ž+à®î 4¤æ²ÊšäìàFÐ5´®’ŽŽª²9î7 š²¦ä¤6²Ð¦/Ú¦Ä°2’ÒÔì žŽªÌîØDØÔÎ0¢¨Ðò´Ú–Ì¬ÒžÜš7ÎÂ4ðœÄ˜¢44ÂÎ²/îÞÒâ¬1’¦´®´Ê–Ô6Þìð–òÚ´ÎœØàÔžž’Ôî¤˜ä+¦´ìC¨°7š/œœÂîŽîžEâîâðÐÒÒœ34Ú¦àÆÌÐªô°8â B ’3ž”šà°î/èFôÆêÄÈ8˜²Ö¦¦Î8ªôð–4ÒØ¦äÎ¢Cèæ+2Öžœ/BÄ2Ä1ìD4¦–æÂ2ÔÈª¦8ª¬È4+F² Þ9Ì¤ÌÚ²˜¤ÚÖ26+¦èC6æ14ðò´5æ°²Ð3êEš®¢ÂÔ˜3Øä5Ž¦°5æ®8Ô+ÒÊ˜7¨/Ö+¢ÎàA0¬Ò028ôîE9²äòðÆÜð”ÔÈ3®ÚD6šš¦E–Î¨ÄêäFÈô5Æ9+àÜ++ØèªÔÆÆÐ+Ä94D5˜ÖîÄæî8’¢5–¢5ÞèÌ ÖÔ64Ø0ìÆA”9CÐžæ’´°Ð¢”žBBÊ¬ŽÚì2Ö¨ÜêÚâÄE˜¦–AâAêòÌôä”ªòžšäìD9êÄìž²DÊÈD ŽàAò´5+/à˜+ î4ä5ª¦6ÆÄFAî¦°æ+Òà°´´Bî8²7Ì¤ðE’°àAÞìÜÌÒšÌ+’4D–ÐìðC²09¨žŽô¤¬ÂÔÆêÒÚ²Ðœ8¦92Ž2êèÜ´’âÊð0žžÞâØ6â A®91˜3ÜìæÂîÚ5Ž ÊÎœœÎ®¬Bâæô˜žì+˜0’è’B5’àAÞ”®âªäCÜ²ÐôÖ/ÞÎ˜æÈæðÂ´2E3âÚ0ðî¤ÄF9ª/+²¦î¨CŽ¨1”ìê”C ¢Ø0–°äÂðäàäÄF˜ªì´2¦Ì4ä²äÎÒ°ÒÆÂðòê´–´®7+È E2´ðìC²9à3”˜ÊÐ´ðÌ–Æ2¨ÐÔ’+¢®¬šÎî/9²ê²æ+¢ÆÈòÂ¬ÞCî8ÆîÒE”ÎÄ”Öò D–’ÞäA”A°¬+èìª2òA7E¦æÒ¦°ôæ¨1Dž4ÚÜ/òÒ¢3´êØÐðAì˜°65–7Ú¤–˜9Æ¢–ê˜¦¦DœBCšòD2Ž7â0¦è˜76´8¬Bèæ¤ÜòàÌ4ÚÊ¤Þâ90®4’4¬œ¬83¢Ä0ê–žÆèÔäªôÈÚ¨B4ÞC+Ì Ä4EØêìB ŽEð¨¤ìæ+àÖäŽð6D9ÎÂ°ž¦È®DÜ/¨Ì94®ä0ä+ä/®0 ô’²ìâÎÄBà8¦ä–8ÊŽòÆ3–AÂÊ–ìÎÐÂÊ6”ØâªBŽâÚ/È¨Ì9ŽÈä9Â¨/D”Ê¢ô/¨Bä0ŽÎªæ´0¦ä”2ðÜ²¢ÚšÆ8Òò1ìš3 ÔÒêÒ6ÂÚÆ10®Ž8–èææÒÒî4°7¢CC˜Eœ2Ø¤Dž¤4ŽÐªE8ê6àØÊ¨˜ÐàŽÂ8ÄôAÚšC+ 15/+Ø”Þ04Ü607+Æ3Îæ+Ô®Üèª8EÄð5œF9è²5ÂÌä//Ô¤ÞèîÊØ0+ÚðÒð2²ì¨î´4îðØ²´2Èô¢ÜÌšÌ86ôîðÄØÒªÎÐ/žð˜ÆàÌÚÌ/òÆ0¦è¨èEÄî0BÌ6Ò03BÚ6Âò¨EÒèàä/ÄÈ+Ò4æî”ÚÞšÈ4’Ò A¨Þ4ÚÞæê¬86525ÒÞÐ–0 ¤ÂCà4ðž9D®äDÜ¤ÚEè8ÈÂÔš +œÖê4Ê®ÂìÜâÚê°è3´¦’ÒÔŽ3Ð¦¬’²8F¦+¤žâD9Æ8ðÂ°îÂ6ÚC´Ôèæ6¢ìì1¤àCŽêà¤99–2òä/Æ/’2ÆîœòCÜî3B0B+ AA2¢äA¨0¬¤1–”–ªÎ’ ’î–8ØÒ®ÚèìÊàÐàÒ¦ì3Æª4Þ2ž®ÆB˜0AÒBÂÜ10F4Cðâ3âîFžBÐž¨´¦5¤´ÒòžìÈŽ’Þ’Ä²”/Ê²¢7î˜ÌÆ˜îDôD+FÂ°9ÎîFDžÖ´”î7òCèÈCBÐôÚ ¨Þ ô7Ì’œ®²ä°ê9 AÒ˜B+Ž7Eì¨¦¤´–¤Ä30Îêæ”Â3Dšâ¦DØ 1B9–´æDšÊ´òÌ”êÒèÞ¤BÎ¤ÂÚ¢ÌÆ+¨òêäA6²ÔBÊ2è¬EÄ˜2BžÔ’ôê¤¨Žœ”6CÊ4æð˜9ŽÎæØè5ÎæÔ3èè¢žâÒ¤Ä”4²š”àŽŽ1ê1ô3´Cêâ3ª´ÜÂ/ÖÜ¤ê0è6ÂðECè8C1ðEÎ’Cäš5¨®Ä8Ú0˜ÂÌØ2Eê5Þ5žEÄ¦ØªÜ74ÔÔÊ ž3ÞÒªêD6Žä´ê´2ÈòÐCÈô2FòÄ”òôìŽ+2®F3ÆâôšŽDŽÄš0¨ž2¤²1¦àêAäœì¬’3¢6¬Þ´æ¨ÜC/Ì°²ÊÞ8äÒ9/šÜ3ØîÄ5¤æÖ9ÊÒ²Ž2òâ¬˜žÊ24DÄà’è’Ö¬šÔ3¨Ž¬ð¦ÒžÞèôBÜª²®ä´9²Þ+DCž’È’Ø1DÄ®ôðAìÈAÚ+ÔÖ8ðÈÂêâÞÆ8DÊ4Ä¤žÊÚ+¦Â4È/®Øðà´’òÒ–2/Ò¨Âà¦ª98î¢/+”œÆ¤ò7´A4ì¬î”ÂÞä8Ú¦Ž+ÞÊ’ÔÒCšàÂ¬È1A¬¦–0ÖÊ˜+469àÊ°BÊ’Ú5/Üè¬°ØæCØòîòÈ¨ªÞÊ””/7î°¦ 5¦œô7Ø¨žC/ž´®8Ìê4EÚ/2ÔAŽšÊFè/Èœ¢¬ôÄ1Ü20˜¦ÒÒÒÎŽÈäÌÎ1ìÒCž–A¨1È1è°Ê164äEA¢Æ/ŽÐ7B˜Ü®Þ75îÚÄìÆÐ/ÈææÂŽ–6ä–8ðÎ®œ°5¦A826Î¨îÐDC+–¤´Øª°Ô¨FÈžÊ²9¦Ò03´ä8¦Ð/È¢DFäðª®Ö°ªäâîà¤¤òžAìÆò5ÂØ–F0ÊŽ¤ÚèÔî¬ž4æîÒ²¢’/àîæ¦ò7–3Dà²¨ª°2àêòä9ŽîÐÌ0ªEô¢âž°4ÊæÔèBÂÐªîª+¨’˜â46òî¦ÎäÚŽ¬îð0B8¦æFÜôì’3ÔÐèêôÊFž¨+´ÊÄŽš3–ò’²ôÐBîBôêÈÂÎ¦ÜÄÈð´žè6343–˜E2â9ÞŽ¦/àð¢9èæ ¤Ø’æÂBÊBÜêÈÂ/Î1¢Ä¨°Â3¦ÊÂœòØ” ¦+î¤B®Ì5Â®+êÐ05¨Ø˜50˜ÚÌÚš3AAE Ü°¤ÞÖÌÒ1ÊàÒ8–²F¢–ÚEäÚÜÎœìÔæê˜¨êÂ”–ª+ðâæª¦ +œ¨æÊFEà˜°8Ž4ÐÈDœFÔ°0/°Èòä–î7Æ²ª–”²²È¢EÔ2Ä´ÈCŽ6˜˜Ø1ÔÒ¤î¤”Ø¬òEÈ2êÞDÜ69è´995à¦D6Æ˜žÊèÒÌ4ò4šè9¬æ¦°ð®Ä–Üêê’Ì8ØæÞ1î0äÆÒäâ4¬4œÞE–6à6Èô²/Þ°Þ˜ ¬Bì ’ÜE”èâCªÈ°Â1BÆê®ä3Fæ02ª2ÂDBšÊDœÆ®ê+AšF4Ô¬ìCôì227Þ9ªâæðBD®ÎEÜê3Æ¨ô˜8EB–14Úô8æ2ìÚ¢¬Ú E´0AÌÆœÂ8Üœ7D5ÞªDC¢ÆôCB²Ü´–ÎÎð¬9EÜÐ4Þš˜î–6Ô´¦Þ¨/0à´âì59Þ´°ÚÎ4C9”äìÖ92BôîB¢79CÜ”3/˜¦–+ÆòšE7â¦ÂÈ®æÖÌEEÔÚ¦´šš5Ð¦9î Æ®Eì+ÈÆ3FFÆ´¢1DØŽæF/žªôÖšÂ Äª4°ìòÖ7â”1°+9ÄÈ645”¤7ôD4BðÂ°Ô’/ð9œÊ¨Ðì/šÒÜ+ÎÈ–ž’èè–1Ê/Bò¢¨²˜î¢ ¦Þ²¨Ö/Üš2¨Ö°ò’´ªÖÈàœÖÖ9¬ÔÜðôÂÖ˜0žÔÄÌE¨ÜA’Úä®Ö4²²”88àÄÒòŽÖ1/3Cäœì+Ò9œðDFÂÔBFœ¦Ô7¨81Ì0š5Âª–®F4¢CE¬9ÈÒÞÖÊòì5äÎ¢0ÞA8Âž4îæ¤ð”ÄÔ3BEÊàª ŽB´Ê²žè¢¬+âÒ5®6Ö äA2š7Ä71îì8¤¬äÂ¤î/¦Ž/´²ž/–”1/îèD C’ ªâÊ’Â/ÜØ025B7Ò®EÞD²´¤®ªÌšà7²ª+ôÐD¬ÚÜÖ¬37´Ú6ÖÜÔÂÖ¤ì¢73œ¢®Â”ÚÔ˜9 ¢è10ô¨Ð´F6 DÐ591è²¢Ò˜®´Cä˜ä°424ªØâEÄ® +ìæ²ä+C´8ìîÒÜ¢–œ5´/˜¤ÂÊÂÎBô6ÚF’²+Øæ˜ÔÒìžæìBÖ ²–3ªž¬–ôäÎ6¨š3â5¤Ú®2Þò¬®/žÖŽAªÐ8¤ÌŽ6ŽE¦ +Ð7ØÖÆâBÊ¢ì°1ò¦èš²’Ö/´´ÖØô¤¬ÎÂÆœ8FCª®Ò/E’°+àÐ58²¢¨®Bæôè61¬îÄªô60 Ž9Â°Cîê3Ðæ+ª6 œ3’ÎÜ˜è–/Î68ÜÂòEE11æÌÚ”ìš1”ô2¨Ê+Ô Ì’3+Îä5Ž1BØê˜9ž”+–E´ ÆÈô®²3èÔôœA1ÔC7/ªœÞ¨8Ø0ð5˜Ø7FØèä7ð8CÎè”ÂÖÊ ¤àBÜÄÐªÖ²Ö5æ30Ä4êCäØÖÜ2Ô˜²¤âÚ+3”®ÞÊ BœÐÚÐ´âš5®Ðò5æ/¢â’/š4E8ÒÎÞ5æ¨è âFB7¤ê8œŽÆ¨àBÖ+°–+Üè–ÔÎ4¨ÖÚî¦095šÂD+’ÜE˜Ä4Ä30ìŽò40Ð0°ÊâÈ°Ææžô4+6Æ7F´A¨Âô4˜ô°žÔÒ¦¦Ò9ÚÚ®œœÐÚæ2’ÐÚ¨¢ò1šØª¨ôÜšA´Ê–D3Â/îÆ+7žäÚÖÎ¬Ž´òð4Ì3BÂ/’0ì+´šB/C¢ÖC®äØä´ÎÆ2äAÒDð¬ä2E¨40œ¬Þ8îäîDæ¢Üòž¢4A°ð˜’êÈÚ´3Dô”æ0à/8æäÂðàÒÐAê54¬âè ˜¨àæF˜šB0ÔÊÜì3ðž4ìâÄÒœDÂ1ÈÔ9àØè’6/Ü¦œ˜6ì/70Æ7¬ÔÊŽ0î˜1BÎ¢’Î/ª¢òÌ’FÈæ82 Ð´04ðDðªè’–è+5/²3A2¢Êæ¨®ÄÐ¢®Ð¦–˜šò–F9êØœ°7Ž®FîÖ–ì1°ä9ÂEBòÊ9”–ìÌ´ÆÎÄðÎêè®Ä’ŽAÎîàF¨6êE9EäÆÖ’œDšð–Ð205Î®²¨šÒCD²EÌ¢BÐ¬¨Ô¢1ªDÎCÒ˜˜æ¦âò°îžìì3ÎØA+Ð°ÚÈ’ÂCÜÖÚà81ž8C¨Ú²ò4Þ¦ÎôîÔÌæª21Ìê¢4˜È¤¢ÊB²’F7–°’B’0ð°˜ÒªÊ¢’Eæª7ØÌ2èÐÔÂ˜à®ìôžœ8œ2ôš8¢4’Žì–ÌÂ²â1˜41Ö2¨œÎEBÐÚBD3Îòî0+Ž˜Bèì5 æÎÄî’ì9CÜÜ´+ °ÖèÆª+¢ìÐCAÄ1”’8Ä+1+Êà0ä5š3°Dž+Â3Ü ÄÖšÂ/+¤ðôž’È1ÖC°8òÎšFÜô1´2¦E6ìž´Þâ7æ˜Ø2àšÐÖ²æ0è¬8ÔÒ²C6Ì®’œ¨–èÈFÖ––ØÞÜ’¨®”ê4C¤ÖäÂÚ8763ÆE6²BÔ/Î5ÂC–+˜ÒÌîîâ¦®¢ÐèÔàî°BÜ²ÈðšÊÔ 4ìÆA¤ÚÖ®¢6/Â5šžÚ4Eà62¤ìêÄ Ò9š’âÞÎBÚÐCœ²Ö6œŽ¦ÖæDÈ47â7ŽÖ®ÄàÖ+èÊFžê¬˜èê–´C 5œÔ9Ôè¦î˜žÌ/DDÂäÄœ¬žÈð1šâ7ò¢šâêðD ¨ì37Ì9´Ä¢Äèœ°ŽÜšÆ9Èè 4˜Dô1²ò¤15æ°Èî´7î9E0ÚæÒÌØ0Cä´´’ØDÖ –1ªØª9´4¢œÂê6°®Î´6ä7BÄÞê–6ØBÞê+Þ¢ÐÂ¢¨¦ž˜Ú+ÚÖÔæœBääFBØ´ð®–šôÌÖŽ69è/5C”žÈ´–Ú6B¬E”ìÔÖ²Eò7²3ªŽ°èFÚœ0Ú5Øœ¢1ØÈÎ1ðšðÈæÚ¢ðª¬°–î”Aô¢9æâîC+²ÒêCòÆ –”¬F¦´/¤šD¤AAà´396ôC5Â¦êò’ÎÂšê¢Âš®Î2+A”ÌÐÜCšš–1Eæ¨ÊœÄÞ°/òÂžš¬šæ¦â8˜¬2Ä6ž+ä¨Ü4žÖ6ÊÐôÒÞ¬ª´¤°Ø 9êäDÖÄ®4AÖ4ä–Æš2®Ê®57/8AB²Ð´¦¢¨41èØ1FÚ˜¬²š®4èÒÞ°9D/¬E²5ò”Æ/àØ/â²àðÈ’CàÆ¨ž5+CâÊÔ®´3ôžŽªÈAÔàê°¤ä®AØ¢Ð¨Æ7¬äÒ5îÎ¬ÆDÐØšžÂ¦  °3¢Ö¢˜2¢F4+¬Fà8/Ê4äô²œ´A8+òÌ8FäîÒ²žÊŽ/Ô5œ8+æ 8ì”ÈÆô38à²ðàÊ Î8ÎØÎ3Úê®3ª4˜ÂÎFÄC–Ò1Ü”47È¢¢BšDEÚ1ò3¤– 7ž1ÈÈÊ°ìÒìÂèÜ/B3ÐÌªšE´¦²¤äêè–šæÞÈÖÊ8CÞÆ379¬ð1¢æÒ+²C°Ú¬2Ö”Öš˜3²BÔî/ÒŽAC3ªÜ”AÖÂ8ÜðÐÐèàÊæœF+žôØžB+šÊÒÐÈ5²Ê/ô3˜¢ÌêôÔ3âÐ¢ðž¨¢Ú¦D3ÞÆÔì²ž²¤EÔŽ˜Â0–ò/”BÂÎàFD–¦0ä/8ð/¨ÞÐàì+ÈÊ3A¢ô4Êèð’îä–ðØàÄ¨ÒAÔ˜24+ÞðA¢ä9îì²7Æê–94’Ò’êòA ¦ìæF˜°Òð3âîÚªÖÎAÂEæÌÜÜ ¬¦š7ìÜD0ÈEÌì6îÂô¦D2–˜Ô¨8œ65¢¦41ô˜ÈÔ°²è¦ÆÎêØ84ØÐEäÄ˜ªžD9ªB²°æ¬D06žÊ13ÎÎ/CÒ7Dà64ÚÆäÒè’žÔ4ÄÜò¨È1²ÔA3¬ êÈÔEð9  ’ð7ØÒÎŽ”œ ÎôÆÐ/8¢˜Ø¤ìòèÈž1ÆÜð’Ôò6AÄÞE’æ¤Ü”ÜÄŽÎìæ”Ö´²äÄæªæ°¬ â¬ÒÎD¦ÈŽšÂÈÖ9¢ÄÂ¬DÚÔôA–+¤0 œÄÆªÚâ¢œ3’Þ’¬Òðô0š/´1´Ô+B04Ì¤àðØÞ¬¢²˜’7²êÞ¬®îðAÌâ33ÂêF5BÈ9´òÄDòœ/²CìB¤4®¦5¬¤àÚ3Žð¬â¢777àÄØ00Bäô¦ž–Ž°¬¤ÎF8ÊÞÂÖÆ5DEÈæ7¨/ECE¨8Ô1ªê¬9šêè5˜1ÂF+5îÂäÚä BäîœÈBØC¨î82CÒ¬¨è°Êœè˜˜¨®Ø¢¢âìÐ6ž8Úä®/ÜC7Øîè5Ä²ð/77¨ÔBÔ¬ÈÚÄÆÄžÂB˜Ž¤¤èÔŽÂ8ÜäÌÊšÞ5Î¤àÜ¬Ìòð˜ÊF8žœAÄÖœ2´”¦7âÊ´Žœ®4ô´+Ò¦Eà¦B˜˜ÖÔ˜Î9ÎŽ8Ì4ÂÎ²7æî”97ÖÐ8/®ð6D¨òFŽ”è6ÄŽAÒê9žÒò1BB4–3æÐ03ì5AE¬ÌªÜô¢âÆœæÔÐ”’ ’ìž/Ê”8741ÔÂÂ18àÜâ˜ðâ´ÞÜªD031Ø’5Îæ0BEÖêBô3êØA7¨3 4ªäÚâÔ˜ª95°D8æ®ÌÈÒªôèBêÈ¨ò–8ÈÒ¤Ü¢òD´°Ðìè’òÄÆšæÖèA82Ð¢¤904’Ô˜5Ž+E0ABæÎÖÒÐœðÌÎœÒèêØ+7ì3ÌBÌÚ¦ÌÂ¤5È4°¦Ä°ÔôÎò0ÔâÂêž¬à˜žÖ¢¢ª9ì¦0îÌ´Bò1òìÒ ÎœEà–¨Ú2ª¢6F1æ²+Ê/ÔD”ì6Ž6BšæAÖÂÐ´ÆÔ/1ôôÊ71’žâÆF²FàäDÄÐô¦Ž²668Â3ŽE´DD6âDî5Bðè²ì¢Üª´ Ž737F69ÔÌÈì8æ+’C²’ÔìðèÒÄDØ–AÊ¨9ê6òš¬ÞDÔòôîÖžÈÄ3Ðôæ°Ø¢æ7ŽEAÖ¢Ä´èž¢Bô4ÊF5Þà4ÆÐF6èìäÈœðô¤œ®Ü/7Ú9F´ÈÞ–²¦¤9˜æ5EÞ8âÜÎ/¬ìðÔà’6D2Ž1®¢23¤+6¤Ò1æà6E¦ÜF˜BœÖôDØAÖž1°0âŽÐÎE3êÊ6ä®Î°²ÎîÖ´ÂB¬–6°F®êàØ¨A6ÐÐÒÒÆD8´žèâÖ¨ÌÞ70²Â˜Öâ/Øì1´ò6+òÆ¬ÈÖô¬˜Þ1ÆF+ÈÂª®E6ð˜0žìÔ CB–909äâîF¨7˜È¦ò0´+Ò®ò/0ð8´äCCÈî /9àÞ®1ìÖà’7 ä¦6Þ”®Ž–äèÊ–49²6ÒCÖFDÂ¦Ê/F¦ŽêF”091Ê0ÎÜÆ7ò4ŽÔÈð2˜Üì Î+ô¬°ì˜/œAìÂÔÚÂæAÔA9œÔ¢0è¦¨1ÊŽ¢¢î7Ì’FÐBC 6¨Ø²2/–’ÎÌâ¦°5¢Êð/¬EÖBBÜÐ2òÄªôÆ¤Ì88Ä¢4ð¦¬/¢A¤3Öè3œÂ¬ª¬4˜¨® 9žB2ÌÔÔæ9ÊA+DØF7AÖ0àBÊ°1–56¬5ÌœDœŽ0–EC¨îîæÎè4B6Ü2Ú5žÂAAÊìªFØ–BÎ29šâ8òâžBà¬+¢àÜ+Ú48¬°Æ5òâìÆÄÊæà˜ìÈ5¬ÖÈ’7ª´ÒC âAÞ5ª´4âA9â˜ØÎªÎ´ž¦îÆÜ’¤1˜Ú˜5ê8’¬ªÊEÎÜ¬ÚEÈÞÄ°ÄœBÜ¨ÔªðÔÚ²ÜðD+Ôô¢äB®Ö¬² ž9°ÜÎFÔ–1”D6”Èè¤Ê7Ø/žÂ5Eæì¢Úäêôô¨–è”4¦Ä Öä’3–3èžò2+ØÞØ–´/8ìÈCÎÈœôœà/ÈAAÞôÆA´²1Ô/2–°Üæ9ÔÌC3œÎ¬CÖÖÒÔÚ¨ÖÒœ´ÎæÌCÞîÔôÖBÄŽ+7¢žª1ØÊè 9Ú®ôÐÐ®7/ÄØ9Èî¢äÌ/œ DÐà4´/œÂ ÜDÐ´ŽÖ3ä0Æ6Ö6ªÆ˜ B´Îä¤ê39A5ð¢¢æ¢3ØFàDÄÆð0¬ìÄB0Ð9àè6A¤B°Fª0ôÞäŽ6Æœê¨âàîE˜7B4ðô’B /äÆîœ®¢6A074’ÖAâìÆœèêÞÞ¬4îè32šŽ°Ä9ÈŽBÔÒ7ÈªôâŽÆîÈ0F¨5/B4Âæ”è¬¨¦8Òê4+â´˜4Cô1¢êîêèò7Aªìš¬ÄœŽÎ3’ì/9ÊÖÄÄ4œÖÒšæBE¤˜¤´BCìÈFÈ°æêš˜ðÌ²5Â¨ªØô31+DÞ®˜FÒ40Äì šð8šæ®èÞÂ09Ê´êâô9äšÄ®Î0F660ªî6ÚÎE–EEÐæÌÖÜ¨1ìØÞîšÐÆ+à’ÈðÔ48¬œ17¦äCÒà/¨ÆD2àAÐžÞ–BÊBÂ5”6ž0¨3’5Ì5’ô´76ô”ÂÚ1Ž9ää–EÂBÚÂ8œ/Êœ®ÆÊÆ9E²¬ªÊ’äÜô’ìàA–3¦æAê–0ØèF¨²ÖEDš²6 Ú6Ðžê¢ÄæžÚ0¤àð66E°”Bâà¢EÞ¦®”ÄÌÒžB’D¦2¤¤5/² ÎÈäÂ ¦Ø²BE’ÒœÂò7è5+7ôØàêØ’îà/”˜´ÈDî”ä¢¦”’”–šØ44ÌAàCØ+Ž´¤¤Âžðîì²î´à²â82”C7F8¢–’A’FÜ°ÈÄÎ8FØæ¬ªôF¨æ®1FÌCÆÊèðÎ®ÊF´žŽ¨Eæî°DC/4¬CÊÖ19B¨àEâÌ1¤EDD–Ø ªÖÚE4Ú–È10Ò”àî°CÐÂ²ÖÈÐEÄÂôœ01ô92¬ÆBÄâêð6ô¬ì7Äæš°F/èð¬84ÔªŽ9ÂAšæB2ôôšÐÔ´ô²E92ØE6œAÈ¦ÚÔ3ìÖØ3ÒÂÈÊÒÈ4ÒªèÎEÎ0ØÈCäÄÎ¢ê´Â0ÒœìôÜ”ÆÒ¬¤´ÞêÐE5˜ÐÊAœœ–+’ÔæòÒAªÞžª–°Â4®+”–¤4 ìŽÒ+î+²1ÖÐAÚÔîDÞ¤ÞÂC1š F°’/Ø80š–9¬F3èò7ÄBF˜96D®Øâ´è²ŽÞ+–È®¤Þ¤9’ªÒèÊDÚ’®äÔò˜FÌÂè¤Žâ¦8´D¤Þ6àÊBŽî´F2/Fôæ9®Äœ’¦ÞFŽ®¨®ÚÔæBE¦ªäÖ1È²AÂÞ–ê0–6²°ÆØæÔAò¦129D4ÞÈDèž+BŽäBBÆ09¬A6ÔÔ0²ÈÒð+´¬ÒÖòœð²BšÈØà¦˜6B”8æ7˜–°œ8î+5Þ¨BÎô˜êÂ¦âžC®Ø6ªÊÈ4 D–îœÞòžŽ´ÈÒðžŽÚEôà ÚF¢FAÊ8ÌÊèÒÞ4 ÈÌ¬œÖÊC33ªÐÈÎšAÒFC2/¨ê7êè6Ú®ì¦ÔÈØâ7F4¦Ì¦6¢9¤ž¢¦4¦–ÞêE+ìÌ˜òÚ/´òææ+Þ/Ü–¬Æ7¤–ÆÈÖ”Ð70+’ð²¦è5ŽÐBêª1F¦Î/æBÈ5Æ”¤š9 òèÆ7žÞØÒèòØ1ÒœCôÆ¢äÚìDàF¤4°¬7¨’FÒÎÌì/2âì9ÌÂ55Ú¦9ÚÂCŽà˜CŽðžêÖ¦1Ä¦šÔ¬Ðœæ+F/3ŽäêAŽ5ÌðEÚ8Ä¤16+¨8Äæ´C Â¢Ü/3ò5Ê¬–ªÊÄ¬¬æ¦CBAªÔÒÆÊA Ìê’”F¨ÖÊ¤D1 4â˜C0F1°F’ADÚìÒÖäÒ¨Æ6Æ’¦ÆêF¢ÒÎšÐê4ÞÈ2ôBF’9œ¢D 6îä¬ÜÞ´Â2¤4à–àCÐêÐ–¢âè14Aò¬–A ¦ž/+Êâð¦¤ÞâªÚÎ3¦¦7Ž Î4BèÔ¢êÊÈÆDÈêªðäDÂÜšðŽì+3AÖž ô1Ì”ŽÒÎ6BšÎÊÂ®®ÚÐA1˜æž1Ú¬ž8ŽØè5¦CÖžò°Dâî1â+´BÔž504’ÎÈ¤– È®3œèÆ9ÂA0/ìšÂ CÊÆCÈ4´®Þ¤’A°A6´ÈÂðÈ Þž°ôò¢C3¤770ÜÂ/¤Dä¨ÐÆ6îœÒ2¬Ø®–Þ è¤Ð4ììÔ¦¨ðª–DØšÞ®ê9ÊÒ¢ž´œä–AA¦A°7Þ¦¢’âœ²¨7´6ä3ð²BÌ6F4”šDòž˜ÞÒì9’7¤¬BÚ6A–ª/9”5”ÈŽœÆ ¦è–ÎF+Ü’¦–5È¤Ò1ÆÄÌ¤6D4š°ð2ÈÄØæÐì¤AD°ÜA–¢êæ®ê®´6ªìè¨¦77žìÜ954C2êÂ°–ðÜªðà/9ê+ØžÖŽÞœð+ªÞ¨¨2F/2Ê®8æÒÈÆØÜC¢¬â177ÂàD5´A4Ô++B4ÌÎ˜®27´¬ê4B0Ê”ØÔÚªæž2êÊDäABÌ1šêò´ªAêÈð®9æÄ®ð¬’ÈèE7B7–äÈ5Fè5È89È41¬9¨DÌEäCªä0ì¬AÄ2¨¨Ž/0š²FÂš˜¦ÔÊÈ´ì4¨8–ôÚEÄ’¤¦+ðä’®94òäÌD´ä®ÐA2Ì1ôÈª°8È ØÌò žœ®Ìò²1šÖê²˜4ÒÖ¨ÜDò’òD¤+˜â¦1–àØ œìž’èÚ¦Æ²5®èšÔÖBîÒÌA8ŽÖèÔ8¢Ôð’Ž®ÒCBæÞìàšäÄ13C” ÌFÄô+¢ª4Î²Øš1œÊì 2ÐšÊÌ¤ä6/Þ´Ìô8òôêÄFò5 –îÈ614F¢°êØ3ÔÒ°ô0¬êðD°²î2àFEæ´àÆ¦ÜêÐæD´/3ÎÆð8˜žìCDèšœ5ÂèîòŽ4¤Â®Þ¢¬’ Êž88Ü4œ–7Þ¤FÖ®È/+24ØôòÊ7Ò6˜²èEâîDîÔÎÚâÈ/ð²4Eòè7˜àä8FâÔA àÊÎ®âDB2´Ð°²äôÊ0ê1ØÜFÊ1ªÒ0ÊÄA–Ê˜àæ®ÈÐ²D¤¬¨ä”FÈ48æAà1¤6AêE4œ/ œ8Ì5®ÞÆAÚ¬æÂ®œAÂ¨F²ž¨ä24ÖîªÄìÂ¦ÎDò6ÖÊ¦è8¨7”ªìÞî–žêÞè3ª°ØÌ2’52Þô0® ìÒêÎ®ŽÜ´3¦¦Æ¤ìÆ¢˜ð´+°îîâ/ØðÔ/”4ÄÔôÆŽ¬â6CD5Ú91²FŽì7ÆB˜Ø4Ê7”Ú–˜ÐÒœª´AæE´’ÐÖÌì2¬ÂÂðÂðšDàÎÒA¬D¦Î®D¬5žÎôÜš¤ØŽìêšBª4ä5ØžäÖ¨0°EFFšš7B¢5ªèÂ¢òì ´FÒä¬ŽÌ23¢Ä¦+91–¬î2¬Î7¦ª¬¤ž®ÞCä¨9²èðŽð¤äŽÌâò5ê¬DêD”7’´ÊÔŽôÚÄÞEBô¢Ä¬¬8ìÄª/ÌœÐä¢è®F2žÎ6Ô6DÖA¦ÔÄÂB8°–ÆÐÈ77ìî9äÖžÈ¢àÞŽ”Þ2Þê5CªðèB5B¤7Ê¤¦Øô¬ÞÊšÜâÜœðÜ8¦ÞØò865Ô°7îâ2EìEððäžîàÐÈ37Äò’äî8 50´ÂÂðÈ4È¬+Ü2àæA¨ÒBŽÔòÔšè¢ê¤ÆC8ÚB´Eêð°Æ13àØ4°Žì–F /š98”È¤²0ÖÚÜ9ÜÞ¤/+3ÐÌèœœBA6ÊðÂ3BŽÄž²ÖôôäðÊØÐžÒC3î¬È+6Ü/¢B¬ô’òØäòê¢ê9 æ2¢ôÒ¦ªC´ÄàÜîÈ9ÔC–â”Eêêê+4¤ 2äE ¬Öä¦´8¨äàB²B´´²CìE6¤œ²FÒ²Âò/ÎÈê¬A–’06¦/ABÞ¬Ôª¤Ð”¤0ôDÎ˜5+4 šFàØ¦ÈäÒðÎÌ¦äÂ8˜3Ô²’/æØêð4èÎ–4˜E1ÐFì¦¨®3˜3®ØŽ’ªæABC7E¤¬Ðž 1¬7â°è7/ ¨¬6E¨Dô²ÊàFœââ˜7Dœ5ðEŽÈô¢œæ0ÌÊ0ØÄªÞ®æ¨âðDDîðÖ1®Ø¢”êè´ä¦ê6ž ââ¢²î’ÈäÂœÆÂ–FîÖ0’BðÈªœ84˜6Ê˜A3ÈA/FÜÂÒàBÖÐ7¨D’ª¦2+àš°Ô6äÄàBC9æô ÖÒE²–°ÞžÊ5¦¤Î9+žØ0¨šâ5ôD7¤äÌ+î–DÈâC¦¢´/ä˜1¤ê6E¨®Ô²D8²9EŽ¦5ð°ò²¨ôÞE²âÂªØÖÎ²6ÔÆFðêÜ’¨˜˜à˜8î2/šÒž/šEèÎC4¦+Ð+”Až¤FÐC1¬°ð¨3æ5ä¨ð¤æ’Æ¨”7ôÞÖ¬æôÎ21E3Ø2¤68¢ÎŽ6ÚêB˜ÒÆèAâÐÔ’¬ŽÜ ÌÊž39Ê²æA²ÆD”FâòØ+˜–š9ÊÖôF¬CîæÒ°Æê73òÂ²E”˜Î5ð8ÂÎÆÔœF/´îð56F/´3D5+¨AØ6Ö°¦æ˜¤Øš´/ªÔ˜¦°’Òðè”ÂªÞôê”Ü¨8Òò¢C®50’ä4F5¨9˜E3®ê2²¤ÂAÈ°9Dœò”5FÂD¦2”8Î Ô°àäÚìÈªÎ²ð–°CîÜâÌ¬ôÄšÆ87Ò1Ìì¤´ÆAÂ°òE+ÐÂ²7ì ÈÖ’ÂDÈà3ðCBØ–ÄšFÜ¢FÈª˜7C’–Þ7ÂôàÞÈ7Ä3žEÎÜ164°¦CÄ¦ÚêÆ0èÔAèèîîìÈ6´3îòòF81´Æ®Ì²Ä7”ÄDÞFÞèŽ¤Ú˜¦4ÊÊ1ÌÄžÈ384 0Ø+EìòâÔâò’ä°ÖêÖ¨/® ˜¦8Ê”ÆÎðÂèÄÜÞÊê7ÒÆô3ð´èFæâ²3ÂÒš¦˜êš²”ÎÚÖ–”CÒÈâ”žîâB+òÚ19è¦58¨Ö®¢Ò¦Ìè1CÊŽ1+æ’ÌEÈâª5¢ž¦”¬2â®èê/ÊžÚÊž’ØÆäì7ÌÖÎ06°+CÒð6ÈâäÞœòšÂ˜® ¢/êÖÌ–2”Ê9ŽÖ9ô/¤Î¤¬ªÈÄ03´òê6’Þ/¢â´/¢BŽ–/àª”/æ3933èÐœ0+ÜèäèÜ¤òðêÂ1ìÊ˜âÊàEÔÂÌ¢êÈØÎàèä+ž88+œò0 ¢ÖÖô¦è1´Ü Î°¬¬+œô3ÞÜêìêÂî–ÔŽ¢¤DCÄF5ô’Ì13EÄªèì”âÖÔ86ÜE®¬Üž5à¨1 ’Ò9Ô1AÜØš8¦˜7ÄÊªA1äêAÞDô1œâªC¦ä²BFôÒÌ¢¤Î027CEªšœäè¦Ò7œÖ0®ACèÈ´ŽäÞœÌÔC˜ØŽ5Ô®²Ð²ª 6à9žàÜ6Öî¤®”Â7ê¢Â¢îÎÈ¤Ú¬5®’¤èð5EÐ®A’¤Ò¤ì¢´Öì1Î7964²Aîòâ9B êÖê ¦ÐòØÞÞÆ¬D2²°ÐAF¤êÖ¬ô/Â¦FEÌèÜ¢â´’Â’´¨äìäÆCÄ°Ð¨ì°®3æ7ðâ4äàÜ7+èÒîÎ´1ò9œò¦œªØŽ91ôŽEìÒFÈ7®Üì–¢š¤¬ÔÚ0àBÒÎ74CÌ0¤ÎÊE°Ê¤êF3¤î9–œÜ 2 Ü4AÚ²8ð°¢âÎ¦23ÔÚ–²Â8˜CC8ªôŽ¬ìÞì0œÚBÔ°äœ9œÈ86Òôæž¨ÄÞÆ–šðÒÒ+ÄÊ®ÈÎŽÒÜðB8ì16B¤î1äFÔ9ô9¦¦ò¢²î5Æ2¦æ¬¢Ìê’¢è”Üª5¦ÒŽ´šDôEÆÄBò’Ä2Æ’Ðì¬Æà¢FÞÄ2¤ôô/B+¢àðèÚ¨è¢òîªDš°4¨D´ÞÖê0¦7’ÈŽ1/˜òÜÂ9¨BžÔªôÎ7˜Ú´˜Î²EÂèê´C˜2–02ÞBF²¢ªŽÌÎÌ9ÈÌ”/”’FØÐòêÔ7Æ®A¨0ê+Aš E¦°ô5ÌòêÆê®Ü¨¬ÐA˜0êš”ðð EADìÄ¢06²F3Ðê®îÖ3¦ž+¨ÄÄî®8²D°+ÆœêÞØªÈ5¬œØ¢â Ê7¦”/ÞŽôæ/ÚÈ2ž®05ôêÆ3Ò¦F²¤äØ/¤´Î3+Ò®¬++èäÒ¨Ò²DÄ+´’Öæ’Â°Üè669B–+òî˜8îäÆ¢7˜Ž®¬šÒEì+A2žâ7ÈØ/Øœ¨5Øô2EèÄE4ž˜AàÄÐÎÄ18¤àA°Î/ È4+Aš’ÎÄž¦š6šêCêîBB´¨¦0ÊDæèÌ6+à’Ò1äæDEèÖ2AÈòÜŽ8âBÔ+2A+4Î”FèÆæ²ÄBÈ°ÄÞ7œ’0¬ôC9EžØ00Ä+²5œ84Î+¢2¢à˜Î836Òæ”ÖD/žžØ°3²ôž0ÚžÚÂÆ9²¦’Èðœ²Üœ +F8 Ò9ª²ôà ¢Âœ64ÌÂ°ÒìA¨æªÆ®Ì¤ ÒŽ¦æÌ”–8Ò2Ø8ðšòŽÖBò9+ò´œÐ¦â1/9Ž2Æ¤®–/ì68 æÔœ0B5Ú°ò¢”è¨¢êÄBÔ˜–Ø¤Ú8BšFÌôEÆæD0à+êÐ9òÜÎÞìD®ÖÄì64¦ÈÄœ/4FÂàè3Î1Ê’ææØ+âÖ8E¢6æ˜èê®æðîÖêÆ60òÂî’œ+9˜Ø¢¦5à®BDD¦˜ð6+îšœÒ3Ü°œžÐDªàâàŽÎî¤ÎàÎÆÔš¦ÖÄä¬+ÄÐ®è¨ÄÐÂ4¦êF¬AE0F¢Aðž°ÔÎÄ´E–8Ò94Ž¨¬¢¤Òâ6´ÆÄîŽØ˜ª8äÈ/¦¨Ôî3´²ÞÒ²76°²F/ÞÊ+¨šîÒª˜¨BÊœ47®èä+ÂÄÎÆêŽ+1²D1Eô äØÄèÚì+8°´ ÚB6B’æ¬Ø’ 9ÐAª+âAÒîÒÌÄ0žæÆ¬ŽâôèÈÞDÈ/àDª8Ì35šè¨1Ž9°9°E”0òð0²œê°Ø7–ªÖ3Þ1+˜²6’äÊÌÔ6¨ì9®â®žBÖ²ÞÚêŽœÒÎÜÎÖD¤ÖŽA¬®²š+ÄFô30B–Æ²²Ž¦EÜÐÒê52¬’+/C4Ð¢¬ÂÒžAÎBä°0D4Î–Ê¢¦ªè25E0žŽ”ì4AÂÜ”9EÒ2Ê1¨ð/–ò¨ìÂžäC7à¤ÐÐäDâ’–Ö9Ü9ÔœŽ¨¤È¬æ˜–AÄŽæ¨ÎêE8”ØÊ+¢A²œ¢ÒžäÎàèF–Žê¦ä0AêÞÄ Èôž0ÐÔÜC2–F4žÞ05ì1 ÔBâEò¬¬žÔšB75Ö7ôÆ˜C95/Èòä–ª–Ô0¬ì°2âÊ6êªÔæê3äèÆÈ/´Úäžà¦Ä´¤ìC12”²Ð87ÂªÐD–2°Òžœ´6òA´A²ô5´ÄE°ŽÂ®BŽ3îä–/ÈêîÖÈôÈ¬56’æîDŽÈè+Î–æD¤òê¬æœFâŽ¦èÒ¢3òE–ÚÞ®ª2ð3E4Ä9ì²æ¤Î/50ìÔ5¬”²ÚÚÔœÊÐœ’´BÞAòÆ2îÊ+È’ÎšÞôîžÆDÔF’òò¬Î–œÎî67’ììDš9’Ü’ò¤¬¬êØ9šôÖ4Ø1ÒâÖF’¨ÆAÌð¬2˜ª²2Æ3”8ôžèC˜ÖÚ¤6®ŽÊÖCÖ˜F¦è+Ä25Ü°Ú2Þ1F/7˜ô´®A+Žò²òE8´9°¬–0žòÄ7”C10ŽÖž’šÔðÔ43®Ú4ÐFÚ”FžDÔÊ6Ò2Äœî ÄšÊš´2ÄôìCŽD˜ÎÒ0œÞ¢ žÆìÞFCCA4ÒÎ DØ’6”¢æœš3ÚÚô3êœ²FÔBä CÚ¤Î°ž8èòÈœÚ0šÌ9òŽè6ôÐ42¢¤ÚìAÄ86°´Ê41ÄžžÈ¬°´œDšîÜEÖ3à’òÒBÎ¨ôì¬Dœªì7+¦ÊÆÞžÚàÈà¨ôB1Î”à3Žž6Ä3°Ôª/Â10¤7²Î85®51ì¤ÐÊæ®BÞîAªÐ˜ô°ÚÖÎîBäîš12BÊ˜AÖ¤¦´´5C’4¦ì¤èœ´CôØàCâà2C+æì¢3î¨èA5–â2Ø/D54Ž5Â–¦1âB°´6BDô6’â1Ž¤´Ø46â®”+1¢Ô¤¦´9â´¬šÈš3æè54Aä¬¢¨1Êòæ8ŽîèAèää¬°ð°ÈÔ+ÂE+4DÄš9æ1èÎ°9ÔEàÜ8ÒâšFB š1âòÌ9–BÆžæîŽ0DÎA DÜ+Ò°šÊàFE1Ð/73D´à3â¬°B´²Þì+ ÜâFFÂª¢îàŽêBæ¦5Ô´0Ž/Ê´®Âà¢ìÚ´/ò¬Ö03®šÈÊÌ®ØÐÖîB® â¨ŽØ¦ÄÖAÒ˜Ò+ÞäB5²š/¦âØÆÖ0–DÖî Ì’17ØÎ3ò’1¦¦7˜°E’ÞÌ4Â’ò¬°72¨Úà²”èÎÔ°²ØÊäC94BÞ9Ä0ÜÜÊ3+® ª²šÈôž05ÚÎÚ°6Ü”¢Eì˜¤òô+”3ÄB¨²ò¤/²¬¨5êÎðÒ9Dš°E9¨žäFÊÚì1EšÚ2Þ8´ÆâØªä7¦œ2âêô23ŽÆêàØ®ÐÖ°îBØ2Æ2AFØ–ìâÄ¨””âÜà¦5D3æ ”ÊêâÐôD6BœÄÆÒ1ÚÊîâä3ÖÊ”ªêCC3ÞìÈ –ªš´ªä2âÎ158´Dî0šÞÞ+5Ž®¬Ê˜œ¦7Eî˜¢æìÎì/3ò®Ô®®®¦ÌÖ9ÊØÂæî¦¬9Ú®Ì¤1’4Ž’šAžòà7œC¤4¢ìæìÔÞÌÆ¨°âA®+ÌæÜ®èÌÜÆ9ÞšâêÄôè/Êê Ü2ÂÖîEòÄ¨œÈ/Þ7æôÖÒ’6ÌžF+È´˜ž0ÄØ/Ö+Òô¬AF´¤òÖ°ââEFê0+˜È˜ ÂØ0´¤6ð’šÈ¨8Úà¢ÄæÖœ”8ŽÐ°ÖÔ˜¨ÊêD¨DAÊE²Æ–ÐðD/ò5”Ü/ê+¦F5F3´ÄÔÎAÌC/Fš¨8æCÈäœ04®BÌ+ ”FðÐÄÚªœ®®ôšÞ ´ð1 æ®šÚÎž+1Ø¨âìâ9ŽBÖ˜ÖÖÊæêìÂÎÜ®4Ìª–ìC5¬Î0Â+8æàÞCÎØôîÒ²ª²â7®468’1¦¨D9 æ9šA2ò–8Eœ+ ¢7à¦¤2”7D7Ðì+²BÌ+ª’èC”3”Ø8Bêæ5++BÖè4E’È–/šî°¬´îšÖŽ8ò´9´4¬6âŽ//ÌE¬C/ÞìÄ®Öª7”ÚBÎÊª8+¬®àžðäÊèÈÊ+”ä”Ü¦4èìò5òä7ÒÌÐòB®68èÐ²®ÐªÎðâÌÖØ îÆ¬Úò2ÔEÐ ÄBÔ¬/A’ÞšEæC¦ÄDÂäî¤ê˜EÒàÚÄ²äÊ4ÄCØÄæ–Ð–àèEªÈ²ª¦šÐ1î°¤Bªžšð’67ÚÎä¨î+DÞêèð˜²Cš¦DFACÜœÚìâèDèÂB°Þæ”Bœ˜šÐÒ3ìBê4Æ˜+°2®–æèÒØ02ê¬/ÂÐ/ä2¦ÔØ°ÖÈ’ÚîâòC˜/Â®ÜD83¨ÌªÄòÖ/ª4+œÎâ1°C²Ô6FìÔÊ È5’æ¦ôäC’˜œÄ+âØ–2”E²ª¨ê’ÒÎ”°Ô+/è3BÞ²+È+E¬9”¢ÌªÌòàÎ5ŽÔÆ®²ò¢æÊ¦ ðÔ²Ü5++CFÖ’DÆèšÄ¬D0ÖæÈØÜÎÊÊÄšîâêŽÞ–ÔòÖ°2¢B6¤ìîòÆ3ÚÖ8òÎ9ØC®˜¤ªC˜æš¨–®¦ØÈ–ô¤žäªð0/BF1Ä®ÌÞ8¦´”Æ®Üê˜ð4žÄ6ðÞÊÄ¢ä”6®–FžœD6+ABâ5êðæ7”Ì´ä93ÄâÄ+êŽš´¦+˜î6Žâ¬Dà¢âÞîâ®0È²E0ŽÈæ–ÌÊCCÞòê24¨ÎC0˜âÚ°²òäEÄ¦D2¤ÜF83Ú+¢35E Ž6Â8¨îÜ¬ì®Îêô¢ŽÎ+8 œ8èœÎðäD¬¤ð+ÚÎÖ¢2’œœÎÄD˜®àÔ˜5”ô+äì2žB8”Ê0ò 93ÔÔ9 ¢Ò˜¦6ô88˜î8´¨5/àÊFŽ–°ÜÜÌA8+Ò3œðØÔ°84’Ö˜–DžÌò²òî5ÎàÊ94ÔææÐÄàäžÎð4ÈÐ˜¨ÆÐšØì°²Ü’Ð’žª7A69È¦F/¦È¦Üìœ3Dèè®æÊEð–®ª°ššôðšÈÞ0¤ÖÂ6ÈÈ®”89Eô¤ðÒÒ80”âà5Î¨Ô2¢˜5ì4ÒAò¨ä¬äÆÄØ/9ÊÞ¨C91ªÆîè´èÌê4ò00à¬´àÌC¬FšÒÐ 7”4CÜCÆâFž”/Æà¢îÄÒÔ0Ú´¨59ŽÎ¢C°/Cª4ž6š9˜˜Æð4®èŽ7’æC®ðÜ¨ÔôÚÔ95òÂ0Ôð²/°êÚ–9ÞBòÌ´Ð9Î°01’7 FôÖî/´à²9’äÎ®Ä3–¢Ì50Þ0®1¦¬¨ô”8’8˜DôÜê–´5Ê–CÚð7”+ž3˜òÔ+ðäðâÄäæÐ’1Æ/¦ÜÞ4Ìèâ  ÎÔðäÊÊ3Fèâ¤Â/–EDâ¢3+ðÞ–Ö–Üœ¨à–ìÒF+Ž¨ð2ÈàšÈÐÔ®ÜÒÜšÚÔ¬ÎÆÆœ®î¨Â2âEò²¦È®E/ØÌàA°¤˜BEæàÄAÆÚ¨ØÎŽ¨®œFâ–žðæØ1”¢ž2¨Þ²ÆžCÖ1B3îž¬Žôæ+FîÒ¢0ÚÒ6è®òòäÂ/FìÊè3ÔÖð/°žœÔî´ìÎâì¦”2Ø° òE6ÜžEò¦––ž7ÆÂ/68¬ªìê¦/Ôòð¤4òê–æ°DòžÆÆ8ÒC6BÒB7¦˜1š²œÎ9Øð/Ðàð´®ÔšÜ²Ä¬ò59œÒ9œ7ìÚ–A¤’+0ÖŽÜÔÎ¤¢ÎÄ3DÚ š+Ô42¤2¨ÂšÔ®ÊîêDî¦7ôÐ¬8¦ÄCè””7˜®˜žì¬¦ä1ääÚò42°9òîÜ¬”371°¬D0è–äÊFÞð0Ešð8¨ÐC¤ÖÒ¦®Ì8–ÌàØšä C–Îò53ôÂDÆEÄä8Câœê–ÂAÌª’0Ø”ìªÆàÒØ7Ž0EØ/2ÊÂò’¨¬Ö˜+F3®”1è1ææ¨ê+ªÆò6 9Eä7˜ô3²¤èÞ5Ö4D¦ò2ÌÖÌ¢â1®œ7¦6šBÄÄ/ÞîªÞÈæ4Ä°²F®B¨492à–ì¦¤–CÔÆšÜÚÆôÆŽÂª3Ä¤¨Ô²ÂEÔÔÌ”20ÜÊâ¬ÄÐØ´´ÌÈÜê®3šôâCÈŽ’îŽ®¦Ä”îÜ¦F2œ®87Ø¦7²/ÌÈ¦ŽEäŽÌÊÒ®šœ6ªšŽðØ êò®4Ì Ô°œØÖœªŽÌèôÎ’–´È5B3Ð¨”ìE²ÈÊÖÞ¬Ê+œA–BÜœ²Cäœ1ÒÚîðÊ+¤Ê+òÂAÌ/ÌÚ Æ9Ž¬6ÖÜä ôìØÚ´ª0A´è®Î8˜ê7ØÊª¢æ¬/EôÄ8C0C–ª0®ê¤àšŽê¢š41E²4’®¤ª¢¢ œE1âæAòÈEØB’¬à422CÐ4Ü44ÒÂCÒB°®ôÈðèB3ìÄ7 ä3šæÌðêB9A²ÆŽÐÞ4ØÎô”EØ5’Ø¤žÐ¬Ö”ÖÆè74ªžÜFÆ3Ô5äDäA6°êÖ¬°š¦îFÆð”ÌÚDF’Ú˜ôìðäê¢F²ÒÂæ/¨Æ î”ê/39ÎDØ’ÎÌðÜ®9¢îìô3FÚäì+¤ÊèE¤¢ÎâÊÂÄì0žªÔ²Â¢²’¬ÚØ²ÞÒÒ7˜Ð´F1’šä8Ú’¦Ò òò3êèÌŽ4Ž°ìÜæð’2¬´ ¬ªÒê2°¬ž¬äì–8–¢1ô¦ÚÆä4CÜ4¤/ÈÚò/BÊ°èàÈ4Ú¤88 ²°Ú’2Òê¨5Úâ âÈž/8®œ/24Ì2š¬°6+/ô¦â¢æE/â3DÐÐ¤°æ5/¨ÚÎ+9´Úð031²/âÐòâÞÂò5æA60BŽØæ²ÐÌÞ+¢ÜÈ0CŽ¢œÂ2¨êÈ”È´–ÈàÊÔD˜6Þ¤¨ð®DÚBœ13DE¬Žš4¬3ð4ÔFô9ê0àÂò1¦˜šÐCî”¨¨Úž¢Ú2îÒÆŽÊìšÌD¤¦0š²´à²5+’¦ÜôÂ´Ö²°Êæ´+¬ªš¬¢ê8/æ–ìÜÊÂ¨®â53+8êèæÔ9 ¨ššÚ43ÆìÆ®èª+ÖØŽAÌÈ0²Ü7®5È°Ô8èÞÌBô7Ø˜3ÖE¤Ž”ÞèÔ®4°ðà”²’˜6êàØ¢ÊÒžêæÒC 1ì ¤®E0Â°æªà¢Þ èÒ66/ÚÖÈ˜âªBDâæžò00Ä4ØðÂ’DÆØÌ6¢Þî3ØðÄäœìšÒÔô8EAÐì˜à/°ØêäÔäÆÐ”ÐžôÂ¨àæ˜Øê8œ/Eô4Ú¢äê2ò5ì7Ž/2’6ô0˜ ²šØÄF5Ž+¤ÈÞÜ¬à´žÐ2ÌèÜÐ¤êÞ¬¤3–Ö48” Ð+Ž’49Â6Þ0äÌôèÒ7Ò1˜ÜFÂì+îê+7+/ÆŽîà¦Ô8¢®êò¢0”žœ9”73DêÌÎFØ’+CBØEààBB2 œª1ž2àAž8˜ðâÐ3Â3®1Ö9´”°E’7CØÒì2ÐÔ¤Ê¢¤î41®Þ´6¨Ê®š8ô/Î¢œ–šÞàôäžŽ”Ì¨+ì/ÌBŽ2ê¬Ô²+20 ¨ÌA¨F0¬AÒšîÚ9Ež+ªFD¨®ªªªî3ÎÄÈCè9+1–²žšâ–/+3°DFèŽÎäÊ8EÌ°æŽ029Þ´Ž9´ê®0êÄäÄØ2ìÒì9èŽ2ä1âÔ7èÊ¬8ÎÒÚî4’Î°àØ+¨ÞD2926 ð0¦2ÈÊ5Èš’ªæ7žêî0’8´Ä/85ªB¢Ä¬¤6Ì8ÊÐš¤”¨Æð 17âà5ÊÔŽ¦0¢BœBàªœÊ–Ú®2Ê7¦0¦ò6Dðœ”ê´”¢ÜÒ3ÊôCâ5Ä²EÆÐD7 ¨ªÊäÆ”4 92æèØA²êŽ”+6Üš4BÄEîAÐAØ6CîØÞ7”Ö¤¬žÐìðÚCœ2ÚÂôž7à4ð¨C¤´ÎÎ’/Ê¢žÐ9¦®¢¢®E 4Æ¬E”èÂÆÖ®¢0BÒ²ÊŽ¦Ä6Ö92´+Î¦¬îòÚDÆØÚ/9²124ÖDÖÚ¤B”Â/ÞŽ4òœàF5¦²”æô9î®¬5+ì´Ðê’25Ô ÜA/æÎœªDªè˜4ÚC¦È7Ž6Ö¢Žæ”ÄšÜÄ¤ð®¤Â80Ì–6Ò/16/¤FŽäò–œ9Ì¤67F²¦ØªDÌÖ 17Þâ¦ªž¨ÆBàì’–¨âÌ¦7Öæ–²00Ö2ÐÂDìÂâ51¦3Øàî’’ò8ôAÖœ¬0ò6’¤5¨A2®®–ª38ŽAE¤ÖDÔ˜Â4¨°8F°âÊôÄ+FòæèÚÜ°˜ÂÈ˜7ò’’²BÆÎ®¢àèœ®ò/Ê ˜ÂàÂÈ®Î/BE3°´”AªÒž”Ì°BÄ¢Ä¨¬5ÆäÚAÌ¤C¤ØÐàØ+®ž9Ê°ì3ÞÔBÐ1ÊÂâî¨è¢BêÂ–68äðê°ØòÈ395C5°”3ª5ôEðBFCæ6Ô˜æØÞžê0èæÞ ®Îôê8®9ÌòÎ¬¢BÔ+ì²ð6¢˜–ôBCÖÊðÌä’°BÄFìä/0ŽòÂ9ò8ÞB1àÈÆä°î6îŽ Eòž26Ò05œ9àDÐ°ô¨ªØ+4’êÆ9 Ä´˜ò/ÎÎª77ÈÐÖØ1¦Äè¢/¬DØ¦â˜–Î”ÐàîŽâ¦BšB7ÚôäÔ¬Þ¨9Ž¤0î°+¤°®îÞè–ÊàªæDEê6EÐA¨/Ú4Bèò¬Èì¬7A3’Ô¦ÜÈAÂÖÌÆÜ1¤ÜŽ’5B9Ê4Ü¨–äÐ+ÖE+Ø’Aì0è0A’ÔîÂÔ’¢æ1ªE°¤4CäÆÞÚ2”–+ F¦/à’4àè4òòEDšœ3®D®’ôìè´¬´²ðê8BF¦Â5¦”Î®ôÊ²ÄØA¦Ü”+F²æÚ¢¢¬B3’D’ä59AÈð¤Þ/05êÎžÆâ¨ÊÈEÜÆ”òªš2Aªšà8îä¤ÄÎC˜9È¬âBF7ÞBCêªÚÐ®Ä¢7æ´/2ìæ’Dè+îAªîE”Îîæ®äBâ¢ÐÐä®7/+Îâô22ÐBE¤ÌœAð¤ððAÖ43–š0°5¦ÞÞÆE¬ÒA¨°ÔôÈÊ¤ò˜Ì°F1®òêªEðE5ÂòÆÂ Æ’æî8âÂ1˜+´äª¨Ì1ÐœC7²6¬CÚ/æðÞæ0ª˜Ø”–Æ’šÖ”Èêì7ªœÞœ+ Þ²8ž¤¤¨œ6ðš”4æ73Cê°²šÐò°ìÎ3Žè5ŽÜ2+œ/Æ1DðC1”5+¢ØèBÌšèÞÚà¨Ò63ÆÖE ØÂ74ÒB5¢–ÔÌ² ÜE”œA30ð9/´¢8ŽÜà8––F”EÄØ–”ÔâÊà2ÚC´6ÈèîÔ38œæÄFÈCÖ ¦àÂ²®ÂªD˜´ìÆ¤”+È1Ú˜2ÜòFàÆÚ6”äBôòÔ®êîŽÞð°8´Ê–2¦2’²œ’1°’èÒ2œ48Æš’FÌôÚ/ ª¢/ÔæDî¬’ª2°¨0àÈAŽäFÜ”/2 êÄ°ÞžFœîèÔÒÔ’2âÔššèÒ²¢ÐB²¬’îB7È8Fž´š®+Ü²2Îœ+ðšCæÈÐ–êî¦Fœ7ìAÎðÐ7–4CFòDÖ0CâÐÈDÖÜ7ÊÌ8ä¢–ð®ÞÚŽ70Ê7”ÎE¨˜Ð¦êD°®ªæ¦’à6Ü´”ÊðÐ–B5ª´6¤Ô4èì”˜ŽÞØò®8¬¢4’¢5Ü1+î¤ªà´¤7”ôDÄ¨Ežêš7âæ˜¢ÎØÒÌÄæ¦¢”CððÌ¨îª6ØÚEÞA1AÒDÄô¬Ð5¤4ðØäš’ÄžÖ17’5ØÆðÜžê¦Ð¢êòÎ20Ì5¢´°ÖÜÐÚ®˜ôEÔ®ðä0¢Ê¢9¦Ò63–ÐÄòØ²Ú5ðžî²ÆÄ°ì6ŽØÜ°2®D0Ö˜ð˜àèªÐ7²ô²2šÐš1 î+æ´šE Ôæ3ÄFðÂEòîÜ¦81ÚèÆìÎÂ2–”Ò¨ÜÊä2¢++Â âAðÎÐ˜šÒA®2ÖÜ²ìªŽ7îÊš¦Ð²9ÌFÒÈ7”Äâ5ÂCDò ””¨²7ªEêÈ2äÈªîêEA9A’Ä0B”¨7äÄÄØÆ83¢®èâ®Ð®C´/ð®Ö613â6òæÆòªÎ1èÚÂ8ê´ð¦Càà1’ªÌ6Â95DàÄœ8Êð/ÄäØ6î¨F°°ÎÎªD¤06¢67äîÜªžìŽªÐè+È’ÖF²C’4Âª¨ÄÖÌªò+BDò°œ¨Æ4FôÔÖFD¬9ÐîÖ¢îš¢–+¤9ÂîîäŽì¦Ò”Ü¨´ÊÞFÄ892Ô3DèÌA6¢/–F9ÆàÆC°Ú/5êÒ¢ÄÆ ÎØŽÚ34²Ð0ÂîÒ87BôAæâ’à2Ø¬˜®BÒ5ÌŽ®îE¬FÒš¦æ1®–ÄØ8˜6¨’êEC’ÌÔê–F/žŽ8è1Ô0ª°œ²3 àÈ¦Ø1ª01ÐÊšÖBÐÐÔð”¨Cò74BªÐÒD5ØCàÔì9°Ú0â¢æ0Ð°ÐÐ9Ü´ÜÎ²äì¤1œò®ê´žAÈŽEÈ2ÜÐÈÂè¤àEÚÊ°àæ¬â7¦êÄô03Ö®¤˜èÌäìÚà333èÔ7ÊÎ®ÊÂê¦îEª¢AÎìD–ê¬ÈŽœ0Â®ÜÖÌâ+Îè/–0–¨Ü’4D3¨ªÞšè1¤0BÊ¤ÂÚ8’È’Üô 59ÂžE8ÜAÈ6C¤1Ä910Dê¢ÜBÄ8¨ÆÚê1Cê7ÚÄž¦´àE¦Ä¬žê5È+ ªâ3äDªÞD´Aæ¬Ò¬òÈCB°8Ä¨79DEÒB+èìâ¬ð¬¢èÎ´¤Êô0¤Ä5ê+1˜1ÂÔ–5ÄÔŽEÖÎ5ª2Â–´ÈDÆ˜Òò E Ü¨¢ B1AÆ2 îŽØ5Ž’ÒÌ®FA1Câ3Ž+9Æ–Úâœà˜ÈòÐêðè3ÌÞØÈ3æ°æäš9´ŽE¬æ¤š˜ðÐFè6ž7ÂâD2D52Ê ÈîÄÔ0ä5AÎäœÄÒ’òìÒîð¬ªæDØE¬8Bà®ª3Âô0ÄÐÔ®’9œDÔŽ1ÞÔÆÂÞB+ô9D’1/481CììÎ6æ’ô2ðœììÜÆðâÞE0FÄ’6Ž6Îîð0ÂFÔèäÊ1+¦šÎ1âÞÌ4Dà´ðÂ´Øôê1Æ1ÖÔè7Ò+ê4ðš+Æ¢Ì3Þœ´Eòà  Öä˜/èèàÖCÆî’2´Ä²3ÚœÜ’ÆÔ ®Ìè²ÄDîÐÐ00È¬BÂÐ¢’´7F1Æ9äB”0²âà’¦àÄò+ê°æàò5Ô4BÈâ˜žê0–34Ì0Dî¢2’äŽEàÒŽ4ÚžÞ783ÊDC’è’°è1–ØÚB–Žôœ69BÎ9š1´ìÖ1ªªAÚÜèÜ¨èœ8Ú´’E6àB2D¬¢ÔE˜Ô7ÜÎ¤5ô04+ê”®ÂÐ¨´¢F5®52CîCÐî¢’àî®¨æBÊ˜ÐEÔ”ØÐ®žÌ®5Æ5Î¬œ²¬B–˜®ÆA¦6šî9²ê0ÌÆØ®1ŽÖ˜ÄC2/ÖÜCì¤²ÚÈ6ÔBžÚÞ1Ø 7Äâ°à²6ž”9Ôâæ–’°Ææ7Ö”è°¤4Ê˜6ÂîCîF5´FÎ+7îª0¬D¢ìÔÚî12ÊìF®Ò9ž ¬è4Ê’î1Üâ2æÚÎAÐCÐª¦FàÌ”Äî/Øœ2Ø´ÌäÎ6’žÎ65+ÞèÞÐÌ°–œŽî”ÜÎòòA¦Ž––2àF´žÆØÔô°5Ä´²žæà¬œÜ¬ð¨â¨5òBD´ÚèF ² ÒÔòØDÊ2ä2î¢ð/èšÂ žÐA¤–Ð”ÄŽ7äÞ¢à55´ žÂ´¬5Ðò1 îà’Òô ®àE¢D8ª585+Ææ3¦7ªÄ ªÞè¦EBÚ 0Ôô”8ÊÔ’2Øò+´”Üœ¦2 A¨ÐÄFF/–°D60´Ê3îDà¦Ú´Ô 8ä® 1ŽšÖC1ØEæB6Ž¨ôÄ˜4î3ÔFÚ¬’Ðœ19B°”´+ÚÒ+Æ/¨Æ¦¢Ú®žÚœ’¦ÜžÐ7Èš3ŽCD2ÞšA7È5ÚêŽÖê–7Â–Bè29 ®Fê˜0ÜæÄ1Ø6Ò6Îâ Cœ˜Öì5òŽ˜9Ä Ø’ÎÂ2¬–¤ÆòèØ–¬ŽCä”ÎôB¦¢ÄCæÂ’ô¬562ôÔ¨²BÆ0–šôCòEÞ˜D94E945Ú¤âä Ž35à¬îC7C7/°âÚž7îÈ47 æ9žîÞôè˜7š°ªðž°–Ø’®Ðæ6DÌòDèœð60Ôì9ä¨8”E26î6F8Ä7ä6ô++1739°8œD25A¨¢ÐBÖÔ520êØ–ØÞÌ4âèÐà–3ê6¨æ ®èÆCF9˜2¢0ÜÞŽâô8Ä2’´¦A’ÖŽ¨ðâÈ4êÜ”+¤àš7”1+¢18 îF6òÌÊ8EòÈBîÐš–ì468˜AEªàÜÒÌòæâÜÄDÖâ–ÐÚ–3îÂA¤ž9æE–æâCâ0êž¦CìêæŽ7ÖÂÐ4Þê–¬Øœ®¦ÞB²žŽÄÄÄœœ¢’A/’êàB°žæŽ+4¬+/–3æ6²ìðØŽôæÌ7È²6Ú3Èì2–F/êæ˜Žìèœ˜äÞ8A¢î/Ä¤àê˜7Ä15Ê²ÌÎä1ðÒ”š0æÖÚää¬¨œ+ò7+Þ®æÆòBò94¬Ø3Ì”AòÄÊš¦êÜè´¤FÔô¨4ÌÞ2ê3ÐâÞC¢D1C æ”šÜœÎ¨²ÌÐÌ¤–43Òä7ÜAE+F®F–83ð5œÞžŽž/È’5ðC²ÎE´¨è78ÞÆ6´Ø9 01Ü´ÞÆªA°Ú39DÌš+ä¢œÚ¤ÖÜ/È¦¤+ Öæš1ð®¨¨0ìÈôBðÄC¬”ô+56¤2àâC ²æØ¢Ú¨0˜Ü17Úœ¤ÎòBÞð7î’Î6481š¤5ÎD¤òÊ”¨4âæÞŽÔÈšÒš8DDÂ–/5CÂ+ÊÜŽðœ²+B4ÎÌô–²ÊðD3Ö1¢´ªÎDCÌœEê0òÂ¢”0’âàðÈ3ª Üž²´1ŽØÈ´ê0ØœÆØ¦Â6ôÆ˜˜CØ+BC9äæ6äÖ²²ìÈÄì/¢2šØÆÖ°²3ªâÔÎÊâÖÆ²È7A²¢Ø°â¬Fî® ÜŽæ¦æ”EØÜÄÈÐØîÜ˜˜84C¢¤6æêD1²ÈÊ5 ÄæÎ+®ìŽ1è/¢/Ô²Ê3Âêà5°–B¦Ö5+9ôÆ3 ° ”â®ªÊä¦âABF5œDèÐ”E8A1àBÂäC¢2è5ò71´ªŽ––ä3F7´ÔÎôšêÄ4+AäšÐÖÌèÚ6Æ¤Eî0šÞÞ+æ1¬ÊÖªÊ5¬C1ìCªÞîÜÒAªÖàò°0BŽ7C’®/¤êBòêAEàäÜ1¢Ú0à´0Ä+¢BÆ´3âŽÆàC/´ì8® àÜ5Âòœ¢êôFèæÒäèDA5œœ5/9Ü40ôä0®2¤Êî3Ø¬ÈŽ” 0Ì¦òE’´3¢Úìîô90šì®Ð¤0ìªè²841Þ+7°–+4ÊÒª¢Ö¬ªÆ+AÄ°64+ôØÊÌÈä°ææ²¤Ò¬3è2+Fô°58è¨AªŽD¤®¦žÜF1DÆÄžÆðØì/6äÐœ0ÚÔ8Ê90à´˜8–Ò¬È3¤Æ93ªæô4È0ÆŽ”°¢Òî78ÂŽ¦ª¦žF4èÆæ8ÖªÄªè¬FðÐ¬¬+ÐŽ¬/ì¬Æì00®”ÎÆŽ3ÈòÆšªæ5ä4/È¬4F+ðÆFÊ¬šÞÐD/ðÊÞÎÎ8ªê4ÒÔ–7’ðÄ5¢7àÈA9ê ì3ª8œÌ9šÔ0ÖÜE64D’ìð 4Ü¢ÞF7ÜìD9ÞÖ¤Òž6®ÆÆD 4”ô9¢Ö°Èô6´®00Ö8Ü²Ú¦27ÞDœæ¢Ò´E4Ô”8ô¤œ°´6”ì22œ6”ÔšÌ/¨òš2´ à4œÖÞD89C°ÊÖ®’–0žÄ9ª9ª6¦˜ðE’Ð86F¦E2æÂA¤è02¨Ð¢Ž˜–/îª90ò´¨0¦šAÖâE¬®A03àª+´’–ÆôÊ3ô°è9ê/ÂÚÂC–¢9äÆÂžêš´œžÒ °æðÖFÎ æ¦ÐªÄ+ÆÒ²æèîÐ®7ÆªÊôÌFšªàÞ2ÊÆF¦ª0Ú0ìä¨ôA´1²–ÒÒÈØâ9ÐªêÎê2FÚâž4Æè²05ÈEÞš¨Äì0òDB/C°ìšæÆ”È¨Aä¬¤¬5Þ²ŽôðšCÂä1¢Øêœ®”ÄE2A¬žš1è5¦œÆÂ5ª² 9ÄÂ1ê¦ÄÈ¢¢òª81êš3’55ÐÖ’¬2¤´è¦ž˜¬ÄŽŽÂÖâD¦Ô””1’Ð0/Ô’1Ú´ÜðÌÊ®Ä2Æ’92Òô56ÞòÜ5²îÊ–+ÂÜDª¨ÖC®+”¤4´â°FEA¨1êªBÆâ6’œÎ4Ì/0–Ø3ÚAàÒ9²F9A’à”BÔÜÌ˜Ì0ÊŽÂ3œ ”ò´˜˜+4F¦¬ž¨ÂÚØ’Îš”C²23¢ØæÔF¢â°ð¬Ž318šð38ä®271Â°Þà9Â/CÒÜ+79Ü+FÚ7â/àô¤à˜°Â¢8Ø–ÞÂCêFE9+ÊÄ²¢®¤EðäêÂàÚÞÂÞ´âÊŽâÊ67¬A8œœC6DâÄ¢šôÚð Â¦”72–ð²9ÆDF5AE8Æ´AÈÊ”2Êâžð¨¤ÆòÊBÜÐ1òà+¨Dæ9/˜ÌDÔ/ÂØà1¦°A¬7264ô°ÆAÞ8–D7¨38–”AÜÔ¬èì5î´êª˜ä0°Ð––/ð7Ô0ÈÚDÎè7Þ2È2êE´ÐÜ¬êôÎ2CDäâ3A¦œèœCÈòÌÒ7+ôÜÚÈ¢¢ì¨03žEÜ°žB6AðÚ¦¨®38CðÌòÞ2ä1” EÜAàØÚÐîÂžšD1486š²A–6ÒÜÜÞ1˜ÜCDèŽÂ1Ø1ÂÎÌè¢®EÒÆ®ÖÂ¦24¦îÎœ8ÈêÒ2ÜÂä®ì28²èŽ˜FÞÚA7à8â°4®DÌÖìä/àÆ¢îÈÊ8æÔ0ÂÒÎ°7ÚèÊàÞ3DâAÔâ2¦ÚÞ1ÐÚ6ž šÊ´ÆÈE ˜ÖŽâ¤Bî4¢ÞâðØò0Ü12Ê9ÒAâœ¨F¤0ìÄÊÈ¨Ü’â–Îè6êð0Ž°Â1”˜CèÎâÂÚ8îAžšCæ5F+®6+4Eò–ÜÞÞ´äªò°šÌì’–ªC¨ðCòì¦Îè˜4¤Îœ’ìÚò²ðÖÖ²ÌÚ¨˜AAØàÆÊ˜ä52BÞFÜ1¢56ô’CœCªäî1æî¢Îš¬Æ”6EÞ/ÄÎì+0ªæÂôÐ¬²CÎØ9Ê0Ö˜ÈÞ8–âA7Ž2E¢6EØ–EôC˜9¨âÂ´ðÚ¦òÜ¬ìÐ6ê4ÈìÌ7îÒÜ1ÄÊìÐ¨œDÎÈDÌÂÂ830È0Ô1ÜäæÐªÚÒò– Öî781ô+Dð°ØF¬AÖ/Ð´F’ÈÞ3â®ôÐšœÎâ3Ö²Âè4Ì¤DÞ”CæŽ°”Þ/Ö²4š32ÊâF1îAÌFîò¢F˜Ä°Þ²âÔÔFB®Ä2¤ìîª0šÚÔÂD1ðA®/êä7ò´ÊD”â¤’à´È®3Ä°9/®ÐFEÔ/Þôšæ/04Ô¬œ¦4–1¬5ÂÊÚÎ3îA4ž/9ÐâÊÔÞ–®èDò3AÊBŽÒ53’Ò¤Æâ6â2++îî¤âEÖÞÐ3ªÊÖîÞžÊð–3àÚ8ÜE¦F¬ªÚœ”®ž¦Ê˜ ¬ÆÈòÐ Â+5EÖAÌì´Ò4ÒêDŽÐÞ®æšò¬è®B9– ÒÄ¤5ì8FœÎ3E°ÐÔÜ9²Èèâ’òE86ŽÌE7¤/¤B”œ¢ÚÖðÊî3 ÊªÊÎÔžØ°îÈF˜ðô¬/ªà ²F0Â˜E/EÂFÎÌ¬æ¨òÚ’ÊòÌ’ê9+ìÆ1D9–1¦°ÌÖCÒæ°C6òàì247´’Öê¨¦F50ÄDÄÎš7Ò9BàžªÈÔÖÖÎC7ÔA67¬Ø6ÐšB6Ø´Câ6²äÄBA 19ÚÐÆ²Úâ1°8¦–Øòò°3D Ø®ÞâBÎ/49EÔ96Ö¦’²Ž8æÜòÎžô²4Eª5ŽªÎÒš¨š7ôFðÚ®è¦îFBÖ0/òªÎœè ˜è°žÖ®®â®DF2Æ+ž7¬ôŽ0âÞB–Ò4Þ¢Ä¤8FÂ5œæÂ9®A29AšªÆ2ªÚ2°Ä85ð2¤9ê°ðC/äÈš8Â Ð””ÔÐ–¬0Ì 2ð6Ø¨ÖÞžŽCî5äÈ’C0¤A5ŽæÌ ’žªžØ16¢0°CŽ–4ÜôÚØ¬B¨ì98¦²âðò”ŽÞèÄê 79ìD´®â/°7ª2®®A6æ®Ð5ØÞ´¦ä–5¤Ä9ÒØDÒÚŽCî0Ê²˜2Ž3ìCÐÆ4¬DìÂ+Ú7ê/F8ôÈØ0’ÚÚ²Žä²ÄEè¬Ò+/Æ4è6Ä¦ÎÊêžÒÒ ØDÆ/9Â´Dì ÒâªD3¬¤2ÔâDØš0 /Ú¤Æ8¨ðâ3+ÔÊÐ¤’ä”²à¦FÞîB61ŽÖDš 86ÄŽ¬Ì6B2æâ’Ôâ®5ìÒ6–Fè¨Ì52®èä3ÄÂÜ3¤+äÚ²0Ü°Üà3¦3ÄÄîž˜9ÄÎðêš28ÞÚAÄì¢0èàæ5Ž2ÂäÖ1ÖÊèêEF’°ÄîE˜²¬ÐìÎŽ²œECââž´È¦ÆÔÚÐæ/î58+ÔÔÊèŽ7EàAêÐÖØ9Úâ¦Ê¬Ö09ÒÐÈÐ’Ü´°7æ¦š96äÆÐòE142ÞÊ13E°¢¦èÄà2Î6Ò²š9œæ”Æä°”¬ÐÌ89ž”°2Žª°Ôð°ŽØÖF²â6Ä8+ÚÂ¦˜Ú´71Èè°+9ôCœ°ÔB®Æ89àÈ¤¤Ö–ð°ÈŽ0êCF9Ì–âÂÐð7+îE²œÂî6–Dæ5Ôò˜DÆ¦´ÂÐ–èÌè”¨àðžìDÞšŽÄªÈÂÖ7/Ø3Ââ9Ô2È¦¢¦´ìôì7˜Î /Ä¦ô”3²îÌ3Ö5Ê39ò–ªôÂàØEò27œ®Ö6ª7Ö3ÈÆ¢A¨œ4265šÆ  AFàF81žðÈÖFEà6ž”Öò¢êÌ°æ®æÄ18´E4CÖCÐÔÒš5È62ÌÜò+¦E’ž6Žª0–´ÐžàÎÜ–ôÆŽ1–B2ÔÚ¨ÊÜò–šòÞÖE/îA¢15 6ÒæDŽ¨ð˜è6ÈÄ3ØÂ275äÒ6®84¨¢Fî4˜îÌ8¬˜ð”îàœæŽA3ªšÎ6œ°äæ¤Ð¢š/¢/ÌEÆÈÒE84¬êÆª0EœDîèœ°”žÊòâôÎ®òî2ÜîÖ®8Ž7Ô¦2ÊŽ¬ÔÆšœF0ÆÒ1+œ0°è7ÄÄ/š®8°â77âäð°6/æÖ+F30òŽÚ ´´Ü´ÌÊÂž¤ØÖ9¬à95ÚÈ5êèò6–ê®â7Ø°ÖCšŽ¬˜ÌÌ¤˜ðææ´Ä5––82’ìÌÐÖÌä´’¦ÂêŽ7ÜîžœÜêÎ4¬F’4ÈÊÄô²8èÖÚ¬5œ˜˜ÄD°85æ4îÌè7Øì”®ÜDêò˜ÂBEªÌ²ÒÔÊÈ0ìC+BªÊÚòÄð¨/Î´+Â¨´+òêžC¢ª”ªCØ¤êÞìÊEÞàÂ¤òÒÚ¤Þ’ÊØ1´´2Ì66ê¬¢/˜Fì’Ò5001àCÜìØ1F´®ª¢ÂÄ7æ¬ð²C55ÐðÔ8ôÒÎ5Æ3®ŽÌðÄ¢ä8ò4Ð”¢æª+®ÔEC°ÆäÌD®ôÜ4/˜ÔÐ˜’CCFØ+–BªØÔÒÊ’3+¤¤àBàB7ä2”ÐäÚœAèFò25¦ÒÔ ¨²àBÚÒœœÔ7²/3Î´ð0ÒÖÞî/¤–òôèÞÔ1Ž39ÔFD/1Ä2Ô31D4Æ¢E0¨DÞÂØ+DÚØ8²3C²¦Öì7Ò0Êš¬Ä°Ê3žæF6 ¤17î¬œ9Ì6˜˜´˜¤Î²ªFðØœDžêÌÞÄÄ®7/Ö´88È4 9C²ØE’æÄ¢îÆ5EAÎšB1F¤A’î®²ÞBØ64ž–A”Ì1ôðÒ6òäÌ28¦˜ôÜ’ò²ä¨Ž7Îä–è49Aâê8EF36àè’ÒCÊÚÈÚ4DDª´ÌC´î”¢CæB¢ÒÈŽÌ011”E–æ’ÄšÄ˜6š1âÐÐ0²¢9ÄÔàÈÒÌ¬È¦¦82î71˜ê1Æ¢Ž9æ1AÂ4èØšèòž1 ôØFÜ8Ò0ðÌèªèÂC5 2–06˜ìèª0Dô3äÌ¨D2Ìœª¬+°¦9¬ÜÆ6î70ÞÂ²îâÔžò3D2žBª54Ø9ìCÒ87Eœ9ŽÆ°ð˜¢š/6Ê7ðÊòÂžæ4ÂØ+È¬Æ´ÒÈF²ØCÌÄØÈæÈž¬¢0Ø ¤5––ä0è0ÒôšÚš¨Fš5¬5¦œ¦ª¬Æ4îè/è”DÊà8¢0Bì˜šòÆ´ÄæØæÐ°²žÌ2Þì˜C47Ôš/Ð˜2îž6Ä+B7ì7ÚŽ8 Î¨++šâCÈ8¤8èÒ¤²æàÂ6ØÌ¨¦Bòä/Äâ¢œ¨ÜCŽ5®Î¢D²¬Ðè¦/¢ÒC6A1AäAô¢Ä9ÈªÔÈ44ÚÊØ/ðÈ5ÖÔ²Îð9++ØÞÜ¨ª®âÊÄÖªŽ73ÞBA¤èØÆæ¦îÖÐàÖ+èèœªìÐªð/ ž˜°¤Ø¦Ì6è95à0ðÐ5 Þ7ì–433˜æ°+²BØÄðÎ4˜òEªàCÒ¨äE046¤ÜCòèæ2à”96¬èÖàœ3ô¢48ÞÜš4E´5ðÐØÜòÆ8CðE3C–Æäœ4¬¬4ô9Âêâ–Žò64ÌFŽ5¦8ÖÐ¨ââ2Ð7Ð8ð´”0/¤CFž’9B¦Äô+¬¨Ô6FÊÄÂ”2¬+Î4ÎÊŽ¨êâÄ8ÚžÖ8+Â¬¦Êä¬â3ÒÄÚÂæ²Ì6ÖB–œ”ðòØ–Üê8Ìš–â7Dðî °Ä0Ò¦ôÈð²¢°08Ì/”7 ¬°¦°/5²ê4BÔÜ4AÎÊ˜°F4²ôà+àìFðAž+3è¢ÎDD2–ÌA¤°ôÞCî¨ÎòÚžôÚ˜7EâªðFîæÊE˜3ÄÌÆÊ6¦î¬ŽB¬/òÂðE¤È6°–äÚèžÎ¬ðA8’ä¤/ðæð31ìÎÎE¨ÌÐÔD0AìØÒŽ4Ò13êšÜ2ÔBÚàCîî’Ò5Ú–C3+5 ®5°´Ö˜ôâè®â1®FòÔìØDÐ70ÔØ6ÄÂš°Ú5”ÖÎ7äFð8ÊÜ0¦CÌšØÒÊÞšÐ¨ÖEô7ÈÄÌ5¤òÜ5ìÂð9¦0B7/ª–Ê/ÚâÐÐ°”´ÊÂ07è¬ÞâA–ÒÔ¤¤¦F4´A2ÜìŽêìÖÌš–î 2àFò8ÔÜª9š°Î¦ÆF6C¬–Ð5E84Eš6Æ2®ÒÊ9+¦/è’ÞÆ7–¬Ž˜¢ê°F4Ä´Ä14ìè70Î´œ3´°òÔÂÊÌìèêôÊ®Ž  D¬´8²E®Üà35Þ¢òE+®Ì 3Øê”ÆÈ7´Ö¦ª”°D  Ì”î8’2¢Êš8Î¢ÎîAàìÎÜÐªšâôœ°¦ÎÚìŽ2²1˜Ú4Ôðâ+ìÈÚÂAðÊì¢®®âÐFÈèEêô®àª²¨žØð’7ì5ÖäFB’ØÞ– î°A0”ÜÌØ8Äî92Æ®ÆêCêâ474ðA°Î°¦Æ1¦2’+¢”°ÎÄò¢–ê6Þ5äª–îÎÆÊØB¦àš1BÊ–ìÖÌ Ä7Ì87®ÄÐà¤Ž–äðE6¬C’Þ¨ì5š È+ÒF²Ú–Þ7œ6Ö6¨7A+Cò/3947ªÊÎÈ/41œ0äÔàòD0îC¬²AÞ0Òê˜Æ8AB´31Æ7ªÌ3êôôšÎÔê²8”œŽFÈ/Æ7FžÌìÂ/¬¢òÔðš5ì–œ¨²˜ÒÐB´°¢ä7 š3Î–DäFà¤8A¨¨9Ð88Ð¬0–¦/AòÒÈÐÎ1èÎÅÒA¢˜BFš’AF¤¨¬A¬¤A¢BÄC¬¤ª¬¢A˜ªF¬¤D¬¢DD¬´ª¬Fà¨;
+<?php
+/**
+ * å¾®é…’åº—
+ *
+ * @url
+ */
+
+defined('IN_IA') or exit('Access Denied');
+
+include "model.php";
+
+class Ewei_hotelModuleSite extends WeModuleSite {
+
+	public $_img_url = '../addons/ewei_hotel/template/style/img/';
+
+	public $_css_url = '../addons/ewei_hotel/template/style/css/';
+
+	public $_script_url = '../addons/ewei_hotel/template/style/js/';
+
+	public $_search_key = '__hotel2_search';
+
+	public $_from_user = '';
+
+	public $_weid = '';
+
+	public $_version = 0;
+
+	public $_hotel_level_config = array(5 => 'äº”æ˜Ÿçº§é…’åº—', 4 => 'å››æ˜Ÿçº§é…’åº—', 3 => 'ä¸‰æ˜Ÿçº§é…’åº—', 2 => 'ä¸¤æ˜Ÿçº§ä»¥ä¸‹', 15 => 'è±ªåŽé…’åº—', 14 => 'é«˜æ¡£é…’åº—', 13 => 'èˆ’é€‚é…’åº—', 12 => 'ç»æµŽåž‹é…’åº—', );
+
+	public $_set_info = array();
+
+	public $_user_info = array();
+
+
+
+	function __construct()
+	{
+		global $_W;
+		$this->_from_user = $_W['fans']['from_user'];
+		$this->_weid = $_W['uniacid'];
+		$this->_set_info = get_hotel_set();
+		$this->_version = $this->_set_info['version'];
+	}
+
+	public  function isMember() {
+		global $_W;
+		//åˆ¤æ–­å…¬ä¼—å·æ˜¯å¦å¡å…¶ä¼šå‘˜å¡åŠŸèƒ½
+		$card_setting = pdo_fetch("SELECT * FROM ".tablename('mc_card')." WHERE uniacid = '{$_W['uniacid']}'");
+		$card_status =  $card_setting['status'];
+		//æŸ¥çœ‹ä¼šå‘˜æ˜¯å¦å¼€å¯ä¼šå‘˜å¡åŠŸèƒ½
+		$membercard_setting  = pdo_get('mc_card_members', array('uniacid' => $_W['uniacid'], 'uid' => $_W['member']['uid']));
+		$membercard_status = $membercard_setting['status'];
+		$pricefield = !empty($membercard_status) && $card_status == 1?"mprice":"cprice";
+		if (!empty($card_status) && !empty($membercard_status)) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public function getItemTiles() {
+		global $_W;
+		$urls = array(
+			array('title' => "é…’åº—é¦–é¡µ", 'url' => $this->createMobileUrl('index')),
+			array('title' => "æˆ‘çš„è®¢å•", 'url' => $this->createMobileUrl('orderlist')),
+		);
+		return $urls;
+	}
+
+	function getSearchArray(){
+
+		$search_array = get_cookie($this->_search_key);
+		if (empty($search_array)) {
+			//é»˜è®¤æœç´¢å‚æ•°
+			$search_array['order_type'] = 1;
+			$search_array['order_name'] = 2;
+			$search_array['location_p'] = $this->_set_info['location_p'];
+			$search_array['location_c'] = $this->_set_info['location_c'];
+			if (strpos($search_array['location_p'], 'å¸‚') > -1) {
+				//ç›´è¾–å¸‚
+				$search_array['municipality'] = 1;
+				$search_array['city_name'] = $search_array['location_p'];
+			} else {
+				$search_array['municipality'] = 0;
+				$search_array['city_name'] = $search_array['location_c'];
+			}
+			$search_array['business_id'] = 0;
+			$search_array['business_title'] = '';
+			$search_array['brand_id'] = 0;
+			$search_array['brand_title'] = '';
+
+			$weekarray = array("æ—¥", "ä¸€", "äºŒ", "ä¸‰", "å››", "äº”", "å…­");
+
+			$date = date('Y-m-d');
+			$time = strtotime($date);
+			$search_array['btime'] = $time;
+			$search_array['etime'] = $time + 86400;
+			$search_array['bdate'] = $date;
+			$search_array['edate'] = date('Y-m-d', $search_array['etime']);
+			$search_array['bweek'] = 'æ˜ŸæœŸ' . $weekarray[date("w", $time)];
+			$search_array['eweek'] = 'æ˜ŸæœŸ' . $weekarray[date("w", $search_array['etime'])];
+			$search_array['day'] = 1;
+			insert_cookie($this->_search_key, $search_array);
+		}
+		//print_r($search_array);exit;
+		return $search_array;
+	}
+
+	//å…¥å£æ–‡ä»¶
+	public function doMobileIndex()
+	{
+		global $_GPC, $_W;
+		$weid = $this->_weid;
+		$from_user = $this->_from_user;
+		$set = $this->_set_info;
+		$hid = $_GPC['hid'];
+		$user_info = pdo_fetch("SELECT * FROM " . tablename('hotel2_member') . " WHERE from_user = :from_user AND weid = :weid limit 1", array(':from_user' => $from_user, ':weid' => $weid));
+		//ç‹¬ç«‹ç”¨æˆ·
+		if ($set['user'] == 2) {
+			if (empty($user_info['id'])) {
+				//ç”¨æˆ·ä¸å­˜åœ¨
+				if ($set['reg'] == 1) {
+					//å¼€å¯æ³¨å†Œ
+					$url = $this->createMobileUrl('register');
+				} else {
+					//ç¦æ­¢æ³¨å†Œ
+					$url = $this->createMobileUrl('login');
+				}
+			} else {
+				//ç”¨æˆ·å·²ç»å­˜åœ¨ï¼Œåˆ¤æ–­ç”¨æˆ·æ˜¯å¦ç™»å½•
+				$check = check_hotel_user_login($this->_set_info);
+				if ($check) {
+					if ($user_info['status'] == 1) {
+						$url = $this->createMobileUrl('search');
+					} else {
+						$url = $this->createMobileUrl('login');
+					}
+				} else {
+					$url = $this->createMobileUrl('login');
+				}
+			}
+		} else {
+			//å¾®ä¿¡ç”¨æˆ·
+			if (empty($user_info['id'])) {
+				//ç”¨æˆ·ä¸å­˜åœ¨ï¼Œè‡ªåŠ¨æ·»åŠ ä¸€ä¸ªç”¨æˆ·
+				$member = array();
+				$member['weid'] = $weid;
+				$member['from_user'] = $from_user;
+				$member['createtime'] = time();
+				$member['isauto'] = 1;
+				$member['status'] = 1;
+				pdo_insert('hotel2_member', $member);
+				$member['id'] = pdo_insertid();
+				$member['user_set'] = $set['user'];
+				//è‡ªåŠ¨æ·»åŠ æˆåŠŸï¼Œå°†ç”¨æˆ·ä¿¡æ¯æ”¾å…¥cookie
+				hotel_set_userinfo(0, $member);
+			} else {
+				if ($user_info['status'] == 1) {
+					$user_info['user_set'] = $set['user'];
+					//ç”¨æˆ·å·²ç»å­˜åœ¨ï¼Œå°†ç”¨æˆ·ä¿¡æ¯æ”¾å…¥cookie
+					hotel_set_userinfo(1, $user_info);
+				} else {
+					//ç”¨æˆ·å¸å·è¢«ç¦ç”¨
+					$msg = "æŠ±æ­‰ï¼Œä½ çš„å¸å·è¢«ç¦ç”¨ï¼Œè¯·è”ç³»é…’åº—è§£å†³ã€‚";
+					if ($this->_set_info['is_unify'] == 1) {
+						$msg .= "é…’åº—ç”µè¯ï¼š" . $this->_set_info['tel'] . "ã€‚";
+					}
+					$url = $this->createMobileUrl('error',array('msg' => $msg));
+					header("Location: $url");
+					exit;
+				}
+			}
+			//å¾®ä¿¡ç²‰ä¸ï¼Œå¯ä»¥ç›´æŽ¥ä½¿ç”¨
+			$url = $this->createMobileUrl('search', array('hid' => $hid));
+		}
+		header("Location: $url");
+		exit;
+	}
+
+	//æ£€æŸ¥é…’åº—ç‰ˆæœ¬
+	public function check_version()
+	{
+		global $_GPC, $_W;
+		$weid = $this->_weid;
+		$hid = $_GPC['hid'];
+		//å•é…’åº—ç‰ˆ
+		if ($this->_version == 0) {
+			$params = array(':weid' => $weid, ':status' => '1');
+			if (empty($hid)) {
+				$where = ' ORDER BY displayorder DESC';
+			} else {
+				$where = ' AND `id` = :id';
+				$params[':id'] = $hid;
+			}
+			$sql = "SELECT id FROM " . tablename('hotel2') . " WHERE weid = :weid AND status = :status" . $where;
+			$data = pdo_fetch($sql, $params);
+			if (empty($data['id'])) {
+				echo "é…’åº—ä¿¡æ¯èŽ·å–å¤±è´¥";exit;
+			}
+			$hid = intval($data['id']);
+			$url = $this->createMobileUrl('detail', array('hid' => $hid));
+			header("Location: $url");
+			exit;
+		}
+	}
+
+	//æŸ¥è¯¢æ¡ä»¶é¡µ
+	public function doMobilesearch()
+	{
+		global $_GPC, $_W;
+		$this->check_login();
+		$search_array = $this->getSearchArray();
+		$this->check_version();
+		$key_word = '';
+		if (!empty($search_array['keyword'])) {
+			$key_word .= $search_array['keyword'];
+		}
+		if (!empty($search_array['business_id'])) {
+			if (!empty($key_word)) {
+				$key_word .= "/";
+			}
+			$key_word .= $search_array['business_title'];
+		}
+		if (!empty($search_array['brand_id'])) {
+			if (!empty($key_word)) {
+				$key_word .= "/";
+			}
+			$key_word .= $search_array['brand_title'];
+		}
+		if (empty($key_word)) {
+			$key_word = 'é…’åº—å/å•†åœˆ/å“ç‰Œ';
+		}
+		include $this->template('search');
+	}
+
+	//æ—¥æœŸé€‰æ‹©é¡µ
+	public function doMobiledate()
+	{
+		global $_GPC, $_W;
+		$this->check_login();
+		$search_array = get_cookie($this->_search_key);
+		$hid = $_GPC['hid'];
+		if ($search_array && !empty($search_array['bdate']) && !empty($search_array['day'])) {
+			$bdate = $search_array['bdate'];
+			$day = $search_array['day'];
+		} else {
+			$bdate = date('Y-m-d');
+			$day = 1;
+		}
+		load()->func('tpl');
+		include $this->template('date');
+	}
+
+	//ç™»å½•é¡µ
+	public function doMobilelogin()
+	{
+		global $_GPC, $_W;;
+		$set = $this->_set_info;
+
+		if (checksubmit()) {
+			$member = array();
+			$username = trim($_GPC['username']);
+
+			if (empty($username)) {
+				die(json_encode(array("result" => 2, "error" => "è¯·è¾“å…¥è¦ç™»å½•çš„ç”¨æˆ·å")));
+			}
+			$member['username'] = $username;
+			$member['password'] = $_GPC['password'];
+			//$member['status'] = 1;
+
+			if (empty($member['password'])) {
+				die(json_encode(array("result" => 3, "error" => "è¯·è¾“å…¥ç™»å½•å¯†ç ")));
+			}
+
+			$weid = $this->_weid;
+			$from_user = $this->_from_user;
+			$set = $this->_set_info;
+
+			$member['weid'] = $weid;
+			$record = hotel_member_single($member);
+
+			if (!empty($record)) {
+				if ( ($set['bind'] == 3 && ($record['userbind'] == 1) || $set['bind'] == 2)) {
+					if (!empty($record['from_user'])) {
+						if ($record['from_user'] != $this->_from_user) {
+							die(json_encode(array("result" => 0, "error" => "ç™»å½•å¤±è´¥ï¼Œæ‚¨çš„å¸å·ä¸Žç»‘å®šçš„å¾®ä¿¡å¸å·ä¸ç¬¦ï¼")));
+						}
+					}
+				}
+
+				if (empty($record['status'])) {
+					die(json_encode(array("result" => 0, "error" => "ç™»å½•å¤±è´¥ï¼Œæ‚¨çš„å¸å·è¢«ç¦æ­¢ç™»å½•ï¼Œè¯·è”ç³»é…’åº—è§£å†³ï¼")));
+				}
+
+				$record['user_set'] = $set['user'];
+
+				//ç™»å½•æˆåŠŸ
+				hotel_set_userinfo(0, $record);
+
+				$url = $this->createMobileUrl('search');
+				die(json_encode(array("result" => 1, "url" => $url)));
+			} else {
+				die(json_encode(array("result" => 0, "error" => "ç™»å½•å¤±è´¥ï¼Œè¯·æ£€æŸ¥æ‚¨è¾“å…¥çš„ç”¨æˆ·åå’Œå¯†ç ï¼")));
+			}
+		} else {
+			include $this->template('login');
+		}
+	}
+
+	//ajaxæ•°æ®å¤„ç†,åŒ…å« åŸŽå¸‚é€‰æ‹© æ—¶é—´é€‰æ‹© ä»·æ ¼é€‰æ‹©
+	public function doMobileajaxData()
+	{
+		global $_GPC, $_W;
+		$hid = $_GPC['hid'];
+		$data = $this->getSearchArray();
+		$key = $this->_search_key;
+		switch ($_GPC['ac'])
+		{
+			//é€‰æ‹©æ—¥æœŸ
+			case 'time':
+				$bdate = $_GPC['bdate'];
+				$day = $_GPC['day'];
+				if (!empty($bdate) && !empty($day)) {
+					$btime = strtotime($bdate);
+					$etime = $btime + $day * 86400;
+					$weekarray = array("æ—¥", "ä¸€", "äºŒ", "ä¸‰", "å››", "äº”", "å…­");
+					$data['btime'] = $btime;
+					$data['etime'] = $etime;
+					$data['bdate'] = $bdate;
+					$data['edate'] = date('Y-m-d', $etime);
+					$data['bweek'] = 'æ˜ŸæœŸ' . $weekarray[date("w", $btime)];
+					$data['eweek'] = 'æ˜ŸæœŸ' . $weekarray[date("w", $etime)];
+					$data['day'] = $day;
+					insert_cookie($this->_search_key, $data);
+					$url = $this->createMobileUrl('detail', array('hid' => $hid));
+					die(json_encode(array("result" => 1, "url" => $url)));
+				}
+				break;
+
+			//é€‰æ‹©ä»·æ ¼å’Œæ˜Ÿçº§
+			case 'price':
+				$price_type = $_GPC['price_type'];
+				$price_value = $_GPC['price_value'];
+
+				if (empty($price_value)) {
+					$data['price_type'] = 0;
+				} else {
+					$data['price_type'] = $price_type;
+				}
+				$data['price_value'] = $price_value;
+				insert_cookie($key, $data);
+				die(json_encode(array("result" => 1)));
+				break;
+
+			//é€‰æ‹©åŸŽå¸‚
+			case 'city':
+				$location_p = $_GPC['location_p'];
+				$location_c = $_GPC['location_c'];
+
+				if (!empty($location_p) && !empty($location_c)) {
+
+					if (strpos($location_p, 'å¸‚') > -1) {
+						//ç›´è¾–å¸‚
+						$data['municipality'] = 1;
+						$data['city_name'] = $location_p;
+					} else {
+						$data['municipality'] = 0;
+						$data['city_name'] = $location_c;
+					}
+
+					$data['location_p'] = $location_p;
+					$data['location_c'] = $location_c;
+
+					insert_cookie($key, $data);
+				}
+				$url = $this->createMobileUrl('search');
+				die(json_encode(array("result" => 1, "url" => $url)));
+				break;
+
+			//ä»·æ ¼æŽ’åº
+			case 'orderby':
+				$order_name = $_GPC['order_name'];
+				$order_type = $_GPC['order_type'];
+
+				$data['order_name'] = $order_name;
+				$data['order_type'] = $order_type;
+
+				insert_cookie($key, $data);
+				$url = $this->createMobileUrl('list');
+				die(json_encode(array("result" => 1, "order_type"=>$order_type,"order_name"=>$order_name, "url" => $url)));
+				break;
+
+			//é€‰æ‹©å“ç‰Œå•†åœˆ
+			case 'brand':
+				$business_id = $_GPC['business_id'];
+				$business_title = $_GPC['business_title'];
+				$brand_id = $_GPC['brand_id'];
+				$brand_title = $_GPC['brand_title'];
+				$keyword = $_GPC['keyword'];
+
+				$data['business_id'] = $business_id;
+				$data['brand_id'] = $brand_id;
+				if (!empty($business_title)) {
+					$data['business_title'] = $business_title;
+				}
+				if (!empty($brand_title)) {
+					$data['brand_title'] = $brand_title;
+				}
+				$data['keyword'] = $keyword;
+
+				insert_cookie($key, $data);
+				$url = $this->createMobileUrl('search');
+				die(json_encode(array("result" => 1, "url" => $url)));
+				break;
+
+			//æ¸…é™¤å“ç‰Œå•†åœˆä¿¡æ¯
+			case 'clear_brand':
+				$data['business_id'] = 0;
+				$data['brand_id'] = 0;
+				$data['business_title'] = '';
+				$data['brand_title'] = '';
+				$data['keyword'] = '';
+
+				insert_cookie($key, $data);
+				$url = $this->createMobileUrl('search');
+				die(json_encode(array("result" => 1, "url" => $url)));
+				break;
+		}
+	}
+
+	//åŸŽå¸‚é€‰æ‹©é¡µ
+	public function doMobilecity()
+	{
+		global $_GPC, $_W;
+
+		$this->check_login();
+		$search_array = get_cookie($this->_search_key);
+		include $this->template('city');
+	}
+
+	//é¢„å®šé¡µï¼Œé¢„å®šä¿¡æ¯æäº¤é¡µ
+	public function doMobileOrder()
+	{
+		global $_GPC, $_W;
+		$this->check_login();
+		$paysetting = uni_setting($_W['uniacid'], array('payment', 'creditbehaviors'));
+		$_W['account'] = array_merge($_W['account'], $paysetting);
+		$isauto = $this->_user_info['isauto'];
+		$hid = intval($_GPC['hid']);
+		$id = intval($_GPC['id']);
+		$weid = $this->_weid;
+		$price = $_GPC['price'];
+		if(empty($hid) || empty($id)){
+			message("å‚æ•°é”™è¯¯1ï¼");
+		}
+
+		$search_array = $this->getSearchArray();
+		if (!$search_array || empty($search_array['btime']) || empty($search_array['day'])) {
+			$url = $this->createMobileUrl('index');
+			header("Location: $url");
+		}
+
+		$is_submit = checksubmit();
+		$sql = 'SELECT `title`, `mail`, `phone`, `thumb`, `description` FROM ' . tablename('hotel2') . ' WHERE `id` = :id';
+		$reply = pdo_fetch($sql, array(':id' => $hid));
+		if (empty($reply)) {
+			if ($is_submit) {
+				die(json_encode(array("result" => 0, "error" => "é…’åº—æœªæ‰¾åˆ°!")));
+			} else {
+				message('é…’åº—æœªæ‰¾åˆ°, è¯·è”ç³»ç®¡ç†å‘˜!');
+			}
+		}
+
+		// è®¾ç½®åˆ†äº«ä¿¡æ¯
+		$shareTitle = $reply['title'];
+		$shareDesc = $reply['description'];
+		$shareThumb = tomedia($reply['thumb']);
+
+		if ($this->_set_info['is_unify'] == 1) {
+			$tel = $this->_set_info['tel'];
+		} else {
+			$tel = $reply['phone'];
+		}
+
+		$pricefield = $this->isMember() ? 'mprice' : 'cprice';
+		$sql = "SELECT * , $pricefield AS roomprice FROM " . tablename('hotel2_room') . " WHERE `id` = :id AND `hotelid` = :hotelid ";
+		$room = pdo_fetch($sql, array(':id' => $id, ':hotelid' => $hid));
+
+		if (empty($room)) {
+			if ($is_submit) {
+				die(json_encode(array("result" => 0, "error" => "æˆ¿åž‹æœªæ‰¾åˆ°!")));
+			} else {
+				message("æˆ¿åž‹æœªæ‰¾åˆ°, è¯·è”ç³»ç®¡ç†å‘˜!");
+			}
+		}
+
+		// å…¥ä½
+		$btime = $search_array['btime'];
+		$bdate = $search_array['bdate'];
+		// ä½å‡ å¤©
+		$days =intval($search_array['day']);
+		// ç¦»åº—
+		$etime = $search_array['etime'];
+		$edate = $search_array['edate'] ;
+		$date_array = array();
+		$date_array[0]['date'] = $bdate;
+		$date_array[0]['day'] = date('j', $btime);
+		$date_array[0]['time'] = $btime;
+		$date_array[0]['month'] = date('m',$btime);
+
+		if ($days > 1) {
+			for($i = 1; $i < $days; $i++) {
+				$date_array[$i]['time'] = $date_array[$i-1]['time'] + 86400;
+				$date_array[$i]['date'] = date('Y-m-d', $date_array[$i]['time']);
+				$date_array[$i]['day'] = date('j', $date_array[$i]['time']);
+				$date_array[$i]['month'] = date('m', $date_array[$i]['time']);
+			}
+		}
+//é…’åº—ä¿¡æ¯
+		$sql = 'SELECT `id`, `roomdate`, `num`, `status` FROM ' . tablename('hotel2_room_price') . ' WHERE `roomid` = :roomid
+				AND `roomdate` >= :btime AND `roomdate` < :etime AND `status` = :status';
+
+		$params = array(':roomid' => $id, ':btime' => $btime, ':etime' => $etime, ':status' => '1');
+		$room_date_list = pdo_fetchall($sql, $params);
+		$flag = intval($room_date_list);
+		$list = array();
+		$max_room = 8;
+		$is_order = 1;
+
+		if ($flag == 1) {
+			for($i = 0; $i < $days; $i++) {
+				$k = $date_array[$i]['time'];
+				foreach ($room_date_list as $p_key => $p_value) {
+					// åˆ¤æ–­ä»·æ ¼è¡¨ä¸­æ˜¯å¦æœ‰å½“å¤©çš„æ•°æ®
+					if($p_value['roomdate'] == $k) {
+						$room_num = $p_value['num'];
+						if (empty($room_num)) {
+							$is_order = 0;
+							$max_room = 0;
+							$list['num'] = 0;
+							$list['date'] =  $date_array[$i]['date'];
+						} else if ($room_num > 0 && $room_num < $max_room) {
+							$max_room = $room_num;
+							$list['num'] =  $room_num;
+							$list['date'] =  $date_array[$i]['date'];
+						}
+						break;
+					}
+				}
+			}
+		}
+
+		if ($max_room == 0) {
+			$msg = $list['date'] . 'å½“å¤©æ²¡æœ‰ç©ºæˆ¿é—´äº†,è¯·é€‰æ‹©å…¶ä»–æˆ¿åž‹ã€‚';
+			$url = $this->createMobileUrl('error', array('msg' => $msg));
+			header("Location: $url");
+			exit;
+		}
+
+		$user_info = hotel_get_userinfo();
+		$memberid = intval($user_info['id']);
+
+		$pricefield = $this->isMember()? 'mprice' : 'cprice';
+		$r_sql = 'SELECT `roomdate`, `num`, `oprice`, `status`, ' . $pricefield . ' AS `m_price` FROM ' . tablename('hotel2_room_price') .
+			' WHERE `roomid` = :roomid AND `weid` = :weid AND `hotelid` = :hotelid AND `roomdate` >= :btime AND ' .
+			' `roomdate` < :etime';
+		$params = array(':roomid' => $id, ':weid' => $weid, ':hotelid' => $hid, ':btime' => $btime, ':etime' => $etime);
+		$price_list = pdo_fetchall($r_sql, $params);
+		$member_p = unserialize($room['mprice']);
+		$this_price = $old_price =  $pricefield == 'mprice' ?  $room['oprice']*$member_p[$_W['member']['groupid']] : $room['roomprice'];
+		if ($this_price == 0) {
+			$this_price = $old_price = $room['oprice'] ;
+		}
+		$totalprice =  $old_price * $days;
+       //$room_score=$room['score'];
+        //var_dump($room_score);
+
+		if ($price_list) {
+			//ä»·æ ¼è¡¨ä¸­å­˜åœ¨
+			$check_date = array();
+			foreach($price_list as $k => $v) {
+				$new_price = $pricefield == 'mprice' ? $this_price : $v['m_price'];
+				$roomdate = $v['roomdate'];
+				if ($v['status'] == 0 || $v['num'] == 0 ) {
+					$has = 0;
+				} else {
+					if ($new_price && $roomdate) {
+						if (!in_array($roomdate, $check_date)) {
+							$check_date[] = $roomdate;
+							if ($old_price != $new_price) {
+								$totalprice = $totalprice - $old_price + $new_price;
+							}
+						}
+					}
+				}
+			}
+			$this_price = round($totalprice / $days);
+		}
+
+
+		if ($is_submit) {
+			$from_user = $this->_from_user;
+			$name = $_GPC['uname'];
+			$contact_name = $_GPC['contact_name'];
+			$mobile = $_GPC['mobile'];
+			$remark = trim($_GPC['remark']);
+
+			if (empty($name)) {
+				die(json_encode(array("result" => 0, "error" => "å…¥ä½äººä¸èƒ½ä¸ºç©º!")));
+			}
+
+			if (empty($contact_name)) {
+				die(json_encode(array("result" => 0, "error" => "è”ç³»äººä¸èƒ½ä¸ºç©º!")));
+			}
+
+			if (empty($mobile)) {
+				die(json_encode(array("result" => 0, "error" => "æ‰‹æœºå·ä¸èƒ½ä¸ºç©º!")));
+			}
+
+			if ($_GPC['nums'] > $max_room) {
+				die(json_encode(array("result" => 0, "error" => "æ‚¨çš„é¢„å®šæ•°é‡è¶…è¿‡æœ€å¤§é™åˆ¶!")));
+			}
+
+			$insert = array(
+				'weid' => $weid,
+				'ordersn' => date('md') . sprintf("%04d", $_W['fans']['id']) . random(4, 1),
+				'hotelid' => $hid,
+				'openid' => $from_user,
+				'roomid' => $id,
+				'memberid' => $memberid,
+				'name' => $name,
+				'remark' => $remark,
+				'contact_name' => $contact_name,
+				'mobile' => $mobile,
+				'btime' => $search_array['btime'],
+				'etime' => $search_array['etime'],
+				'day' => $search_array['day'],
+				'style' => $room['title'],
+				'nums' => intval($_GPC['nums']),
+				'oprice' => $room['oprice'],
+				'cprice' => $room['cprice'],
+				'mprice' => $room['mprice'],
+				'time' => TIMESTAMP,
+				'paytype' => $_GPC['paytype']
+			);
+
+			$insert[$pricefield] = $this_price;
+			$insert['sum_price'] = $totalprice * $insert['nums'];
+
+			pdo_insert('hotel2_order', $insert);
+			$order_id = pdo_insertid();
+
+			//å¦‚æžœæœ‰æŽ¥å—è®¢å•çš„é‚®ä»¶,
+			if (!empty($reply['mail'])) {
+				$subject = "å¾®ä¿¡å…¬å…±å¸å· [" . $_W['account']['name'] . "] å¾®é…’åº—è®¢å•æé†’.";
+				$body = "æ‚¨åŽå°æœ‰ä¸€ä¸ªé¢„å®šè®¢å•: <br/><br/>";
+				$body .= "é¢„å®šé…’åº—: " . $reply['title'] . "<br/>";
+				$body .= "é¢„å®šæˆ¿åž‹: " . $room['title'] . "<br/>";
+				$body .= "é¢„å®šæ•°é‡: " . $insert['nums'] . "<br/>";
+				$body .= "é¢„å®šä»·æ ¼: " . $insert['sum_price'] . "<br/>";
+				$body .= "é¢„å®šäºº: " . $insert['name'] . "<br/>";
+				$body .= "é¢„å®šç”µè¯: " . $insert['mobile'] . "<br/>";
+				$body .= "åˆ°åº—æ—¶é—´: " . $bdate . "<br/>";
+				$body .= "ç¦»åº—æ—¶é—´: " . $edate . "<br/><br/>";
+				$body .= "è¯·æ‚¨åˆ°ç®¡ç†åŽå°ä»”ç»†æŸ¥çœ‹. <a href='" .$_W['siteroot'] .create_url('member/login') . "' target='_blank'>ç«‹å³ç™»å½•åŽå°</a>";
+				load()->func('communication');
+				ihttp_email($reply['mail'], $subject, $body);
+			}
+			if($insert['paytype'] == '3') {
+				//åˆ°åº—ä»˜æ¬¾å‡åº“å­˜
+				$starttime = $insert['btime'];
+				for ($i = 0; $i < $insert['day']; $i++) {
+					$sql = 'SELECT * FROM '. tablename('hotel2_room_price'). ' WHERE weid = :weid AND roomid = :roomid AND roomdate = :roomdate';
+					$day = pdo_fetch($sql, array(':weid' => $weid, ':roomid' => $insert['roomid'], ':roomdate' => $starttime));
+					pdo_update('hotel2_room_price', array('num' => $day['num'] - $insert['nums']), array('id' => $day['id']));
+					$starttime += 86400;
+				}
+				$weid = $this->_weid;
+				$sql = 'SELECT * FROM ' . tablename('hotel2_order') . ' WHERE id = :id AND weid = :weid';
+				$order = pdo_fetch($sql, array(':id' => $order_id, ':weid' => $weid));
+				$sql = 'SELECT email,template,templateid FROM ' . tablename('hotel2_set') . ' WHERE weid = :weid';
+				$setInfo = pdo_fetch($sql, array(':weid' => $_W['uniacid']));
+				if ($setInfo['template']) {
+					$acc = WeAccount::create($_W['acid']);
+					$data = array (
+						'first' => array('value' => 'é…’åº—è®¢å•'),
+						'order' => array('value' => $order['ordersn']),
+						'Name' => array('value' => $order['name']),
+						'datein' => array('value' => date('Y-m-d',$order['btime'])),
+						'dateout' => array('value' => date('Y-m-d',$order['etime'])),
+						'number' => array('value' => $order['nums']),
+						'room type' => array('value' => $order['style']),
+						'pay' => array('value' => $order['sum_price'])
+					);
+					$acc->sendTplNotice($this->_from_user,$setInfo['templateid'],$data);
+				}
+				if ($setInfo['email']) {
+					$body = "<h3>é…’åº—è®¢å•</h3> <br />";
+					$body .= 'è®¢å•ç¼–å·ï¼š' . $order['ordersn'] . '<br />';
+					$body .= 'å§“åï¼š' . $order['name'] . '<br />';
+					$body .= 'æ‰‹æœºï¼š' . $order['mobile'] . '<br />';
+					$body .= 'æˆ¿åž‹ï¼š' . $order['style'] . '<br />';
+					$body .= 'è®¢è´­æ•°é‡' . $order['nums'] . '<br />';
+					$body .= 'åŽŸä»·ï¼š' . $order['oprice']  . '<br />';
+					$body .= 'ä¼šå‘˜ä»·ï¼š' . $order['mprice']  . '<br />';
+					$body .= 'å…¥ä½æ—¥æœŸï¼š' . date('Y-m-d',$order['btime'])  . '<br />';
+					$body .= 'é€€æˆ¿æ—¥æœŸï¼š' . date('Y-m-d',$order['etime']) . '<br />';
+					$body .= 'æ€»ä»·:' . $order['sum_price'];
+					// å‘é€é‚®ä»¶æé†’
+					if (!empty($setInfo['email'])) {
+						load()->func('communication');
+						ihttp_email($setInfo['email'], 'å¾®é…’åº—è®¢å•æé†’', $body);
+					}
+				}
+			}
+			$url = $this->createMobileUrl('orderdetail', array('id' => $order_id));
+			die(json_encode(array("result" => 1, "url" => $url)));
+		} else {
+			$price = $totalprice;
+			$member = array();
+			$member['from_user'] = $this->_from_user;
+			$record = hotel_member_single($member);
+
+			if ($record) {
+				$realname = $record['realname'];
+				$mobile = $record['mobile'];
+			} else {
+				$fans = pdo_fetch("SELECT id, realname, mobile FROM " . tablename('fans') . " WHERE from_user = :from_user limit 1", array(':from_user' => $this->_from_user));
+				if (!empty($fans)) {
+					$realname = $fans['realname'];
+					$mobile = $fans['mobile'];
+				}
+			}
+
+			include $this->template('order');
+		}
+	}
+
+	// é…’åº—è¯¦æƒ…é¡µï¼Œæ˜¾ç¤ºæˆ¿é—´åˆ—è¡¨
+	public function doMobilekeyword()
+	{
+		global $_GPC, $_W;
+
+		$this->check_login();
+		$referer = referer();
+		$search_array = $this->getSearchArray();
+
+		if (!$search_array || empty($search_array['location_p']) || empty($search_array['location_c'])) {
+			$url = $this->createMobileUrl('index');
+			header("Location: $url");
+		}
+
+		$search_array['business_id'] =  intval($search_array['business_id']);
+		$search_array['brand_id'] =  intval($search_array['brand_id']);
+
+		$business_sql = "SELECT id, title FROM " . tablename('hotel2_business') . " WHERE weid = '{$this->_weid}'";
+		$business_sql .= " AND location_p ='" . $search_array['location_p'] . "'";
+		$business_sql .= " AND location_c ='" . $search_array['location_c'] . "'";
+		$business_sql .= " AND status = 1 ORDER BY displayorder DESC";
+		$business_list = pdo_fetchall($business_sql);
+		//print_r($business_list);exit;
+
+		$brand_sql = "SELECT id, title FROM " . tablename('hotel2_brand') . " WHERE weid = '{$this->_weid}' AND status = 1 ORDER BY displayorder DESC";
+		$brand_list = pdo_fetchall($brand_sql);
+
+		include $this->template('keyword');
+
+	}
+
+	//é…’åº—è¯¦æƒ…é¡µï¼Œæ˜¾ç¤ºæˆ¿é—´åˆ—è¡¨
+
+	public function doMobiledetail()
+	{
+		global $_GPC, $_W;
+		$this->check_login();
+		$hid = $_GPC['hid'];
+		$weid = $this->_weid;
+		$referer = referer();
+		$search_array = $this->getSearchArray();
+		if ($this->_version == 1) {
+			//å¤šé…’åº—æ‰æœ‰æŸ¥è¯¢æ¡ä»¶
+			if (!$search_array) {
+				$url = $this->createMobileUrl('index');
+				header("Location: $url");
+			}
+		}
+		$reply = pdo_fetch("SELECT * FROM " . tablename('hotel2') . " WHERE id = :id ", array(':id' => $hid));
+		// è®¾ç½®åˆ†äº«ä¿¡æ¯
+		$shareTitle = $reply['title'];
+		$shareDesc = $reply['description'];
+		$shareThumb = tomedia($reply['thumb']);
+		if(empty($reply)){
+			message("é…’åº—æœªæ‰¾åˆ°, è¯·è”ç³»ç®¡ç†å‘˜!");
+		}
+		$thumbs = unserialize($reply['thumbs']);
+		$thumbcount = count($thumbs) + 1;
+		if ($this->_set_info['is_unify'] == 1) {
+			$tel = $this->_set_info['tel'];
+		} else {
+			$tel = $reply['phone'];
+		}
+		$ac = $_GPC['ac'];
+		if ($ac == "getDate") {
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			//æ˜¾ç¤ºä¼šå‘˜ä»·è¿˜æ˜¯æ™®é€šä»·
+			$pricefield = $this->isMember()? "mprice" : "cprice";
+			//å…¥ä½
+			$bdate = $search_array['bdate'];
+			$btime = $search_array['btime'];
+			//ä½å‡ å¤©
+			$day =intval($search_array['day']);
+			//ç¦»åº—
+			$edate = $search_array['edate'];
+			$etime = $search_array['etime'];
+			$params = array(
+				":weid"=>$weid,
+				":hotelid"=>$hid
+			);
+			$sql = "SELECT id, hotelid, id as roomid, title, breakfast, thumb, thumbs, oprice, " . $pricefield . " as m_price";
+			$sql .= " FROM " .tablename('hotel2_room');
+			$sql .= " WHERE 1 = 1";
+			$sql .= " AND hotelid = :hotelid";
+			$sql .= " AND weid = :weid";
+			$sql .= " AND status = 1";
+			$sql .= " ORDER BY displayorder, sortid DESC";
+			$room_list = pdo_fetchall($sql, $params);
+			//å¾ªçŽ¯æˆ¿é—´åˆ—è¡¨
+			foreach($room_list as $key => $value) {
+				$room_list[$key]['thumbs'] = unserialize($value['thumbs']);
+				$r_sql = "SELECT roomdate, num, status, oprice, " . $pricefield . " as m_price FROM " . tablename('hotel2_room_price');
+				$r_sql .= " WHERE 1 = 1";
+				$r_sql .= " AND roomid = " . $value['roomid'];
+				$r_sql .= " AND weid = :weid";
+				$r_sql .= " AND hotelid = :hotelid";
+				$r_sql .= " AND roomdate >=" . $btime ." AND roomdate <" .$etime;
+				$price_list = pdo_fetchall($r_sql, $params);
+				if ($price_list) {
+					//ä»·æ ¼è¡¨ä¸­å­˜åœ¨
+					$has = 1;
+					$avg = 0;
+					if ($pricefield == 'mprice') {
+						$member_p = unserialize($value['m_price']);
+						$old_price = $value['oprice']*$member_p[$_W['member']['groupid']];
+						if ($old_price == 0) {
+							$old_price == $value['oprice'];
+						}
+					} else {
+						$old_price = $value['m_price'];
+					}
+					$totalprice =  $old_price * $day;
+					$check_date = array();
+					foreach($price_list as $k => $v) {
+						$new_price = $pricefield == 'mprice' ? $old_price : $v['m_price'];
+						$roomdate = $v['roomdate'];
+						if ($new_price && $roomdate) {
+							if (!in_array($roomdate, $check_date)) {
+								$check_date[] = $roomdate;
+								if ($old_price != $new_price) {
+									$avg = 1;
+									$totalprice = $totalprice - $old_price + $new_price;
+								}
+							}
+						}
+						if ($v['status'] == 0 || $v['num'] == 0 ) {
+							$has = 0;
+						} else {
+						}
+					}
+					$room_list[$key]['has'] = $has;
+					$room_list[$key]['price'] = round( $totalprice / $day);
+					$room_list[$key]['total_price'] = $totalprice;
+					if($day == 1) {
+						$avg = 0;
+					}
+					$room_list[$key]['avg'] = $avg;
+				} else {
+					//ä»·æ ¼è¡¨ä¸­ä¸å­˜åœ¨
+					$room_list[$key]['has'] = 1;
+					if ($pricefield == 'mprice') {
+						$member_p = unserialize($value['m_price']);
+						$room_list[$key]['price'] =  $value['oprice'] * $member_p[$_W['member']['groupid']];
+						if ($room_list[$key]['price'] == 0) {
+							$room_list[$key]['price'] =  $value['oprice'];
+						}
+					} else {
+						$room_list[$key]['price'] = $value['m_price'];
+					}
+					$room_list[$key]['total_price'] = $value['m_price'] * $day;
+					$room_list[$key]['avg'] = 0;
+				}
+			}
+			if ($search_array['price_type'] == 1) {
+				$price_value = $search_array['price_value'];
+				if (!empty($price_value)) {
+					foreach($room_list as $key => $value) {
+						$new_price = $value['price'];
+						$price_flag = 1;
+						if (strstr($price_value, '-') !== false) {
+							$price_array = explode("-", $price_value);
+							if ($new_price >= intval($price_array[0]) && $new_price <= intval($price_array[1])) {
+								$price_flag = 1;
+							} else {
+								$price_flag = 0;
+							}
+						} else {
+							if ($price_value == 150) {
+								if ($new_price <= 150) {
+									$price_flag = 1;
+								} else {
+									$price_flag = 0;
+								}
+							}else if ($price_value == 1000) {
+								if ($new_price >= 1000) {
+									$price_flag = 1;
+								} else {
+									$price_flag = 0;
+								}
+							}
+						}
+						if ($price_flag == 0) {
+							unset($room_list[$key]);
+						}
+					}
+				}
+			}
+			$total = count($room_list);
+			if ($total <= $psize) {
+				$list = $room_list;
+			} else {
+				// éœ€è¦åˆ†é¡µ
+				if($pindex > 0) {
+					$list_array = array_chunk($room_list, $psize, true);
+					$list = $list_array[($pindex-1)];
+				} else {
+					$list = $room_list;
+				}
+			}
+			$data = array();
+			$data['result'] = 1;
+			$page_array = get_page_array($total, $pindex, $psize);
+			ob_start();
+			include $this->template('room_crumb');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+			$data['total'] = $total;
+			$data['isshow'] = $page_array['isshow'];
+			if ($page_array['isshow'] == 1) {
+				$data['nindex'] = $page_array['nindex'];
+			}
+			die(json_encode($data));
+			exit;
+			$where.=" GROUP BY r.id";
+			if ($search_array['price_type'] == 1) {
+				$price_value = $search_array['price_value'];
+				if (!empty($price_value)) {
+					$where .= " HAVING";
+					if (strstr($price_value, '-') !== false) {
+						$price_array = explode("-", $price_value);
+						$where .= " price BETWEEN " . intval($price_array[0]) . " AND " . intval($price_array[1]);
+					} else {
+						if ($price_value == 150) {
+							$where .= " price <= 150";
+						}else if ($price_value == 1000) {
+							$where .= " price >= 1000";
+						}
+					}
+				}
+			}
+			$sql .= $where;
+			$count_sql = "select count(1) as num from (" . $sql . ") count_test";
+			$sql .= " ORDER BY displayorder, sortid DESC";
+//			$sql = "SELECT * FROM " . tablename('hotel2_room');
+//			$where = " WHERE 1 = 1";
+//			$where .= " AND hotelid = $hid";
+//			$where .= " AND status = 1";
+//
+//			$sql .= $where;
+//			$count_sql = "SELECT (id) FROM " . tablename('hotel2_room') . $where;
+//
+//			$sql .= " ORDER BY displayorder, sortid DESC";
+			if($pindex > 0) {
+				// éœ€è¦åˆ†é¡µ
+				$start = ($pindex - 1) * $psize;
+				$sql .= " LIMIT {$start},{$psize}";
+			}
+			$rooms = pdo_fetchall($sql);
+			foreach($rooms as &$r){
+				$pricedays = pdo_fetchall("select $pricefield as price,roomdate from ew_hotel2_room_price where roomid={$r['id']} and roomdate>=$btime and roomdate<=$etime");
+				//æ‰¾å‡º$dayå¤©çš„ä»·æ ¼è®°å½•
+				$totalprice =  0 ;
+				$prices = array();
+				for($d=0;$d<$day;$d++){
+					$t = $btime+ 86400 * $d;
+					$p = $r['roomprice'];
+					foreach($pricedays as $pd){
+						if($pd['roomdate']==$t){
+							$p = $pd['price'];
+						}
+					}
+					$prices[] = $p;
+					$totalprice+=$p;
+				}
+				//ä»·æ ¼è¡¨çš„ä»·æ ¼æ˜¯å¦éƒ½ç›¸åŒ
+				$prices1 = array_unique($prices);
+				$r['avg'] = count($prices1)!=1;
+				$r['price'] = round( $totalprice/$day );
+			}
+			unset($r);
+			$total = pdo_fetchcolumn($count_sql);
+			//$total = pdo_fetchcolumn("select count(*) from ew_hotel2_room r left join ew_hotel2_room_price p on r.id = p.roomid ".$where);
+			$page_array = get_page_array($total, $pindex, $psize);
+			$data = array();
+			$data['result'] = 1;
+			ob_start();
+			include $this->template('room_crumb');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+			$data['total'] = $total;
+			$data['isshow'] = $page_array['isshow'];
+			if ($page_array['isshow'] == 1) {
+				$data['nindex'] = $page_array['nindex'];
+			}
+			die(json_encode($data));
+		} else {
+			$device = '';
+			$reply['device'] = unserialize($reply['device']);
+			if ($reply['device']) {
+				foreach ($reply['device'] as $key => $value) {
+					if ($value['isshow'] == 1) {
+						$device .= $value['value'] . ' ';
+					}
+				}
+			}
+			include $this->template('detail');
+		}
+	}
+
+	//èŽ·å–æˆ¿åž‹ä¿¡æ¯
+	public function doMobileroomdevice()
+	{
+		global $_GPC, $_W;
+		$this->check_login();
+
+		$id = $_GPC['id'];
+		$hid = $_GPC['hid'];
+		$has = $_GPC['has'];
+		$price = $_GPC['price'];
+		$total_price = $_GPC['total_price'];
+
+		$search_array = $this->getSearchArray();
+
+		$pricefield = $this->_user_info['isauto']==1?"cprice":"mprice";
+
+		$data = array();
+		if(empty($id) || empty($hid)) {
+			$data['result'] = 0;
+			echo 123;
+		} else {
+			//123
+			$sql = "SELECT *,'score',$pricefield as roomprice ";
+			$sql .= " FROM " .tablename('hotel2_room');
+			$sql .= " WHERE id = :id AND hotelid = :hotelid AND status = 1";
+			$sql .= " LIMIT 1";
+
+			$params = array();
+			$params[':hotelid'] = $hid;
+			
+			$params[':id'] = $id;
+			$item = pdo_fetch($sql, $params);
+			//var_dump($item);
+            
+			//è®¡ç®—ä»·æ ¼
+			//   //æ˜¾ç¤ºä¼šå‘˜ä»·è¿˜æ˜¯æ™®é€šä»·
+
+			//å…¥ä½
+//			$bdate = $search_array['bdate'];
+//			$btime = strtotime($bdate);
+//
+//			//ä½å‡ å¤©
+//			$day =intval($search_array['day']);
+//
+//			//ç¦»åº—
+//			$etime = $btime+86400;
+//			$edate = date('Y-m-d',$etime) ;
+//			$pricedays = pdo_fetchall("select $pricefield as price,roomdate from ew_hotel2_room_price where roomid={$item['id']} and roomdate>=$btime and roomdate<=$etime");
+//
+//
+//			//æ‰¾å‡º$dayå¤©çš„ä»·æ ¼è®°å½•
+//			$totalprice =  0 ;
+//			$prices = array();
+//			 $ts = array();
+//			 for($d=0;$d<$day;$d++){
+//					$t = $btime+ 86400 * $d;
+//					$p = $item['roomprice'];
+//					foreach($pricedays as $pd){
+//						if($pd['roomdate']==$t){
+//							$p = $pd['price'];
+//						}
+//					}
+//					$prices[] = $p;
+//					$totalprice+=$p;
+//				}
+//				//ä»·æ ¼è¡¨çš„ä»·æ ¼æ˜¯å¦éƒ½ç›¸åŒ
+//				$prices1 = array_unique($prices);
+//				$item['avg'] = count($prices1)!=1;
+//				$item['price'] = round( $totalprice/$day );
+
+
+			// èŽ·å–é…’åº—ç”µè¯
+			if ($this->_set_info['is_unify'] == 1) {
+				$tel = $this->_set_info['tel'];
+			} else {
+				$sql = 'SELECT `phone` FROM ' . tablename('hotel2') . ' WHERE id = :id ';
+				$tel = pdo_fetchcolumn($sql, array(':id' => $hid));
+
+			}
+			$data['result'] = 1;
+
+			ob_start();
+			include $this->template('room_device');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+		}
+		die(json_encode($data));
+	}
+
+	//èŽ·å–é…’åº—åˆ—è¡¨
+	public function doMobilelist()
+	{
+		global $_GPC, $_W;
+		$this->check_login();
+		$search_array =$this->getSearchArray();
+		if (!$search_array || empty($search_array['city_name'])) {
+			$url = $this->createMobileUrl('index');
+			header("Location: $url");
+		}
+
+		//0 é»˜è®¤æŽ¨è 1 ä»·æ ¼æŽ’åº
+		$order_name = intval($search_array['order_name']);
+		$order_type =intval( $search_array['order_type'] );
+		$ac = $_GPC['ac'];
+		if ($ac == "getDate") {
+			$weid = $this->_weid;
+			$price_type = $search_array['price_type'];
+			$price_value = $search_array['price_value'];
+
+			$data = array();
+			$data['result'] = 1;
+			$data['title'] = $search_array['city_name'];
+
+			//å…¥ä½
+			$bdate = $search_array['bdate'];
+			$btime = $search_array['btime'];
+
+			//ä½å‡ å¤©
+			$day =intval($search_array['day']);
+
+			//ç¦»åº—
+			$edate = $search_array['edate'];
+			$etime = $search_array['etime'];
+
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+
+			$params = array(
+				":weid"=>$weid
+			);
+			$pricefield = "cprice";
+
+			$sql = "SELECT h.id, r.id as roomid, h.title, h.thumb, h.level, h.displayorder, r.title as style, " . $pricefield . " as m_price";
+			$sql .= " FROM " .tablename('hotel2') ." AS h";
+			$sql .= " right JOIN " .tablename('hotel2_room') ." AS r ON h.id = r.hotelid";
+			$sql .= " WHERE 1 = 1";
+			$sql .= " AND r.weid = :weid";
+			$sql .= " AND h.status = 1 AND r.status = 1";
+
+			//å•†åœˆ
+			if (!empty($search_array['business_id'])) {
+				$sql .= " AND h.businessid =:businessid";
+				$params[':businessid'] = $search_array['business_id'];
+			}
+			//å“ç‰Œ
+			if (!empty($search_array['brand_id'])) {
+				$sql .= " AND h.brandid = :brandid";
+				$params[':brandid'] = $search_array['brand_id'];
+			}
+			//åç§°
+			if (!empty($search_array['keyword'])) {
+				$sql .= " AND h.title LIKE :keyword";
+				$params[':keyword'] = "%{$search_array['keyword']}%";
+			}
+			//åŸŽå¸‚
+			if (!empty($search_array['city_name'])) {
+				if ($search_array['municipality'] == 1) {
+					$sql .= " AND h.location_p =:city";
+				} else {
+					$sql .= " AND h.location_c =:city";
+				}
+				$params[':city'] = $search_array['city_name'];
+			}
+			//æ˜Ÿçº§
+			if ($price_type == 2) {
+				if (!empty($price_value)) {
+					$sql .= " AND h.level in( $price_value,". ($price_value + 10) .")";
+				}
+			}
+			$room_list = pdo_fetchall($sql, $params);
+
+			if (!$room_list) {
+				$data['total'] = 0;
+				$data['isshow'] = 0;
+				die(json_encode($data));
+			}
+
+			$day = intval($search_array['day']);
+
+			//å¾ªçŽ¯æˆ¿é—´åˆ—è¡¨
+			foreach($room_list as $key => $value) {
+				$r_sql = "SELECT count(id) as num, oprice,min(" . $pricefield . ") as m_price FROM " . tablename('hotel2_room_price') . " as p";
+				$r_sql .= " WHERE 1 = 1";
+				$r_sql .= " AND roomid = " . $value['roomid'];
+				$r_sql .= " AND status = 1";
+				$r_sql .= " AND roomdate >=" . $btime ." AND roomdate <" .$etime;
+				$r_sql .= " AND num != 0";
+				$r_price = pdo_fetch($r_sql);
+				$min_price = $pricefield == 'mprice'? $r_price['oprice'] : $r_price['m_price'];
+				$r_num = intval($r_price['num']);
+
+				//å¦‚æžœä»·æ ¼è¡¨ä¸­è®¾ç½®äº†ä»·æ ¼
+				if ($r_num && !empty($min_price)) {
+					if ($r_num == $day) {
+						//å¦‚æžœé€‰æ‹©çš„å¤©æ•°éƒ½è®¾ç½®äº†ä»·æ ¼
+						$room_list[$key]['m_price'] = intval($min_price);
+					} else {
+						//å¦‚æžœä»·æ ¼è¡¨å­˜åœ¨æ›´ä½Žçš„ä»·æ ¼
+						if ($min_price < $value['m_price']) {
+							$room_list[$key]['m_price'] = intval($min_price);
+						}
+					}
+				}
+			}
+
+			$hotel_list = array();
+			foreach($room_list as $key => $value) {
+				$hotelid = $value['id'];
+				$roomid = $value['roomid'];
+				$new_price = $value['m_price'];
+				$price_flag = 1;
+
+				//ç”¨æˆ·é€‰æ‹©äº†ä»·æ ¼åŒºé—´
+				if ($price_type == 1) {
+					if (!empty($price_value)) {
+						if (strstr($price_value, '-') !== false) {
+							$price_array = explode("-", $price_value);
+							if ($new_price >= intval($price_array[0]) && $new_price <= intval($price_array[1])) {
+								$price_flag = 1;
+							} else {
+								$price_flag = 0;
+							}
+						} else {
+							if ($price_value == 150) {
+								if ($new_price <= 150) {
+									$price_flag = 1;
+								} else {
+									$price_flag = 0;
+								}
+							}else if ($price_value == 1000) {
+								if ($new_price >= 1000) {
+									$price_flag = 1;
+								} else {
+									$price_flag = 0;
+								}
+							}
+						}
+					}
+				}
+
+				if ($price_flag == 0) {
+					continue;
+				}
+
+				//å–å‡ºé…’åº—æœ€ä½Žä»·æ”¾å…¥æ•°ç»„ä¸­
+				if (array_key_exists($hotelid, $hotel_list)) {
+					$old_price = $hotel_list[$hotelid]['m_price'];
+					if ($new_price < $old_price) {
+						$hotel_list[$hotelid] = $value;
+					}
+				} else {
+					$hotel_list[$hotelid] = $value;
+				}
+			}
+
+			//æŽ’åº
+			switch ($order_name)
+			{
+				case 0:
+					//ä¼˜å…ˆçº§
+					$hotel_list = array_sort($hotel_list, 'displayorder', 1);
+					break;
+				case 1:
+					if ($order_type == 1) {
+						//ä»·æ ¼é™åº
+						$hotel_list = array_sort($hotel_list, 'm_price', 1);
+					} else {
+						//ä»·æ ¼å‡åº
+						$hotel_list = array_sort($hotel_list, 'm_price', 0);
+					}
+					break;
+			}
+
+			$total = count($hotel_list);
+
+			if ($total <= $psize) {
+				$list = $hotel_list;
+			} else {
+				// éœ€è¦åˆ†é¡µ
+				if($pindex > 0) {
+					$list_array = array_chunk($hotel_list, $psize);
+					$list = $list_array[($pindex-1)];
+					//print_r($list);exit;
+				} else {
+					$list = $hotel_list;
+				}
+			}
+
+			$page_array = get_page_array($total, $pindex, $psize);
+
+			ob_start();
+			include $this->template('hotel_crumb');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+
+			$data['total'] = $total;
+			$data['title'] .=  "(" . $total . ")";
+			$data['isshow'] = $page_array['isshow'];
+			if ($page_array['isshow'] == 1) {
+				$data['nindex'] = $page_array['nindex'];
+			}
+
+			die(json_encode($data));
+		} else {
+
+			include $this->template('list');
+		}
+	}
+
+	//è®¢å•åˆ—è¡¨
+	public function doMobileorderlist()
+	{
+		global $_GPC, $_W;
+		$weid = $this->_weid;
+		$this->check_login();
+		$memberid = $this->_user_info['id'];
+		if (empty($memberid)) {
+			$url = $this->createMobileUrl('index');
+			header("Location: $url");
+		}
+		$ac = $_GPC['ac'];
+		if ($ac == "getDate") {
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 10;
+			$sql = "SELECT o.*, h.title ";
+			$where = " FROM " .tablename('hotel2_order') ." AS o";
+			$where .= " LEFT JOIN " .tablename('hotel2') ." AS h ON o.hotelid = h.id";
+			$where .= " WHERE 1 = 1";
+			$where .= " AND o.memberid = $memberid";
+			$where .= " AND o.weid = $weid";
+
+			$count_sql = "SELECT COUNT(o.id) " . $where;
+			$sql .= $where;
+			$sql .= " ORDER BY o.id DESC";
+			if($pindex > 0) {
+				// éœ€è¦åˆ†é¡µ
+				$start = ($pindex - 1) * $psize;
+				$sql .= " LIMIT {$start},{$psize}";
+			}
+			$list = pdo_fetchall($sql);
+			$total = pdo_fetchcolumn($count_sql);
+			$page_array = get_page_array($total, $pindex, $psize);
+			$data = array();
+			$data['result'] = 1;
+
+			ob_start();
+			include $this->template('order_crumb');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+
+			$data['total'] = $total;
+			$data['isshow'] = $page_array['isshow'];
+			if ($page_array['isshow'] == 1) {
+				$data['nindex'] = $page_array['nindex'];
+			}
+			die(json_encode($data));
+		} else {
+			include $this->template('orderlist');
+		}
+	}
+
+	//è®¢å•è¯¦æƒ…
+	public function doMobileorderdetail()
+	{
+		global $_GPC, $_W;
+		$weid = $this->_weid;
+		$id = $_GPC['id'];
+		var_dump($id);
+		$this->check_login();
+		if (empty($id)) {
+			
+			$url = $this->createMobileUrl('orderlist');
+			header("Location: $url");
+		}
+		$memberid = $this->_user_info['id'];
+		if (empty($memberid)) {
+			$url = $this->createMobileUrl('index');
+			header("Location: $url");
+			//var_dump($memberid);
+		}
+		$sql = "SELECT o.*, h.title, h.address, h.phone, h.thumb";
+		$sql .= " FROM " .tablename('hotel2_order') ." AS o";
+	    $sql .= " LEFT JOIN " .tablename('hotel2') ." AS h ON o.hotelid = h.id";
+	  
+		
+		$sql .= " WHERE 1 = 1";
+		$sql .= " AND o.id = :id";
+		$sql .= " AND o.memberid = :memberid";
+		$sql .= " AND o.weid = :weid";
+		//$sql .="  LEFT JOIN ".tablename('hotel2_room')."AS r ON r.id =o.roomid ";
+        //$sql .= " AND r.wid = o.weid";
+		$params = array();
+		$params[':memberid'] = $memberid;
+		$params[':weid'] = $weid;
+		$params[':id'] = $id;
+		$sql .= " LIMIT 1";
+		
+		$item = pdo_fetch($sql, $params);
+		//var_dump($sql);
+		//echo "<pre>";
+		//var_dump($item);
+		//echo "<pre>";
+		$roomid = $item['roomid'];
+		$room_weid = $item['weid'];
+		$SQL ="SELECT * FROM " .tablename('hotel2_room')."where id = $roomid";
+		$PARAMS = array();
+		$ITEM = pdo_fetch($SQL,$PARAMS);
+		//svar_dump($ITEM);
+		if(!empty($ITEM['score']))
+		{
+			
+			 pdo_fetch("UPDATE " . tablename('hotel2_member') . " SET score = (score + " .$ITEM['score'] . ") WHERE weid = '" . $room_weid . "' ");
+		}
+					
+		
+		if ($this->_set_info['is_unify'] == 1) {
+			$tel = $this->_set_info['tel'];
+		} else {
+			$tel = $item['phone'];
+		}
+		if(!empty($_W['member']['uid'])) {
+			$member = mc_fetch($_W['member']['uid'], array('credit1', 'credit2'));
+		}
+		$params['module'] = "ewei_hotel";
+		$params['ordersn'] = $item['ordersn'];
+		$params['tid'] = $item['id'];
+		$params['user'] = $_W['fans']['from_user'];
+		$params['fee'] = $item['sum_price'];
+		$params['title'] = $_W['account']['name'] . "é…’åº—è®¢å•{$item['ordersn']}";
+
+		// è®¾ç½®åˆ†äº«ä¿¡æ¯
+		$shareDesc = $item['address'];
+		$shareThumb = tomedia($item['thumb']);
+
+		include $this->template('orderdetail');
+	}
+
+	//æ£€æŸ¥ç”¨æˆ·æ˜¯å¦ç™»å½•
+	public function check_login()
+	{
+		$check = check_hotel_user_login($this->_set_info);
+		if ($check == 0) {
+			$url = $this->createMobileUrl('index');
+			header("Location: $url");
+		} else {
+			if(empty($this->_user_info)) {
+				$weid = $this->_weid;
+				$from_user = $this->_from_user;
+				$user_info = pdo_fetch("SELECT * FROM " . tablename('hotel2_member') . " WHERE from_user = :from_user AND weid = :weid limit 1", array(':from_user' => $from_user, ':weid' => $weid));
+				$this->_user_info = $user_info;
+			}
+		}
+	}
+
+	public function doMobileorderinfo()
+	{
+		global $_GPC, $_W;
+		include $this->template('orderinfo');
+	}
+	public function doMobileorderpay(){
+
+		global $_W,$_GPC;
+		//ç«‹å³æ”¯ä»˜
+		$orderid = intval($_GPC['id']);
+		$order = pdo_fetch("SELECT * FROM " . tablename('hotel2_order') . " WHERE id = :id", array(':id' => $orderid));
+		if ($order['paystatus'] != '0' && $order['paytype'] != '1' && $order['paytype'] != '2') {
+			message('æŠ±æ­‰ï¼Œæ‚¨çš„è®¢å•å·²ä»˜æ¬¾æˆ–æ˜¯è¢«å…³é—­ï¼', $this->createMobileUrl('orderdetail',array("id"=>$order['id'])), 'error');
+		}
+		$params['ordersn'] = $order['ordersn'];
+		$params['tid'] = $orderid;
+		$params['user'] = $_W['fans']['from_user'];
+		$params['fee'] = $order['sum_price'];
+		$params['title'] = $_W['account']['name'] . "é…’åº—è®¢å•{$order['ordersn']}";
+		$this->pay($params);
+
+	}
+
+	public function payResult($params) {
+		global $_GPC, $_W;
+		$weid = $this->_weid;
+		$sql = 'SELECT * FROM ' . tablename('hotel2_order') . ' WHERE `id` = :id AND `weid` = :weid';
+		$order = pdo_fetch($sql, array(':id' => $params['tid'], ':weid' => $weid));
+		pdo_update('hotel2_order', array('paystatus' => 1), array('id' => $params['tid']));
+
+		$sql = 'SELECT `email`, `mobile`,`template`,`templateid` FROM ' . tablename('hotel2_set') . ' WHERE `weid` = :weid';
+		$setInfo = pdo_fetch($sql, array(':weid' => $_W['uniacid']));
+
+		$starttime = $order['btime'];
+		for ($i = 0; $i < $order['day']; $i++) {
+			$sql = 'SELECT * FROM '. tablename('hotel2_room_price'). ' WHERE weid = :weid AND roomid = :roomid AND roomdate = :roomdate';
+			$day = pdo_fetch($sql, array(':weid' => $weid, ':roomid' => $order['roomid'], ':roomdate' => $starttime));
+			pdo_update('hotel2_room_price', array('num' => $day['num'] - $order['nums']), array('id' => $day['id']));
+			$starttime += 86400;
+		}
+		
+		if ($setInfo['email']) {
+			$body = "<h3>é…’åº—è®¢å•</h3> <br />";
+			$body .= 'è®¢å•ç¼–å·ï¼š' . $order['ordersn'] . '<br />';
+			$body .= 'å§“åï¼š' . $order['name'] . '<br />';
+			$body .= 'æ‰‹æœºï¼š' . $order['mobile'] . '<br />';
+			$body .= 'æˆ¿åž‹ï¼š' . $order['style'] . '<br />';
+			$body .= 'è®¢è´­æ•°é‡' . $order['nums'] . '<br />';
+			$body .= 'åŽŸä»·ï¼š' . $order['oprice']  . '<br />';
+			$body .= 'ä¼šå‘˜ä»·ï¼š' . $order['mprice']  . '<br />';
+			$body .= 'å…¥ä½æ—¥æœŸï¼š' . date('Y-m-d',$order['btime'])  . '<br />';
+			$body .= 'é€€æˆ¿æ—¥æœŸï¼š' . date('Y-m-d',$order['etime']) . '<br />';
+			$body .= 'æ€»ä»·:' . $order['sum_price'];
+
+			// å‘é€é‚®ä»¶æé†’
+			if (!empty($setInfo['email'])) {
+				load()->func('communication');
+				ihttp_email($setInfo['email'], 'å¾®é…’åº—è®¢å•æé†’', $body);
+			}
+		}
+		//å‘é€æ¨¡æ¿æ¶ˆæ¯æé†’
+		if ($setInfo['template']) {
+			$acc = WeAccount::create($_W['acid']);
+			$data = array (
+				'first' => array('value' => 'é…’åº—è®¢å•'),
+				'order' => array('value' => $order['ordersn']),
+				'Name' => array('value' => $order['name']),
+				'datein' => array('value' => date('Y-m-d',$order['btime'])),
+				'dateout' => array('value' => date('Y-m-d',$order['etime'])),
+				'number' => array('value' => $order['nums']),
+				'room type' => array('value' => $order['style']),
+				'pay' => array('value' => $order['sum_price'])
+			);
+			$acc->sendTplNotice($this->_from_user,$setInfo['templateid'],$data);
+		}
+		if ($setInfo['mobile']) {
+			// å‘é€çŸ­ä¿¡æé†’
+			if (!empty($setInfo['mobile'])) {
+				load()->model('cloud');
+				cloud_prepare();
+
+				$body = 'ç”¨æˆ·' . $order['name'] . ',ç”µè¯:' . $order['mobile'] . 'äºŽ' . date('mæœˆdæ—¥H:i') . 'æˆåŠŸæ”¯ä»˜å¾®é…’åº—è®¢å•' . $order['ordersn']
+					. ',æ€»é‡‘é¢' . $order['sum_price'] . 'å…ƒ' . '.' . random(3);
+
+				cloud_sms_send($setInfo['mobile'], $body);
+			}
+		}
+
+		if ($params['from'] == 'return') {
+			$roomid = $order['roomid'];
+			$room = pdo_fetch("SELECT score FROM " . tablename('hotel2_room') . " WHERE id = {$roomid} AND weid = {$weid} LIMIT 1");
+			$score = intval($room['score']);
+			
+			if ($score) {
+				$from_user = $this->_from_user;
+			 pdo_fetch("UPDATE " . tablename('hotel2_member') . " SET score = (score + " . $score . ") WHERE from_user = '" . $from_user . "' AND weid = " . $weid . "");
+
+				//ä¼šå‘˜é€ç§¯åˆ†
+				if ($params['result'] == 'success' && $_SESSION['ewei_hotel_pay_result'] != $params['tid']) {
+					$_SESSION['ewei_hotel_pay_result'] = $params['tid'];
+					//åˆ¤æ–­å…¬ä¼—å·æ˜¯å¦å¡å…¶ä¼šå‘˜å¡åŠŸèƒ½
+					$card_setting = pdo_fetch("SELECT * FROM ".tablename('mc_card')." WHERE uniacid = '{$_W['uniacid']}'");
+					$card_status =  $card_setting['status'];
+					//æŸ¥çœ‹ä¼šå‘˜æ˜¯å¦å¼€å¯ä¼šå‘˜å¡åŠŸèƒ½
+					$membercard_setting  = pdo_get('mc_card_members', array('uniacid' => $_W['uniacid'], 'uid' => $params['user']));
+					$membercard_status = $membercard_setting['status'];
+					if ($membercard_status && $card_status) {
+						$room_credit = pdo_get('hotel2_room', array('weid' => $_W['uniacid'], 'id' => $order['roomid']));
+						$room_credit = $room_credit['score'];
+						$member_info = pdo_get('mc_members', array('uniacid' => $_W['uniacid'], 'uid' => $params['user']));
+						pdo_update('mc_members', array('credit1' => $member_info['credit1'] + $room_credit), array('uniacid' => $_W['uniacid'], 'uid' => $params['user']));
+					}
+				}
+			}
+			message('æ”¯ä»˜æˆåŠŸï¼', '../../app/' . $this->createMobileUrl('orderdetail', array("id" => $order['id'])), 'success');
+		}
+	}
+
+
+	//ç”¨æˆ·æ³¨å†Œ
+	public function doMobileregister()
+	{
+		global $_GPC, $_W;
+
+		if (checksubmit()) {
+			$weid = $this->_weid;
+			$from_user = $this->_from_user;
+			$set = $this->_set_info;
+
+			$member = array();
+			$member['from_user'] = $from_user;
+			$member['username'] = $_GPC['username'];
+			$member['password'] = $_GPC['password'];
+
+			//print_r($_GPC);exit;
+
+			if (!preg_match(REGULAR_USERNAME, $member['username'])) {
+				die(json_encode(array("result" => 0, "error" => "å¿…é¡»è¾“å…¥ç”¨æˆ·åï¼Œæ ¼å¼ä¸º 3-15 ä½å­—ç¬¦ï¼Œå¯ä»¥åŒ…æ‹¬æ±‰å­—ã€å­—æ¯ï¼ˆä¸åŒºåˆ†å¤§å°å†™ï¼‰ã€æ•°å­—ã€ä¸‹åˆ’çº¿å’Œå¥ç‚¹ã€‚")));
+			}
+
+			// if (!preg_match(REGULAR_USERNAME, $member['from_user'])) {
+			//	die(json_encode(array("result" => 0, "error" => "å¾®ä¿¡å·ç èŽ·å–å¤±è´¥ã€‚")));
+			//}
+
+			if (hotel_member_check(array('from_user' => $member['from_user'], 'weid' => $weid))) {
+				die(json_encode(array("result" => 0, "error" => "éžå¸¸æŠ±æ­‰ï¼Œæ­¤ç”¨å¾®ä¿¡å·å·²ç»è¢«æ³¨å†Œï¼Œä½ å¯ä»¥ç›´æŽ¥ä½¿ç”¨æ³¨å†Œæ—¶çš„ç”¨æˆ·åç™»å½•ï¼Œæˆ–è€…æ›´æ¢å¾®ä¿¡å·æ³¨å†Œï¼")));
+			}
+
+			if (hotel_member_check(array('username' => $member['username'], 'weid' => $weid))) {
+				die(json_encode(array("result" => 0, "error" => "éžå¸¸æŠ±æ­‰ï¼Œæ­¤ç”¨æˆ·åå·²ç»è¢«æ³¨å†Œï¼Œä½ éœ€è¦æ›´æ¢æ³¨å†Œç”¨æˆ·åï¼")));
+			}
+
+			if (istrlen($member['password']) < 6) {
+				die(json_encode(array("result" => 0, "error" => "å¿…é¡»è¾“å…¥å¯†ç ï¼Œä¸”å¯†ç é•¿åº¦ä¸å¾—ä½ŽäºŽ6ä½ã€‚")));
+			}
+			$member['salt'] = random(8);
+			$member['password'] = hotel_member_hash($member['password'], $member['salt']);
+
+			$member['weid'] = $weid;
+			$member['mobile'] = $_GPC['mobile'];
+			$member['realname'] = $_GPC['realname'];
+			$member['createtime'] = time();
+			$member['status'] = 1;
+			$member['isauto'] = 0;
+
+			pdo_insert('hotel2_member', $member);
+
+			$member['id'] = pdo_insertid();
+			$member['user_set'] = $set['user'];
+
+			//æ³¨å†ŒæˆåŠŸ
+			hotel_set_userinfo(1, $member);
+
+			$url = $this->createMobileUrl('search');
+			die(json_encode(array("result" => 1, "url" => $url)));
+		} else {
+			//$css_url = $this->_css_url;
+			include $this->template('register');
+		}
+	}
+
+	//é”™è¯¯ä¿¡æ¯æç¤ºé¡µ
+	public function doMobileError()
+	{
+		global $_GPC, $_W;
+
+		$msg = $_GPC['msg'];
+		include $this->template('error');
+	}
+
+	public  function  doMobileAjaxdelete()
+	{
+		global $_GPC;
+		$delurl = $_GPC['pic'];
+		if(file_delete($delurl)) {
+			echo 1;
+		} else {
+			echo 0;
+		}
+	}
+
+
+	public function doWebHotel() {
+		global $_GPC, $_W;
+
+		$op = $_GPC['op'];
+		$weid = $_W['uniacid'];
+		$hotel_level_config = $this->_hotel_level_config;
+		load()->func('tpl');
+
+		if ($op == 'edit') {
+			$id = intval($_GPC['id']);
+			if (checksubmit('submit')) {
+				$insert = array(
+					'weid' => $weid,
+					'displayorder' => $_GPC['displayorder'],
+					'title' => $_GPC['title'],
+					'thumb'=>$_GPC['thumb'],
+					'address' => $_GPC['address'],
+					'location_p' => $_GPC['district']['province'],
+					'location_c' => $_GPC['district']['city'],
+					'location_a' => $_GPC['district']['district'],
+					'lng' => $_GPC['baidumap']['lng'],
+					'lat' => $_GPC['baidumap']['lat'],
+					'phone' => $_GPC['phone'],
+					'mail' => $_GPC['mail'],
+					'description' => $_GPC['description'],
+					'content' => $_GPC['content'],
+					'traffic' => $_GPC['traffic'],
+					'sales' => $_GPC['sales'],
+					'level' => $_GPC['level'],
+					'status' => $_GPC['status'],
+					'brandid' => $_GPC['brandid'],
+					'businessid' => $_GPC['businessid'],
+				);
+
+				if ($_GPC['device']) {
+					$devices = array();
+					foreach ($_GPC['device'] as $key => $device) {
+						if ($device != '') {
+							$devices[] = array('value' => $device, 'isshow' => intval($_GPC['show_device'][$key]));
+						}
+					}
+					$insert['device'] = empty($devices) ? '' : iserializer($devices);
+				}
+				$insert['thumbs'] = empty($_GPC['thumbs']) ? '' : iserializer($_GPC['thumbs']);
+
+				if (empty($id)) {
+					pdo_insert('hotel2', $insert);
+				} else {
+					pdo_update('hotel2', $insert, array('id' => $id));
+				}
+				message("é…’åº—ä¿¡æ¯ä¿å­˜æˆåŠŸ!", $this->createWebUrl('hotel'), "success");
+			}
+			$sql = 'SELECT * FROM ' . tablename('hotel2') . ' WHERE `id` = :id';
+			$item = pdo_fetch($sql, array(':id' => $id));
+			if (empty($item['device'])) {
+				$devices = array(
+					array('isdel' => 0, 'value' => 'æœ‰çº¿ä¸Šç½‘'),
+					array('isdel' => 0, 'isshow' => 0, 'value' => 'WIFIæ— çº¿ä¸Šç½‘'),
+					array('isdel' => 0, 'isshow' => 0, 'value' => 'å¯æä¾›æ—©é¤'),
+					array('isdel' => 0, 'isshow' => 0, 'value' => 'å…è´¹åœè½¦åœº'),
+					array('isdel' => 0, 'isshow' => 0, 'value' => 'ä¼šè®®å®¤'),
+					array('isdel' => 0, 'isshow' => 0, 'value' => 'å¥èº«æˆ¿'),
+					array('isdel' => 0, 'isshow' => 0, 'value' => 'æ¸¸æ³³æ± ')
+				);
+			} else {
+				$devices = iunserializer($item['device']);
+			}
+
+			//å“ç‰Œ
+			$sql = 'SELECT * FROM ' . tablename('hotel2_brand') . ' WHERE `weid` = :weid';
+			$params = array(':weid' => $_W['uniacid']);
+			$brands = pdo_fetchall($sql, $params);
+
+			$sql = 'SELECT `title` FROM ' . tablename('hotel2_business') . ' WHERE `weid` = :weid AND `id` = :id';
+			$params[':id'] = intval($item['businessid']);
+			$item['hotelbusinesss'] = pdo_fetchcolumn($sql, $params);
+			$item['thumbs'] =  iunserializer($item['thumbs']);
+			include $this->template('hotel_form');
+		} else if ($op == 'delete') {
+
+			$id = intval($_GPC['id']);
+
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT id FROM " . tablename('hotel2_order') . " WHERE hotelid = :hotelid LIMIT 1", array(':hotelid' => $id));
+				if (!empty($item)) {
+					message('æŠ±æ­‰ï¼Œè¯·å…ˆåˆ é™¤è¯¥é…’åº—çš„è®¢å•,å†åˆ é™¤è¯¥é…’åº—ï¼', '', 'error');
+				}
+			} else {
+				message('æŠ±æ­‰ï¼Œå‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+
+			pdo_delete("hotel2_order", array("hotelid" => $id));
+			pdo_delete("hotel2_room", array("hotelid" => $id));
+			pdo_delete("hotel2", array("id" => $id));
+
+			message("é…’åº—ä¿¡æ¯åˆ é™¤æˆåŠŸ!", referer(), "success");
+		} else if ($op == 'deleteall') {
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+
+				if (!empty($id)) {
+					$item = pdo_fetch("SELECT id FROM " . tablename('hotel2_order') . " WHERE hotelid = :hotelid LIMIT 1", array(':hotelid' => $id));
+					if (!empty($item)) {
+						message('æŠ±æ­‰ï¼Œè¯·å…ˆåˆ é™¤è¯¥é…’åº—çš„è®¢å•,å†åˆ é™¤è¯¥é…’åº—ï¼', '', 'error');
+					}
+				} else {
+					message('æŠ±æ­‰ï¼Œå‚æ•°é”™è¯¯ï¼', '', 'error');
+				}
+
+				pdo_delete("hotel2_order", array("hotelid" => $id));
+				pdo_delete("hotel2_room", array("hotelid" => $id));
+				pdo_delete("hotel2", array("id" => $id));
+			}
+			$this->web_message('é…’åº—ä¿¡æ¯åˆ é™¤æˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'showall') {
+			if ($_GPC['show_name'] == 'showall') {
+				$show_status = 1;
+			} else {
+				$show_status = 0;
+			}
+
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+
+				if (!empty($id)) {
+					pdo_update('hotel2', array('status' => $show_status), array('id' => $id));
+				}
+			}
+			$this->web_message('æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'status') {
+
+			$id = intval($_GPC['id']);
+			if (empty($id)) {
+				message('æŠ±æ­‰ï¼Œä¼ é€’çš„å‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+			$temp = pdo_update('hotel2', array('status' => $_GPC['status']), array('id' => $id));
+			if ($temp == false) {
+				message('æŠ±æ­‰ï¼Œåˆšæ‰æ“ä½œæ•°æ®å¤±è´¥ï¼', '', 'error');
+			} else {
+				message('çŠ¶æ€è®¾ç½®æˆåŠŸï¼', referer(), 'success');
+			}
+		} else if ($op == 'query') {
+			$kwd = trim($_GPC['keyword']);
+			$sql = 'SELECT id,title,description,thumb FROM ' . tablename('hotel2') . ' WHERE `weid`=:weid';
+			$params = array();
+			$params[':weid'] = $_W['uniacid'];
+			if (!empty($kwd)) {
+				$sql.=" AND `title` LIKE :title";
+				$params[':title'] = "%{$kwd}%";
+			}
+			$ds = pdo_fetchall($sql, $params);
+			foreach ($ds as &$value) {
+				$value['thumb'] = tomedia($value['thumb']);
+			}
+			include $this->template('query');
+		} else {
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$where = ' WHERE `weid` = :weid';
+			$params = array(':weid' => $_W['uniacid']);
+
+			if (!empty($_GPC['title'])) {
+				$where .= ' AND `title` LIKE :keywords';
+				$params[':keywords'] = "%{$_GPC['title']}%";
+			}
+			if (!empty($_GPC['level'])) {
+				$where .= ' AND level=:level';
+				$params[':level'] = intval($_GPC['level']);
+			}
+
+			$sql = 'SELECT COUNT(*) FROM ' . tablename('hotel2') . $where;
+			$total = pdo_fetchcolumn($sql, $params);
+
+			if ($total > 0) {
+				$pindex = max(1, intval($_GPC['page']));
+				$psize = 10;
+
+				$sql = 'SELECT * FROM ' . tablename('hotel2') . $where . ' ORDER BY `displayorder` DESC LIMIT ' .
+						($pindex - 1) * $psize . ',' . $psize;
+				$list = pdo_fetchall($sql, $params);
+				foreach ($list as &$row) {
+					$row['level'] = $this->_hotel_level_config[$row['level']];
+				}
+
+				$pager = pagination($total, $pindex, $psize);
+			}
+
+			if (!empty($_GPC['export'])) {
+				/* è¾“å…¥åˆ°CSVæ–‡ä»¶ */
+				$html = "\xEF\xBB\xBF";
+
+				/* è¾“å‡ºè¡¨å¤´ */
+				$filter = array(
+					'title' => 'é…’åº—åç§°',
+					'level' => 'æ˜Ÿçº§',
+					'roomcount' => 'æˆ¿é—´æ•°',
+					'phone' => 'ç”µè¯',
+					'status' => 'çŠ¶æ€',
+				);
+
+				foreach ($filter as $key => $value) {
+					$html .= $value . "\t,";
+				}
+				$html .= "\n";
+
+				if (!empty($list)) {
+					$status = array('éšè—', 'æ˜¾ç¤º');
+					foreach ($list as $key => $value) {
+						foreach ($filter as $index => $title) {
+							if ($index != 'status') {
+								$html .= $value[$index] . "\t, ";
+							} else {
+								$html .= $status[$value[$index]] . "\t, ";
+							}
+						}
+						$html .= "\n";
+					}
+				}
+
+				/* è¾“å‡ºCSVæ–‡ä»¶ */
+				header("Content-type:text/csv");
+				header("Content-Disposition:attachment; filename=å…¨éƒ¨æ•°æ®.csv");
+				echo $html;
+				exit();
+
+			}
+
+			include $this->template('hotel');
+		}
+	}
+
+
+
+	public function doWebCopyroom() {
+		global $_GPC, $_W;
+
+		$hotelid = $_GPC['hotelid'];
+		$roomid = $_GPC['roomid'];
+
+		if (empty($hotelid) || empty($roomid)) {
+			message('å‚æ•°é”™è¯¯', 'refresh', 'error');
+		}
+
+		$item = pdo_fetch("SELECT * FROM " . tablename('hotel2_room') . " WHERE id = :id", array(':id' => $roomid));
+
+		unset($item['id']);
+		$item['status'] = 0;
+		//$item['sortid'] = $roomid;
+
+		pdo_insert('hotel2_room', $item);
+		$id = pdo_insertid();
+		$url = $this->createWebUrl('room', array('op' => 'edit', 'hotelid' => $hotelid, 'id' => $id));
+		header("Location: $url");
+		exit;
+	}
+
+	//æ‰¹é‡ä¿®æ”¹æˆ¿ä»·
+	public function doWebRoom_price() {
+		global $_GPC, $_W;
+
+		$hotelid = $_GPC['hotelid'];
+		$weid = $_W['uniacid'];
+		$ac = $_GPC['ac'];
+
+		if ($ac == "getDate") {
+			if (empty($_GPC['start']) || empty($_GPC['end'])) {
+				die(json_encode(array("result" => 0, "error" => "è¯·é€‰æ‹©æ—¶é—´")));
+			}
+			$start = $_GPC['start'];
+			$end = $_GPC['end'];
+			$btime = strtotime($start);
+			$etime = strtotime($end);
+			//æ—¥æœŸåˆ—
+			$days = ceil(($etime - $btime) / 86400);
+			$pagesize = 10;
+			$totalpage = ceil($days / $pagesize);
+			$page = intval($_GPC['page']);
+			if ($page > $totalpage) {
+				$page = $totalpage;
+			} else if ($page <= 1) {
+				$page = 1;
+			}
+			$currentindex = ($page - 1) * $pagesize;
+			$start = date('Y-m-d', strtotime(date('Y-m-d') . "+$currentindex day"));
+			$btime = strtotime($start);
+			$etime = strtotime(date('Y-m-d', strtotime("$start +$pagesize day")));
+			$date_array = array();
+			$date_array[0]['date'] = $start;
+			$date_array[0]['day'] = date('j', $btime);
+			$date_array[0]['time'] = $btime;
+			$date_array[0]['month'] = date('m', $btime);
+
+			for ($i = 1; $i <= $pagesize; $i++) {
+				$date_array[$i]['time'] = $date_array[$i - 1]['time'] + 86400;
+				$date_array[$i]['date'] = date('Y-m-d', $date_array[$i]['time']);
+				$date_array[$i]['day'] = date('j', $date_array[$i]['time']);
+				$date_array[$i]['month'] = date('m', $date_array[$i]['time']);
+			}
+			$params = array();
+			$sql = "SELECT r.* FROM " . tablename('hotel2_room') . "as r";
+			$sql .= " WHERE 1 = 1";
+			$sql .= " AND r.hotelid = $hotelid";
+			$sql .= " AND r.weid = $weid";
+			$list = pdo_fetchall($sql, $params);
+
+			foreach ($list as $key => $value) {
+				$sql = "SELECT * FROM " . tablename('hotel2_room_price');
+				$sql .= " WHERE 1 = 1";
+				$sql .= " AND roomid = " . $value['id'];
+				$sql .= " AND roomdate >= " . $btime;
+				$sql .= " AND roomdate < " . ($etime + 86400);
+				$item = pdo_fetchall($sql);
+				if ($item) {
+					$flag = 1;
+				} else {
+					$flag = 0;
+				}
+				$list[$key]['price_list'] = array();
+
+				if ($flag == 1) {
+					for ($i = 0; $i <= $pagesize; $i++) {
+						$k = $date_array[$i]['time'];
+						foreach ($item as $p_key => $p_value) {
+							//åˆ¤æ–­ä»·æ ¼è¡¨ä¸­æ˜¯å¦æœ‰å½“å¤©çš„æ•°æ®
+							if ($p_value['roomdate'] == $k) {
+								$list[$key]['price_list'][$k]['oprice'] = $p_value['oprice'];
+								$list[$key]['price_list'][$k]['cprice'] = $p_value['cprice'];
+								$list[$key]['price_list'][$k]['mprice'] = $p_value['mprice'];
+								$list[$key]['price_list'][$k]['roomid'] = $value['id'];
+								$list[$key]['price_list'][$k]['hotelid'] = $hotelid;
+								$list[$key]['price_list'][$k]['has'] = 1;
+								break;
+							}
+						}
+						//ä»·æ ¼è¡¨ä¸­æ²¡æœ‰å½“å¤©æ•°æ®
+						if (empty($list[$key]['price_list'][$k]['oprice'])) {
+							$list[$key]['price_list'][$k]['oprice'] = $value['oprice'];
+							$list[$key]['price_list'][$k]['cprice'] = $value['cprice'];
+							$list[$key]['price_list'][$k]['mprice'] = $value['mprice'];
+							$list[$key]['price_list'][$k]['roomid'] = $value['id'];
+							$list[$key]['price_list'][$k]['hotelid'] = $hotelid;
+						}
+					}
+				} else {
+					//ä»·æ ¼è¡¨ä¸­æ²¡æœ‰æ•°æ®
+					for ($i = 0; $i <= $pagesize; $i++) {
+						$k = $date_array[$i]['time'];
+						$list[$key]['price_list'][$k]['oprice'] = $value['oprice'];
+						$list[$key]['price_list'][$k]['cprice'] = $value['cprice'];
+						$list[$key]['price_list'][$k]['mprice'] = $value['mprice'];
+						$list[$key]['price_list'][$k]['roomid'] = $value['id'];
+						$list[$key]['price_list'][$k]['hotelid'] = $hotelid;
+					}
+				}
+			}
+			$data = array();
+			$data['result'] = 1;
+			ob_start();
+			include $this->template('room_price_list');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+			die(json_encode($data));
+		} else if ($ac == 'submitPrice') {  //ä¿®æ”¹ä»·æ ¼
+			$hotelid = intval($_GPC['hotelid']);
+			$roomid = intval($_GPC['roomid']);
+			$price = $_GPC['price'];
+			$pricetype = $_GPC['pricetype'];
+			$date = $_GPC['date'];
+			$roomprice = $this->getRoomPrice($hotelid, $roomid, $date);
+			$roomprice[$pricetype] = $price;
+			if (empty($roomprice['id'])) {
+				pdo_insert("hotel2_room_price", $roomprice);
+			} else {
+				pdo_update("hotel2_room_price", $roomprice, array("id" => $roomprice['id']));
+			}
+			die(json_encode(array("result" => 1, "hotelid" => $hotelid, "roomid" => $roomid, "pricetype" => $pricetype, "price" => $price)));
+		} else if ($ac == 'updatelot') {
+			//æ‰¹é‡ä¿®æ”¹æˆ¿ä»·
+			$startime = time();
+			$firstday = date('Y-m-01', time());
+			//å½“æœˆæœ€åŽä¸€å¤©
+			$endtime = strtotime(date('Y-m-d', strtotime("$firstday +1 month -1 day")));
+			$rooms = pdo_fetchall("select * from " . tablename("hotel2_room") . " where hotelid=" . $hotelid);
+			include $this->template('room_price_lot');
+			exit();
+		} else if ($ac == 'updatelot_create') {
+			$rooms = $_GPC['rooms'];
+			if (empty($rooms)) {
+				die("");
+			}
+			$days = $_GPC['days'];
+			$days_arr = implode(",", $days);
+			$rooms_arr = implode(",", $rooms);
+			$start = $_GPC['start'];
+			$end = $_GPC['end'];
+			$list = pdo_fetchall("select * from " . tablename("hotel2_room") . " where id in (" . implode(",", $rooms) . ")");
+			ob_start();
+			include $this->template('room_price_lot_list');
+			$data['result'] = 1;
+			$data['code'] = ob_get_contents();
+			ob_clean();
+			die(json_encode($data));
+		} else if ($ac == 'updatelot_submit') {
+			$rooms = $_GPC['rooms'];
+			$rooms_arr = explode(",", $rooms);
+			$days = $_GPC['days'];
+			$days_arr = explode(",", $days);
+			$oprices = $_GPC['oprice'];
+			$cprices = $_GPC['cprice'];
+			$mprices = $_GPC['mprice'];
+			$start = strtotime($_GPC['start']);
+			$end = strtotime($_GPC['end']);
+			foreach ($rooms_arr as $v) {
+				for ($time = $start; $time <= $end; $time+=86400) {
+					$week = date('w', $time);
+					if (in_array($week, $days_arr)) {
+						$roomprice = $this->getRoomPrice($hotelid, $v, date('Y-m-d', $time));
+						$roomprice['oprice'] = $oprices[$v];
+						$roomprice['cprice'] = $cprices[$v];
+						$roomprice['mprice'] = $mprices[$v];
+						if (empty($roomprice['id'])) {
+							pdo_insert("hotel2_room_price", $roomprice);
+						} else {
+							pdo_update("hotel2_room_price", $roomprice, array("id" => $roomprice['id']));
+						}
+					}
+				}
+			}
+			message("æ‰¹é‡ä¿®æ”¹æˆ¿ä»·æˆåŠŸ!", $this->createWebUrl('room_price', array("hotelid" => $hotelid)), "success");
+		}
+		$startime = time();
+		$firstday = date('Y-m-01', time());
+		//å½“æœˆæœ€åŽä¸€å¤©
+		$endtime = strtotime(date('Y-m-d', strtotime("$firstday +1 month -1 day")));
+		include $this->template('room_price');
+	}
+
+	//æ‰¹é‡ä¿®æ”¹æˆ¿ä»·
+	public function doWebRoom_status() {
+		global $_GPC, $_W;
+
+		$hotelid = $_GPC['hotelid'];
+		$weid = $_W['uniacid'];
+
+		$ac = $_GPC['ac'];
+		if ($ac == "getDate") {
+			if (empty($_GPC['start']) || empty($_GPC['end'])) {
+				die(json_encode(array("result" => 0, "error" => "è¯·é€‰æ‹©æ—¶é—´")));
+			}
+
+			$btime = strtotime($_GPC['start']);
+			$etime = strtotime($_GPC['end']);
+			// æ—¥æœŸåˆ—
+			$days = ceil(($etime - $btime) / 86400);
+
+			$pagesize = 10;
+			$totalpage = ceil($days / $pagesize);
+			$page = intval($_GPC['page']);
+			if ($page > $totalpage) {
+				$page = $totalpage;
+			} else if ($page <= 1) {
+				$page = 1;
+			}
+			$currentindex = ($page - 1) * $pagesize;
+			$start = date('Y-m-d', strtotime(date('Y-m-d') . "+$currentindex day"));
+
+			$btime = strtotime($start);
+			$etime = strtotime(date('Y-m-d', strtotime("$start +$pagesize day")));
+			$date_array = array();
+			$date_array[0]['date'] = $start;
+			$date_array[0]['day'] = date('j', $btime);
+			$date_array[0]['time'] = $btime;
+			$date_array[0]['month'] = date('m', $btime);
+
+			for ($i = 1; $i <= $pagesize; $i++) {
+				$date_array[$i]['time'] = $date_array[$i - 1]['time'] + 86400;
+				$date_array[$i]['date'] = date('Y-m-d', $date_array[$i]['time']);
+				$date_array[$i]['day'] = date('j', $date_array[$i]['time']);
+				$date_array[$i]['month'] = date('m', $date_array[$i]['time']);
+			}
+
+			$params = array();
+			$sql = "SELECT r.* FROM " . tablename('hotel2_room') . "as r";
+			$sql .= " WHERE 1 = 1";
+			$sql .= " AND r.hotelid = $hotelid";
+			$sql .= " AND r.weid = $weid";
+
+			$list = pdo_fetchall($sql, $params);
+
+			foreach ($list as $key => $value) {
+				$sql = "SELECT * FROM " . tablename('hotel2_room_price');
+				$sql .= " WHERE 1 = 1";
+				$sql .= " AND roomid = " . $value['id'];
+				$sql .= " AND roomdate >= " . $btime;
+				$sql .= " AND roomdate < " . ($etime + 86400);
+
+				$item = pdo_fetchall($sql);
+
+				if ($item) {
+					$flag = 1;
+				} else {
+					$flag = 0;
+				}
+				$list[$key]['price_list'] = array();
+				if ($flag == 1) {
+					for ($i = 0; $i <= $pagesize; $i++) {
+						$k = $date_array[$i]['time'];
+
+						foreach ($item as $p_key => $p_value) {
+							//åˆ¤æ–­ä»·æ ¼è¡¨ä¸­æ˜¯å¦æœ‰å½“å¤©çš„æ•°æ®
+							if ($p_value['roomdate'] == $k) {
+
+								$list[$key]['price_list'][$k]['status'] = $p_value['status'];
+								if (empty($p_value['num'])) {
+									$list[$key]['price_list'][$k]['num'] = "æ— æˆ¿";
+								} else if ($p_value['num'] == -1) {
+									$list[$key]['price_list'][$k]['num'] = "ä¸é™";
+								} else {
+									$list[$key]['price_list'][$k]['num'] = $p_value['num'];
+								}
+								$list[$key]['price_list'][$k]['roomid'] = $value['id'];
+								$list[$key]['price_list'][$k]['hotelid'] = $hotelid;
+								$list[$key]['price_list'][$k]['has'] = 1;
+								break;
+							}
+						}
+						//ä»·æ ¼è¡¨ä¸­æ²¡æœ‰å½“å¤©æ•°æ®
+						if (empty($list[$key]['price_list'][$k])) {
+							$list[$key]['price_list'][$k]['num'] = "ä¸é™";
+							$list[$key]['price_list'][$k]['status'] = 1;
+							$list[$key]['price_list'][$k]['roomid'] = $value['id'];
+							$list[$key]['price_list'][$k]['hotelid'] = $hotelid;
+						}
+					}
+				} else {
+					//ä»·æ ¼è¡¨ä¸­æ²¡æœ‰æ•°æ®
+					for ($i = 0; $i <= $pagesize; $i++) {
+						$k = $date_array[$i]['time'];
+						$list[$key]['price_list'][$k]['num'] = "ä¸é™";
+						$list[$key]['price_list'][$k]['status'] = 1;
+						$list[$key]['price_list'][$k]['roomid'] = $value['id'];
+						$list[$key]['price_list'][$k]['hotelid'] = $hotelid;
+					}
+				}
+			}
+
+			$data = array();
+			$data['result'] = 1;
+
+			ob_start();
+			include $this->template('room_status_list');
+			$data['code'] = ob_get_contents();
+			ob_clean();
+
+			die(json_encode($data));
+		} else if ($ac == 'submitPrice') {  //ä¿®æ”¹ä»·æ ¼
+			$hotelid = intval($_GPC['hotelid']);
+			$roomid = intval($_GPC['roomid']);
+			$price = $_GPC['price'];
+			$pricetype = $_GPC['pricetype'];
+			$date = $_GPC['date'];
+			$roomprice = $this->getRoomPrice($hotelid, $roomid, $date);
+			if ($pricetype == 'num') {
+				$roomprice['num'] = $_GPC['price'];
+			} else {
+				$roomprice['status'] = $_GPC['status'];
+			}
+
+			if (empty($roomprice['id'])) {
+				pdo_insert("hotel2_room_price", $roomprice);
+			} else {
+				pdo_update("hotel2_room_price", $roomprice, array("id" => $roomprice['id']));
+			}
+			die(json_encode(array("result" => 1, "hotelid" => $hotelid, "roomid" => $roomid, "pricetype" => $pricetype, "price" => $price)));
+		} else if ($ac == 'updatelot') {
+			//æ‰¹é‡ä¿®æ”¹æˆ¿ä»·
+			$startime = time();
+			$firstday = date('Y-m-01', time());
+			//å½“æœˆæœ€åŽä¸€å¤©
+			$endtime = strtotime(date('Y-m-d', strtotime("$firstday +1 month -1 day")));
+			$rooms = pdo_fetchall("select * from " . tablename("hotel2_room") . " where hotelid=" . $hotelid);
+			include $this->template('room_status_lot');
+			exit();
+		} else if ($ac == 'updatelot_create') {
+			$rooms = $_GPC['rooms'];
+			if (empty($rooms)) {
+				die("");
+			}
+			$days = $_GPC['days'];
+			$days_arr = implode(",", $days);
+			$rooms_arr = implode(",", $rooms);
+			$start = $_GPC['start'];
+			$end = $_GPC['end'];
+			$list = pdo_fetchall("select * from " . tablename("hotel2_room") . " where id in (" . implode(",", $rooms) . ")");
+			$num = pdo_fetchall('SELECT num FROM '. tablename('hotel2_room_price'),array(),'roomid');
+			ob_start();
+			include $this->template('room_status_lot_list');
+			$data['result'] = 1;
+			$data['code'] = ob_get_contents();
+			ob_clean();
+			die(json_encode($data));
+		} else if ($ac == 'updatelot_submit') {
+			$rooms = $_GPC['rooms'];
+			$rooms_arr = explode(",", $rooms);
+			$days = $_GPC['days'];
+			$days_arr = explode(",", $days);
+			$nums = $_GPC['num'];
+			$statuses = $_GPC['status'];
+			$start = strtotime($_GPC['start']);
+			$end = strtotime($_GPC['end']);
+			foreach ($rooms_arr as $v) {
+				for ($time = $start; $time <= $end; $time+=86400) {
+					$week = date('w', $time);
+					if (in_array($week, $days_arr)) {
+						$roomprice = $this->getRoomPrice($hotelid, $v, date('Y-m-d', $time));
+						$roomprice['num'] = empty($nums[$v]) ? '-1' : intval($nums[$v]);
+						$roomprice['status'] = $statuses[$v];
+						if (empty($roomprice['id'])) {
+							pdo_insert("hotel2_room_price", $roomprice);
+						} else {
+							pdo_update("hotel2_room_price", $roomprice, array("id" => $roomprice['id']));
+						}
+					}
+				}
+			}
+			message("æ‰¹é‡ä¿®æ”¹æˆ¿é‡æˆ¿æ€æˆåŠŸ!", $this->createWebUrl('room_status', array("hotelid" => $hotelid)), "success");
+		}
+
+		$startime = time();
+		$firstday = date('Y-m-01', time());
+		//å½“æœˆæœ€åŽä¸€å¤©
+		$endtime = strtotime(date('Y-m-d', strtotime("$firstday +1 month -1 day")));
+		include $this->template('room_status');
+	}
+
+	//èŽ·å–æˆ¿åž‹æŸå¤©çš„è®°å½•
+	private function getRoomPrice($hotelid, $roomid, $date) {
+		global $_W;
+		$btime = strtotime($date);
+		$sql = "SELECT * FROM " . tablename('hotel2_room_price');
+		$sql .= " WHERE 1 = 1";
+		$sql .=" and weid=" . $_W['uniacid'];
+		$sql .= " AND hotelid = " . $hotelid;
+		$sql .= " AND roomid = " . $roomid;
+		$sql .= " AND roomdate = " . $btime;
+		$sql .=" limit 1";
+		$roomprice = pdo_fetch($sql);
+
+		if (empty($roomprice)) {
+			$room = $this->getRoom($hotelid, $roomid);
+			$roomprice = array(
+				"weid" => $_W['uniacid'],
+				"hotelid" => $hotelid,
+				"roomid" => $roomid,
+				"oprice" => $room['oprice'],
+				"cprice" => $room['cprice'],
+				"mprice" => $room['mprice'],
+				"status" => $room['status'],
+				"roomdate" => strtotime($date),
+				"thisdate" => $date,
+				"num" => "-1",
+				"status" => 1,
+			);
+		}
+		return $roomprice;
+	}
+
+	private function getRoom($hotelid, $roomid) {
+		$sql = "SELECT * FROM " . tablename('hotel2_room');
+		$sql .= " WHERE 1 = 1";
+		$sql .= " AND hotelid = " . $hotelid;
+		$sql .= " AND id = " . $roomid;
+		$sql .=" limit 1";
+		return pdo_fetch($sql);
+	}
+
+	public function doWebRoom() {
+		global $_GPC, $_W;
+		$op = $_GPC['op'];
+		$card_setting = pdo_fetch("SELECT * FROM ".tablename('mc_card')." WHERE uniacid = '{$_W['uniacid']}'");
+		$card_status =  $card_setting['status'];
+		if ($op == 'edit') {
+			$id = intval($_GPC['id']);
+			$hotelid = intval($_GPC['hotelid']);
+			$hotel = pdo_fetch("select id,title from " . tablename('hotel2') . "where id=:id limit 1", array(":id" => $hotelid));
+			$usergroup_list = pdo_fetchall("SELECT * FROM ".tablename('mc_groups')." WHERE uniacid = :uniacid ORDER BY isdefault DESC,credit ASC", array(':uniacid' => $_W['uniacid']));
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT * FROM " . tablename('hotel2_room') . " WHERE id = :id", array(':id' => $id));
+				if (empty($item)) {
+					message('æŠ±æ­‰ï¼Œæˆ¿åž‹ä¸å­˜åœ¨æˆ–æ˜¯å·²ç»åˆ é™¤ï¼', '', 'error');
+				}
+				$piclist = unserialize($item['thumbs']);
+				$item['mprice'] = unserialize($item['mprice']);
+			}
+			if (checksubmit('submit')) {
+				if (empty($_GPC['title'])) {
+					message('è¯·è¾“å…¥æˆ¿åž‹ï¼');
+				}
+				$data = array(
+					'weid' => $_W['uniacid'],
+					'hotelid' => $hotelid,
+					'title' => $_GPC['title'],
+					'thumb'=>$_GPC['thumb'],
+					'breakfast' => $_GPC['breakfast'],
+					'oprice' => $_GPC['oprice'],
+					'cprice' => $_GPC['cprice'],
+					'area' => $_GPC['area'],
+					'area_show' => $_GPC['area_show'],
+					'bed' => $_GPC['bed'],
+					'bed_show' => $_GPC['bed_show'],
+					'bedadd' => $_GPC['bedadd'],
+					'bedadd_show' => $_GPC['bedadd_show'],
+					'persons' => $_GPC['persons'],
+					'persons_show' => $_GPC['persons_show'],
+					'sales' => $_GPC['sales'],
+					'device' => $_GPC['device'],
+					'floor' => $_GPC['floor'],
+					'floor_show' => $_GPC['floor_show'],
+					'smoke' => $_GPC['smoke'],
+					'smoke_show' => $_GPC['smoke_show'],
+					'score' => intval($_GPC['score']),
+					'status' => $_GPC['status'],
+				);
+				if (!empty($card_status)) {
+					$group_mprice = array();
+					foreach ($_GPC['mprice'] as $user_group => $mprice) {
+						$group_mprice[$user_group] = empty($mprice)? '1' : min(1, (float)$mprice);
+					}
+					$data['mprice'] = iserializer($group_mprice);
+				}
+				if(is_array($_GPC['thumbs'])){
+					$data['thumbs'] = serialize($_GPC['thumbs']);
+				} else {
+					$data['thumbs'] = serialize(array());
+				}
+				if (empty($id)) {
+					pdo_insert('hotel2_room', $data);
+				} else {
+					pdo_update('hotel2_room', $data, array('id' => $id));
+				}
+				pdo_query("update " . tablename('hotel2') . " set roomcount=(select count(*) from " . tablename('hotel2_room') . " where hotelid=:hotelid) where id=:hotelid", array(":hotelid" => $hotelid));
+				message('æˆ¿åž‹ä¿¡æ¯æ›´æ–°æˆåŠŸï¼', $this->createWebUrl('room'), 'success');
+			}
+			include $this->template('room_form');
+		} else if ($op == 'delete') {
+			$id = intval($_GPC['id']);
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT id FROM " . tablename('hotel2_order') . " WHERE roomid = :roomid LIMIT 1", array(':roomid' => $id));
+				if (!empty($item)) {
+					message('æŠ±æ­‰ï¼Œè¯·å…ˆåˆ é™¤è¯¥æˆ¿é—´çš„è®¢å•,å†åˆ é™¤è¯¥æˆ¿é—´ï¼', '', 'error');
+				}
+			} else {
+				message('æŠ±æ­‰ï¼Œå‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+			pdo_delete('hotel2_room', array('id' => $id));
+			pdo_delete('hotel2_order', array('roomid' => $id));
+			pdo_query("update " . tablename('hotel2') . " set roomcount=(select count(*) from " . tablename('hotel2_room') . " where hotelid=:hotelid) where id=:hotelid", array(":hotelid" => $id));
+			message('åˆ é™¤æˆåŠŸï¼', referer(), 'success');
+		} else if ($op == 'deleteall') {
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+				if (!empty($id)) {
+					$item = pdo_fetch("SELECT id FROM " . tablename('hotel2_order') . " WHERE roomid = :roomid LIMIT 1", array(':roomid' => $id));
+					if (!empty($item)) {
+						$this->web_message('æŠ±æ­‰ï¼Œè¯·å…ˆåˆ é™¤è¯¥æˆ¿é—´çš„è®¢å•,å†åˆ é™¤è¯¥æˆ¿é—´ï¼', '', 'error');
+					}
+				} else {
+					$this->web_message('æŠ±æ­‰ï¼Œå‚æ•°é”™è¯¯ï¼', '', 'error');
+				}
+				pdo_delete('hotel2_room', array('id' => $id));
+				pdo_delete('hotel2_order', array('roomid' => $id));
+				pdo_query("update " . tablename('hotel2') . " set roomcount=(select count(*) from " . tablename('hotel2_room') . " where hotelid=:hotelid) where id=:hotelid", array(":hotelid" => $id));
+			}
+			$this->web_message('åˆ é™¤æˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'showall') {
+			if ($_GPC['show_name'] == 'showall') {
+				$show_status = 1;
+			} else {
+				$show_status = 0;
+			}
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+				if (!empty($id)) {
+					pdo_update('hotel2_room', array('status' => $show_status), array('id' => $id));
+				}
+			}
+			$this->web_message('æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'status') {
+			$id = intval($_GPC['id']);
+			if (empty($id)) {
+				message('æŠ±æ­‰ï¼Œä¼ é€’çš„å‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+			$temp = pdo_update('hotel2_room', array('status' => $_GPC['status']), array('id' => $id));
+			if ($temp == false) {
+				message('æŠ±æ­‰ï¼Œåˆšæ‰æ“ä½œæ•°æ®å¤±è´¥ï¼', '', 'error');
+			} else {
+				message('çŠ¶æ€è®¾ç½®æˆåŠŸï¼', referer(), 'success');
+			}
+		} else {
+			$hotelid = intval($_GPC['hotelid']);
+			$hotel = pdo_fetch("select title from " . tablename('hotel2') . "where id=:id limit 1", array(":id" => $hotelid));
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$sql = "";
+			$params = array();
+			if (!empty($_GPC['title'])) {
+				$sql .= ' AND `title` LIKE :keywords';
+				$params[':keywords'] = "%{$_GPC['title']}%";
+			}
+			if (!empty($hotelid)) {
+				$sql.=' and r.hotelid=:hotelid';
+				$params[':hotelid'] = $hotelid;
+			}
+			if (!empty($_GPC['title'])) {
+				$sql .= ' AND r.title LIKE :keywords';
+				$params[':keywords'] = "%{$_GPC['title']}%";
+			}
+			if (!empty($_GPC['hoteltitle'])) {
+				$sql .= ' AND h.title LIKE :keywords';
+				$params[':keywords'] = "%{$_GPC['hoteltitle']}%";
+			}
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$list = pdo_fetchall("SELECT r.*,h.title as hoteltitle FROM " . tablename('hotel2_room') . " r left join " . tablename('hotel2') . " h on r.hotelid = h.id WHERE r.weid = '{$_W['uniacid']}' $sql ORDER BY h.id, r.displayorder, r.sortid DESC LIMIT " . ($pindex - 1) * $psize . ',' . $psize, $params);
+			$total = pdo_fetchcolumn('SELECT COUNT(*) FROM ' . tablename('hotel2_room') . " r left join " . tablename('hotel2') . " h on r.hotelid = h.id WHERE r.weid = '{$_W['uniacid']}' $sql", $params);
+			$pager = pagination($total, $pindex, $psize);
+			include $this->template('room');
+		}
+	}
+
+	public function web_message($error, $url = '', $errno = -1) {
+		$data = array();
+		$data['errno'] = $errno;
+		if (!empty($url)) {
+			$data['url'] = $url;
+		}
+		$data['error'] = $error;
+		echo json_encode($data);
+		exit;
+	}
+
+	public function doWebOrder() {
+		global $_GPC, $_W;
+		checklogin();
+		$hotelid = intval($_GPC['hotelid']);
+		$hotel = pdo_fetch("select id,title from " . tablename('hotel2') . " where id=:id limit 1", array(":id" => $hotelid));
+		$roomid = intval($_GPC['roomid']);
+		$room = pdo_fetch("select id,title from " . tablename('hotel2_room') . " where id=:id limit 1", array(":id" => $roomid));
+
+		$op = $_GPC['op'];
+		if ($op == 'edit') {
+			$id = $_GPC['id'];
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT * FROM " . tablename('hotel2_order') . " WHERE id = :id", array(':id' => $id));
+				if (empty($item)) {
+					message('æŠ±æ­‰ï¼Œè®¢å•ä¸å­˜åœ¨æˆ–æ˜¯å·²ç»åˆ é™¤ï¼', '', 'error');
+				}
+			}
+			if (checksubmit('submit')) {
+				$old_status = $_GPC['old_status'];
+
+				$data = array(
+					'status' => $_GPC['status'],
+					'msg' => $_GPC['msg'],
+					'mngtime' => time(),
+				);
+
+				$params = array();
+				$sql = "SELECT id, roomdate, num FROM " . tablename('hotel2_room_price');
+				$sql .= " WHERE 1 = 1";
+				$sql .= " AND roomid = :roomid";
+				$sql .= " AND roomdate >= :btime AND roomdate < :etime";
+				$sql .= " AND status = 1";
+
+				$params[':roomid'] = $item['roomid'];
+				$params[':btime'] = $item['btime'];
+				$params[':etime'] = $item['etime'];
+
+				//è®¢å•ç¡®è®¤
+//				if ($data['status'] == 1 && $old_status != 1) {
+//					$room_date_list = pdo_fetchall($sql, $params);
+//					if ($room_date_list) {
+//						//$change_data = array();
+//
+//						foreach ($room_date_list as $key => $value) {
+//							$num = $value['num'];
+//							if ($num > 0) {
+//								if ($num > $item['nums']) {
+//									$now_num = $num - $item['nums'];
+//								} else {
+//									$now_num = 0;
+//								}
+//								pdo_update('hotel2_room_price', array('num' => $now_num), array('id' => $value['id']));
+//							}
+//						}
+//					}
+//				}
+
+				//è®¢å•å–æ¶ˆ
+				//print_r($old_status . '=>' . $data['status']); exit;
+				if ($data['status'] == -1 || $data['status'] == 2) {
+					$room_date_list = pdo_fetchall($sql, $params);
+					if ($room_date_list) {
+						foreach ($room_date_list as $key => $value) {
+							$num = $value['num'];
+							if ($num >= 0) {
+								$now_num = $num + $item['nums'];
+								pdo_update('hotel2_room_price', array('num' => $now_num), array('id' => $value['id']));
+							}
+						}
+					}
+				}
+				//è®¢å•å®Œæˆæ—¶å‡æˆ¿é—´åº“å­˜
+//				if ($_GPC['status'] == 3) {
+//					$starttime = $item['btime'];
+//					$days = $item['day'];
+//					$room = $item['nums'];
+//					for ($i= 0; $i < $days; $i++) {
+//						$sql = 'SELECT * FROM ' . tablename('hotel2_room_price') . ' WHERE `roomdate` = :roomdate';
+//						$params = array(':roomdate' => $starttime);
+//						$day = pdo_fetch($sql, $params);
+//						if (!empty($day) && $day['num'] - $room >= 0) {
+//							pdo_update('hotel2_room_price', array('num' => $day['num'] - $room), array('id' => $day['id']));
+//						}
+//						$starttime += 86400;
+//					}
+//				}
+				pdo_update('hotel2_order', $data, array('id' => $id));
+				message('è®¢å•ä¿¡æ¯å¤„ç†å®Œæˆï¼', $this->createWebUrl('order', array('hotelid' => $hotelid, "roomid" => $roomid)), 'success');
+			}
+
+			$btime = $item['btime'];
+			$etime = $item['etime'];
+
+			$start = date('m-d', $btime);
+			$end = date('m-d', $etime);
+
+			//æ—¥æœŸåˆ—
+			$days = ceil(($etime - $btime) / 86400);
+
+			//print_r($days);exit;
+
+			$date_array = array();
+			$date_array[0]['date'] = $start;
+			$date_array[0]['day'] = date('j', $btime);
+			$date_array[0]['time'] = $btime;
+			$date_array[0]['month'] = date('m', $btime);
+
+			if ($days > 1) {
+				for ($i = 1; $i < $days; $i++) {
+					$date_array[$i]['time'] = $date_array[$i - 1]['time'] + 86400;
+					$date_array[$i]['date'] = date('Y-m-d', $date_array[$i]['time']);
+					$date_array[$i]['day'] = date('j', $date_array[$i]['time']);
+					$date_array[$i]['month'] = date('m', $date_array[$i]['time']);
+				}
+			}
+
+			//print_r($date_array);exit;
+
+			$sql = "SELECT id, roomdate, num, status FROM " . tablename('hotel2_room_price');
+			$sql .= " WHERE 1 = 1";
+			$sql .= " AND roomid = :roomid";
+			$sql .= " AND roomdate >= :btime AND roomdate < :etime";
+			$sql .= " AND status = 1";
+
+			$params[':roomid'] = $item['roomid'];
+			$params[':btime'] = $item['btime'];
+			$params[':etime'] = $item['etime'];
+
+			$room_date_list = pdo_fetchall($sql, $params);
+
+			if ($room_date_list) {
+				$flag = 1;
+			} else {
+				$flag = 0;
+			}
+			$list = array();
+
+			if ($flag == 1) {
+				for ($i = 0; $i < $days; $i++) {
+					$k = $date_array[$i]['time'];
+
+					foreach ($room_date_list as $p_key => $p_value) {
+						//åˆ¤æ–­ä»·æ ¼è¡¨ä¸­æ˜¯å¦æœ‰å½“å¤©çš„æ•°æ®
+						if ($p_value['roomdate'] == $k) {
+							$list[$k]['status'] = $p_value['status'];
+							if (empty($p_value['num'])) {
+								$list[$k]['num'] = 0;
+							} else if ($p_value['num'] == -1) {
+								$list[$k]['num'] = "ä¸é™";
+							} else {
+								$list[$k]['num'] = $p_value['num'];
+							}
+							$list[$k]['has'] = 1;
+							break;
+						}
+					}
+					//ä»·æ ¼è¡¨ä¸­æ²¡æœ‰å½“å¤©æ•°æ®
+					if (empty($list[$k])) {
+						$list[$k]['num'] = "ä¸é™";
+						$list[$k]['status'] = 1;
+					}
+				}
+			} else {
+				//ä»·æ ¼è¡¨ä¸­æ²¡æœ‰æ•°æ®
+				for ($i = 0; $i < $days; $i++) {
+					$k = $date_array[$i]['time'];
+					$list[$k]['num'] = "ä¸é™";
+					$list[$k]['status'] = 1;
+				}
+			}
+
+			$member_info = pdo_fetch("SELECT from_user,isauto FROM " . tablename('hotel2_member') . " WHERE id = :id LIMIT 1", array(':id' => $item['memberid']));
+
+			include $this->template('order_form');
+		} else if ($op == 'delete') {
+			$id = intval($_GPC['id']);
+			$item = pdo_fetch("SELECT id FROM " . tablename('hotel2_order') . " WHERE id = :id LIMIT 1", array(':id' => $id));
+
+			if (empty($item)) {
+				message('æŠ±æ­‰ï¼Œè®¢å•ä¸å­˜åœ¨æˆ–æ˜¯å·²ç»åˆ é™¤ï¼', '', 'error');
+			}
+			pdo_delete('hotel2_order', array('id' => $id));
+			message('åˆ é™¤æˆåŠŸï¼', referer(), 'success');
+		} elseif($op == 'deleteall') {
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+				pdo_delete('hotel2_order', array('id' => $id));
+			}
+			$this->web_message('åˆ é™¤æˆåŠŸï¼', '', 0);
+			exit();
+		}
+		else {
+			$weid = $_W['uniacid'];
+			$realname = $_GPC['realname'];
+			$mobile = $_GPC['mobile'];
+			$ordersn = $_GPC['ordersn'];
+			$roomtitle = $_GPC['roomtitle'];
+			$hoteltitle = $_GPC['hoteltitle'];
+			$condition = '';
+			$params = array();
+			if (!empty($hoteltitle)) {
+				$condition .= ' AND h.title LIKE :hoteltitle';
+				$params[':hoteltitle'] = "%{$hoteltitle}%";
+			}
+			if (!empty($roomtitle)) {
+				$condition .= ' AND r.title LIKE :roomtitle';
+				$params[':roomtitle'] = "%{$roomtitle}%";
+			}
+
+			if (!empty($realname)) {
+				$condition .= ' AND o.name LIKE :realname';
+				$params[':realname'] = "%{$realname}%";
+			}
+			if (!empty($mobile)) {
+				$condition .= ' AND o.mobile LIKE :mobile';
+				$params[':mobile'] = "%{$mobile}%";
+			}
+			if (!empty($ordersn)) {
+				$condition .= ' AND o.ordersn LIKE :ordersn';
+				$params[':ordersn'] = "%{$ordersn}%";
+			}
+			if (!empty($hotelid)) {
+				$condition.=" and o.hotelid=" . $hotelid;
+			}
+			if (!empty($roomid)) {
+				$condition.=" and o.roomid=" . $roomid;
+			}
+			$status = $_GPC['status'];
+			if ($status != '') {
+				$condition.=" and o.status=" . intval($status);
+			}
+			$paystatus = $_GPC['paystatus'];
+			if ($paystatus != '') {
+				$condition.=" and o.paystatus=" . intval($paystatus);
+			}
+
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$list = pdo_fetchall("SELECT o.*,h.title as hoteltitle,r.title as roomtitle FROM " . tablename('hotel2_order') . " o left join " . tablename('hotel2') .
+				"h on o.hotelid=h.id left join " . tablename("hotel2_room") . " r on r.id = o.roomid  WHERE o.weid = '{$_W['uniacid']}' $condition ORDER BY o.id DESC LIMIT " . ($pindex - 1) * $psize . ',' . $psize, $params);
+			$lists = pdo_fetchall("SELECT o.*,h.title as hoteltitle,r.title as roomtitle FROM " . tablename('hotel2_order') . " o left join " . tablename('hotel2') .
+				"h on o.hotelid=h.id left join " . tablename("hotel2_room") . " r on r.id = o.roomid  WHERE o.weid = '{$_W['uniacid']}' $condition ORDER BY o.id DESC" . ',' . $psize, $params);
+			$total = pdo_fetchcolumn('SELECT COUNT(*) FROM  ' . tablename('hotel2_order') . " o left join " . tablename('hotel2') .
+				"h on o.hotelid=h.id left join " . tablename("hotel2_room") . " r on r.id = o.roomid  WHERE o.weid = '{$_W['uniacid']}' $condition", $params);
+			if ($_GPC['export'] != '') {
+				/* è¾“å…¥åˆ°CSVæ–‡ä»¶ */
+				$html = "\xEF\xBB\xBF";
+				/* è¾“å‡ºè¡¨å¤´ */
+				$filter = array(
+					'ordersn' => 'è®¢å•å·',
+					'hoteltitle' => 'é…’åº—',
+					'roomtitle' => 'æˆ¿åž‹',
+					'name' => 'é¢„è®¢äºº',
+					'mobile' => 'æ‰‹æœº',
+					'nums' => 'é¢„è®¢æ•°é‡',
+					'sum_price' => 'æ€»ä»·',
+					'btime' => 'åˆ°åº—æ—¶é—´',
+					'etime' => 'ç¦»åº—æ—¶é—´',
+					'paytype' => 'æ”¯ä»˜æ–¹å¼',
+					'time' => 'è®¢å•ç”Ÿæˆæ—¶é—´',
+					'paystatus' => 'è®¢å•çŠ¶æ€'
+				);
+				foreach ($filter as $key => $title) {
+					$html .= $title . "\t,";
+				}
+				$html .= "\n";
+				foreach ($lists as $k => $v) {
+					foreach ($filter as $key => $title) {
+						if ($key == 'time') {
+							$html .= date('Y-m-d H:i:s', $v[$key]) . "\t, ";
+						} elseif ($key == 'btime') {
+							$html .= date('Y-m-d', $v[$key]) . "\t, ";
+						} elseif ($key == 'etime') {
+							$html .= date('Y-m-d', $v[$key]) . "\t, ";
+						} elseif ($key == 'paytype') {
+							if ($v[$key] == 1) {
+								$html .= 'ä½™é¢æ”¯ä»˜'."\t, ";
+							}
+							if ($v[$key] == 21) {
+								$html .= 'å¾®ä¿¡æ”¯ä»˜'."\t, ";
+							}
+							if ($v[$key] == 22) {
+								$html .= 'æ”¯ä»˜å®æ”¯ä»˜'."\t, ";
+							}
+							if ($v[$key] == 3) {
+								$html .= 'åˆ°åº—æ”¯ä»˜'."\t, ";
+							}
+						} elseif ($key == 'paystatus') {
+							if ($v[$key] == 0) {
+								if ($v['status'] == 0) {
+									if ($v['paytype'] == 1 || $v['paytype'] == 2) {
+										$html .= 'å¾…ä»˜æ¬¾'."\t, ";
+									} else {
+										$html .= 'ç­‰å¾…ç¡®è®¤'."\t, ";
+									}
+								} elseif ($v['status'] == -1) {
+									$html .= 'å·²å–æ¶ˆ'."\t, ";
+								} elseif ($v['status'] == 1) {
+									$html .= 'å·²æŽ¥å—'."\t, ";
+								} elseif ($v['status'] == 2) {
+									$html .= 'å·²æ‹’ç»'."\t, ";
+								} elseif ($v['status'] == 3) {
+									$html .= 'è®¢å•å®Œæˆ'."\t, ";
+								}
+							} else {
+								if ($v['status'] == 0) {
+									$html .= 'å·²æ”¯ä»˜ç­‰å¾…ç¡®è®¤'."\t, ";
+								} elseif ($v['status'] == -1) {
+									$html .= 'å·²æ”¯ä»˜ï¼Œå–æ¶ˆå¹¶é€€æ¬¾'."\t, ";
+								} elseif ($v['status'] == 1) {
+									$html .= 'å·²æ”¯ä»˜ï¼Œå·²ç¡®è®¤'."\t, ";
+								} elseif ($v['status'] == 2) {
+									$html .= 'å·²æ”¯ä»˜ï¼Œå·²é€€æ¬¾'."\t, ";
+								} elseif ($v['status'] == 3) {
+									$html .= 'è®¢å•å®Œæˆ'."\t, ";
+								}
+							}
+						} else {
+							$html .= $v[$key] . "\t, ";
+						}
+					}
+					$html .= "\n";
+				}
+				/* è¾“å‡ºCSVæ–‡ä»¶ */
+				header("Content-type:text/csv");
+				header("Content-Disposition:attachment; filename=å…¨éƒ¨æ•°æ®.csv");
+				echo $html;
+				exit();
+
+			}
+			$pager = pagination($total, $pindex, $psize);
+			include $this->template('order');
+		}
+	}
+
+	public function doWebMember() {
+		global $_GPC, $_W;
+		$op = $_GPC['op'];
+		if ($op == 'edit') {
+			$id = intval($_GPC['id']);
+			
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT * FROM " . tablename('hotel2_member') . " WHERE id = :id", array(':id' => $id));
+				if (empty($item)) {
+					message('æŠ±æ­‰ï¼Œç”¨æˆ·ä¸å­˜åœ¨æˆ–æ˜¯å·²ç»åˆ é™¤ï¼', '', 'error');
+				}
+			}
+			if (checksubmit('submit')) {
+				$data = array(
+					'weid' => $_W['uniacid'],
+					'username' => $_GPC['username'],
+					'realname' => $_GPC['realname'],
+					'mobile' => $_GPC['mobile'],
+					'score' => $_GPC['score'],
+					'userbind' => $_GPC['userbind'],
+					'isauto' => $_GPC['isauto'],
+					'status' => $_GPC['status'],
+				);
+				
+				if (!empty($_GPC['password'])) {
+					$data['salt'] = random(8);
+					$data['password'] = hotel_member_hash($_GPC['password'], $data['salt']);
+					//$data['password'] = md5($_GPC['password']);
+				}
+
+				if (empty($id)) {
+					$c = pdo_fetchcolumn("select count(*) from " . tablename('hotel2_member') . " where username=:username ", array(":username" => $data['username']));
+					if ($c > 0) {
+						message("ç”¨æˆ·å " . $data['username'] . " å·²ç»å­˜åœ¨!", "", "error");
+					}
+					$data['createtime'] = time();
+					pdo_insert('hotel2_member', $data);
+				} else {
+					pdo_update('hotel2_member', $data, array('id' => $id));
+				}
+				message('ç”¨æˆ·ä¿¡æ¯æ›´æ–°æˆåŠŸï¼', $this->createWebUrl('member'), 'success');
+			}
+			include $this->template('member_form');
+		} else if ($op == 'delete') {
+			$id = intval($_GPC['id']);
+			pdo_delete('hotel2_member', array('id' => $id));
+			pdo_delete('hotel2_order', array('memberid' => $id));
+			message('åˆ é™¤æˆåŠŸï¼', referer(), 'success');
+		} else if ($op == 'deleteall') {
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+				pdo_delete('hotel2_member', array('id' => $id));
+				pdo_delete('hotel2_order', array('memberid' => $id));
+			}
+			$this->web_message('è§„åˆ™æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'showall') {
+			if ($_GPC['show_name'] == 'showall') {
+				$show_status = 1;
+			} else {
+				$show_status = 0;
+			}
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+				if (!empty($id)) {
+					pdo_update('hotel2_member', array('status' => $show_status), array('id' => $id));
+				}
+			}
+			$this->web_message('æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'status') {
+			$id = intval($_GPC['id']);
+			if (empty($id)) {
+				message('æŠ±æ­‰ï¼Œä¼ é€’çš„å‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+			$temp = pdo_update('hotel2_member', array('status' => $_GPC['status']), array('id' => $id));
+
+			if ($temp == false) {
+				message('æŠ±æ­‰ï¼Œåˆšæ‰æ“ä½œæ•°æ®å¤±è´¥ï¼', '', 'error');
+			} else {
+				message('çŠ¶æ€è®¾ç½®æˆåŠŸï¼', referer(), 'success');
+			}
+		} else {
+			$sql = "";
+			$params = array();
+			if (!empty($_GPC['realname'])) {
+				$sql .= ' AND `realname` LIKE :realname';
+				$params[':realname'] = "%{$_GPC['realname']}%";
+			}
+			if (!empty($_GPC['mobile'])) {
+				$sql .= ' AND `mobile` LIKE :mobile';
+				$params[':mobile'] = "%{$_GPC['mobile']}%";
+			}
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$list = pdo_fetchall("SELECT * FROM " . tablename('hotel2_member') . " WHERE weid = '{$_W['uniacid']}' $sql ORDER BY id DESC LIMIT " . ($pindex - 1) * $psize . ',' . $psize, $params);
+			$total = pdo_fetchcolumn('SELECT COUNT(*) FROM ' . tablename('hotel2_member') . " WHERE weid = '{$_W['uniacid']}' $sql", $params);
+			$pager = pagination($total, $pindex, $psize);
+			include $this->template('member');
+		}
+	}
+
+	public function doWebhotelset() {
+		global $_GPC, $_W; $acc = WeAccount::create($_W['acid']);
+		$id = intval($_GPC['id']);
+		if (checksubmit('submit')) {
+			$data = array(
+				'weid' => $_W['uniacid'],
+				'location_p' => $_GPC['district']['province'],
+				'location_c' => $_GPC['district']['city'],
+				'location_a' => $_GPC['district']['district'],
+				'version' => $_GPC['version'],
+				'user' => $_GPC['user'],
+				'reg' => $_GPC['reg'],
+				'regcontent' => $_GPC['regcontent'],
+				'bind' => $_GPC['bind'],
+				'ordertype' => $_GPC['ordertype'],
+				'paytype1' => $_GPC['paytype1'],
+				'paytype2' => $_GPC['paytype2'],
+				'paytype3' => $_GPC['paytype3'],
+				'is_unify' => $_GPC['is_unify'],
+				'tel' => $_GPC['tel'],
+				'email' => $_GPC['email'],
+				'mobile' => $_GPC['mobile'],
+				'template' => $_GPC['template'],
+				'templateid' => trim($_GPC['templateid'])
+			);
+			if ($data['template'] && $data['templateid'] == '') {
+				message('è¯·è¾“å…¥æ¨¡æ¿ID',referer(),'info');
+			}
+			if (!empty($id)) {
+				pdo_update("hotel2_set", $data, array("id" => $id));
+			} else {
+				pdo_insert("hotel2_set", $data);
+			}
+			message("ä¿å­˜è®¾ç½®æˆåŠŸ!", referer(), "success");
+		}
+
+		$sql = 'SELECT * FROM ' . tablename('hotel2_set') . ' WHERE `weid` = :weid';
+		$set = pdo_fetch($sql, array(':weid' => $_W['uniacid']));
+		if (empty($set)) {
+			$set = array('user' => 1, 'reg' => 1, 'bind' => 1);
+		}
+		include $this->template("hotelset");
+	}
+
+	public function doWebBrand() {
+		global $_GPC, $_W;
+		$op = $_GPC['op'];
+		if ($op == 'edit') {
+			$id = intval($_GPC['id']);
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT * FROM " . tablename('hotel2_brand') . " WHERE id = :id", array(':id' => $id));
+				if (empty($item)) {
+					message('æŠ±æ­‰ï¼Œå“ç‰Œä¸å­˜åœ¨æˆ–æ˜¯å·²ç»åˆ é™¤ï¼', '', 'error');
+				}
+			}
+
+			if (checksubmit('submit')) {
+				$data = array(
+					'weid' => $_W['uniacid'],
+					'title' => $_GPC['title'],
+					'status' => $_GPC['status'],
+				);
+
+				if (empty($id)) {
+					pdo_insert('hotel2_brand', $data);
+				} else {
+					pdo_update('hotel2_brand', $data, array('id' => $id));
+				}
+				message('å“ç‰Œä¿¡æ¯æ›´æ–°æˆåŠŸï¼', $this->createWebUrl('brand'), 'success');
+			}
+			include $this->template('brand_form');
+		} else if ($op == 'delete') {
+			$id = intval($_GPC['id']);
+			pdo_delete('hotel2_brand', array('id' => $id));
+			message('åˆ é™¤æˆåŠŸï¼', referer(), 'success');
+		} else if ($op == 'deleteall') {
+			foreach ($_GPC['idArr'] as $k => $id) {
+
+				$id = intval($id);
+				pdo_delete('hotel2_brand', array('id' => $id));
+			}
+			$this->web_message('è§„åˆ™æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'showall') {
+			if ($_GPC['show_name'] == 'showall') {
+				$show_status = 1;
+			} else {
+				$show_status = 0;
+			}
+
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+
+				if (!empty($id)) {
+					pdo_update('hotel2_brand', array('status' => $show_status), array('id' => $id));
+				}
+			}
+			$this->web_message('æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'status') {
+
+			$id = intval($_GPC['id']);
+			if (empty($id)) {
+				message('æŠ±æ­‰ï¼Œä¼ é€’çš„å‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+			$temp = pdo_update('hotel2_brand', array('status' => $_GPC['status']), array('id' => $id));
+
+			if ($temp == false) {
+				message('æŠ±æ­‰ï¼Œåˆšæ‰æ“ä½œæ•°æ®å¤±è´¥ï¼', '', 'error');
+			} else {
+				message('çŠ¶æ€è®¾ç½®æˆåŠŸï¼', referer(), 'success');
+			}
+		} else {
+			$sql = "";
+			$params = array();
+			if (!empty($_GPC['title'])) {
+				$sql .= ' AND `title` LIKE :title';
+				$params[':title'] = "%{$_GPC['title']}%";
+			}
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$list = pdo_fetchall("SELECT * FROM " . tablename('hotel2_brand') . " WHERE weid = '{$_W['uniacid']}' $sql ORDER BY displayorder DESC LIMIT " . ($pindex - 1) * $psize . ',' . $psize, $params);
+			$total = pdo_fetchcolumn('SELECT COUNT(*) FROM ' . tablename('hotel2_brand') . " WHERE weid = '{$_W['uniacid']}' $sql", $params);
+			$pager = pagination($total, $pindex, $psize);
+			include $this->template('brand');
+		}
+	}
+
+	public function doWebGetBusiness() {
+		global $_W, $_GPC;
+		$kwd = trim($_GPC['keyword']);
+		$sql = 'SELECT * FROM ' . tablename('hotel2_business') . ' WHERE `weid`=:weid';
+		$params = array();
+		$params[':weid'] = $_W['uniacid'];
+		if (!empty($kwd)) {
+			$sql.=" AND `title` LIKE :title";
+			$params[':title'] = "%{$kwd}%";
+		}
+		$ds = pdo_fetchall($sql, $params);
+		include $this->template('business_query');
+		exit();
+	}
+
+	public function doWebBusiness() {
+		global $_GPC, $_W;
+		$op = $_GPC['op'];
+		if ($op == 'edit') {
+			$id = intval($_GPC['id']);
+			if (!empty($id)) {
+				$item = pdo_fetch("SELECT * FROM " . tablename('hotel2_business') . " WHERE id = :id", array(':id' => $id));
+				if (empty($item)) {
+					message('æŠ±æ­‰ï¼Œå•†åœˆä¸å­˜åœ¨æˆ–æ˜¯å·²ç»åˆ é™¤ï¼', '', 'error');
+				}
+			}
+
+			if (checksubmit('submit')) {
+				$data = array(
+					'weid' => $_W['uniacid'],
+					'title' => $_GPC['title'],
+					'location_p' => $_GPC['district']['province'],
+					'location_c' => $_GPC['district']['city'],
+					'location_a' => $_GPC['district']['district'],
+					'displayorder' => $_GPC['displayorder'],
+					'status' => $_GPC['status'],
+				);
+
+				if (empty($id)) {
+					pdo_insert('hotel2_business', $data);
+				} else {
+					pdo_update('hotel2_business', $data, array('id' => $id));
+				}
+				message('å•†åœˆä¿¡æ¯æ›´æ–°æˆåŠŸï¼', $this->createWebUrl('business'), 'success');
+			}
+			include $this->template('business_form');
+		} else if ($op == 'delete') {
+			$id = intval($_GPC['id']);
+			pdo_delete('hotel2_business', array('id' => $id));
+			message('åˆ é™¤æˆåŠŸï¼', referer(), 'success');
+		} else if ($op == 'deleteall') {
+			foreach ($_GPC['idArr'] as $k => $id) {
+
+				$id = intval($id);
+				pdo_delete('hotel2_business', array('id' => $id));
+			}
+			$this->web_message('è§„åˆ™æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'showall') {
+			if ($_GPC['show_name'] == 'showall') {
+				$show_status = 1;
+			} else {
+				$show_status = 0;
+			}
+
+			foreach ($_GPC['idArr'] as $k => $id) {
+				$id = intval($id);
+
+				if (!empty($id)) {
+					pdo_update('hotel2_business', array('status' => $show_status), array('id' => $id));
+				}
+			}
+			$this->web_message('æ“ä½œæˆåŠŸï¼', '', 0);
+			exit();
+		} else if ($op == 'status') {
+
+			$id = intval($_GPC['id']);
+			if (empty($id)) {
+				message('æŠ±æ­‰ï¼Œä¼ é€’çš„å‚æ•°é”™è¯¯ï¼', '', 'error');
+			}
+			$temp = pdo_update('hotel2_business', array('status' => $_GPC['status']), array('id' => $id));
+
+			if ($temp == false) {
+				message('æŠ±æ­‰ï¼Œåˆšæ‰æ“ä½œæ•°æ®å¤±è´¥ï¼', '', 'error');
+			} else {
+				message('çŠ¶æ€è®¾ç½®æˆåŠŸï¼', referer(), 'success');
+			}
+		} else {
+			$sql = "";
+			$params = array();
+			if (!empty($_GPC['title'])) {
+				$sql .= ' AND `title` LIKE :title';
+				$params[':title'] = "%{$_GPC['title']}%";
+			}
+			$pindex = max(1, intval($_GPC['page']));
+			$psize = 20;
+			$list = pdo_fetchall("SELECT * FROM " . tablename('hotel2_business') . " WHERE weid = '{$_W['uniacid']}' $sql ORDER BY id DESC LIMIT " . ($pindex - 1) * $psize . ',' . $psize, $params);
+			$total = pdo_fetchcolumn('SELECT COUNT(*) FROM ' . tablename('hotel2_business') . " WHERE weid = '{$_W['uniacid']}' $sql", $params);
+			$pager = pagination($total, $pindex, $psize);
+			include $this->template('business');
+		}
+	}
+}

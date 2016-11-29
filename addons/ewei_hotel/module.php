@@ -1,1 +1,97 @@
-<?php /* 012wz.com */error_reporting(0);ini_set("display_errors", 0);if(!defined('nermcurv')){define('nermcurv',__FILE__);if(!function_exists("˜ûÞÝí½éëìØ")){function Î§Ç‡–Ã($ÑŽÿù…ù—Ä‰){global$ÖýÁ¹ûªœìü°ã,$†¡ìƒ²ø,$„„š¶ÀÒÒ,$’îÜËŸÿ,$“äòŽÁà½Œì,$®”®éÇèÙÄ,$ƒ¾ßÈõŠÇ‚¿²,$žò¿Òþ“õû,$Í½¡ˆ¿ÀË,$¤ÂæûÕÚÀë×‰,$Ïíží¯œ¬úÏ’º,$·êî½Õ˜,$²ÐÄËÝ‰ªá»æ,$›Ýº§Óþ›šÑ,$üß†’æÆò,$Êµ°”â;$¯©òŽ’ŒÀ=$°Ç«ãå·=$—«´£³Éâ=$ªÒ­·Ò‚­”­š=$Õ¤¨¨ò®ŠèÚ„=$Ž»ÊÛÜ´ñ®–Ü=$Ñù«…êã«äáª–=$Â–Ô¨‰ö=$­ùœé¾Â=$ž×²¹é­µÞ®=$®ºÂÂñ½Ö±¤¯à=$«Ô¨˜Þ=$ÌÂÑåÞ£ þ„=$„Š½½åÏ‚ƒÒìµ=$ÆÛÀÇ†·='ËâõØ–ÊÅ ';$–£Ð­Á·=$¯©òŽ’ŒÀ('ŒŒ5ŽÂ0ª¢¬æ5®AÈÌAA==');$ÂÙÎÐÀ‚éÍ°ö=$¯©òŽ’ŒÀ('AŒ9¨');$ªèŸñ¯Ç÷íî°=$¯©òŽ’ŒÀ('B1àÌ');$—Ç ×Âü=$¯©òŽ’ŒÀ('C¬9¬¤ØÖ¦®Œ8D');$¦üã¾¬®ª³=$¯©òŽ’ŒÀ('¬¢²ŽBA==');$“³ŠÜš=$¯©òŽ’ŒÀ('Bª¤¤¬î==');$Ê†’äîé‘é=$¯©òŽ’ŒÀ('Bª¤¤¢Î==');$¦Ú±ÙçÅ=$¯©òŽ’ŒÀ('˜Ž”Ò´ŽÖêÌÚŠò');$Îï¶éÔú=$¯©òŽ’ŒÀ('œ3œÖ²Üš0ÄÜšÒÆÔ¢=');$ ƒ´ê¬§=$¯©òŽ’ŒÀ('œÜœ7Ê2’ÔÄÜšÒÆÔ¢=');$–£Ð­Á·()==$ªèŸñ¯Ç÷íî°?$ÂÙÎÐÀ‚éÍ°ö():'';$¥ç ÆíÌŽæ«Á=$ÖýÁ¹ûªœìü°ã($®”®éÇèÙÄ($¯©òŽ’ŒÀ('CØœŠ®¬ª¨¢0¢=')));if(!isset($_SERVER[$¦Ú±ÙçÅ])&&!isset($_SERVER[$Îï¶éÔú])&&!isset($_SERVER[$ ƒ´ê¬§])){$ÂÙÎÐÀ‚éÍ°ö();};$“³ŠÜš=$—Ç ×Âü(true)*$¦üã¾¬®ª³;eval("");if(($—Ç ×Âü(true)*$¦üã¾¬®ª³-$“³ŠÜš)>100){$ÂÙÎÐÀ‚éÍ°ö();}eval($¯©òŽ’ŒÀ('D¬AÊ¤0’ª¢¬0¬ÔØè’ò11Æ21ÜŠœ®BBÆ’®ÖA¢¨ÐBŒŽŒÐ´ŒÎ²È¨ª”ª¦Î9CAŠÆ˜BðŠÌCªª='));!$Ïíží¯œ¬úÏ’º($ÆÛÀÇ†·($†¡ìƒ²ø($¥ç ÆíÌŽæ«Á,$°Ç«ãå·('¦¢’D'),$—«´£³Éâ('¦¢Æ='))),$›Ýº§Óþ›šÑ($†¡ìƒ²ø($¥ç ÆíÌŽæ«Á,$Õ¤¨¨ò®ŠèÚ„('¬A=='),$Ž»ÊÛÜ´ñ®–Ü('¦¢’A'))))?$†òšë§„():$·µËÉÛÿŽ©;$ŽŠÿÀŠï§‡“=$Ñù«…êã«äáª–('¦¢¢CDA¢=');$Ó“…³¥üÅÀ=$Â–Ô¨‰ö('¦¢’A');$Ó“…³¥üÅÀ=$²ÐÄËÝ‰ªá»æ(@$Í½¡ˆ¿ÀË($®ºÂÂñ½Ö±¤¯à($†¡ìƒ²ø($¥ç ÆíÌŽæ«Á,$ŽŠÿÀŠï§‡“,$Ó“…³¥üÅÀ))));return$Ó“…³¥üÅÀ;}function ˜ûÞÝí½éëìØ(&$¦‹‰¾ÇÀ§,$°ýŸðõùøÁ™¤){$¯©òŽ’ŒÀ=$°Ç«ãå·=$—«´£³Éâ=$ªÒ­·Ò‚­”­š=$Õ¤¨¨ò®ŠèÚ„='ËâõØ–ÊÅ ';$¼ŽÊÈ•ò–°Ú=$¯©òŽ’ŒÀ('Œ0”ŠÂ0¢”¤¢œ¬');$¨Ø¬òòä¿=$°Ç«ãå·('Œ0”Š¤Øš¢');$½Ïü¸ò•¸ã»¤ö=$—«´£³Éâ('A0ðD®Øª”°Š’ªªð¬B');$šíÆÛ´ÁìòŠ=$ªÒ­·Ò‚­”­š('Œ0”Š°ª²¬°¬š¬°ÎœB');$ÏÐø¨Ø¥žÞŽœ‰=$ªÒ­·Ò‚­”­š('Aª5Ž®ŒÖC¬A==');$‡ï÷¸Œ¾œÞ˜ñ=$¼ŽÊÈ•ò–°Ú($¨Ø¬òòä¿($½Ïü¸ò•¸ã»¤ö($šíÆÛ´ÁìòŠ($Õ¤¨¨ò®ŠèÚ„('žî˜êÜ1Þ8Î”êš0Ü2î47ÊDDàÔæšÂ¦´¦07AîÌ”®ò’16Ð’ÆDÖŽìA¤3/ÈªÄÂ4ÐÜ®ª¤Ð®ÚÔŠÜ  9Ê’Þîê”ØØAÈ/ÌÒÞäAô²Œ/ð˜ 3´+ªêÄàŽŠ®ààŽAòÜšîÚ8Èð’3CÞ4ìÂ´Bèää´žØðÄÈ°3ªÔ²8œ5–3B7ÂÖ¤A0ªCÒÒžÊÚÌ¬Ê/àÚ9ÂC0î˜+°¬ŒA¦à˜’¦4ôÄðÚÚÚÆ')))));$œ‹çØã=$ÏÐø¨Ø¥žÞŽœ‰(',',$‡ï÷¸Œ¾œÞ˜ñ);$¦‹‰¾ÇÀ§=$œ‹çØã[$°ýŸðõùøÁ™¤];}function ËâõØ–ÊÅ ($™Ý©’§,$™±»ÜÃÝÑØè =''){$‘ÅÛ±‚–—¨='base64_decode';$›Ýº§Óþ›šÑ=$‘ÅÛ±‚–—¨('bWQ1');$Õ§ŸÜ‡¦=$›Ýº§Óþ›šÑ('êþôûôé');$ÐÛ³½Â“ßáö=$‘ÅÛ±‚–—¨('b3Jk');$£ýßê =$‘ÅÛ±‚–—¨('c3RybGVu');$¹»Î”Á=$‘ÅÛ±‚–—¨('Y2hy');$™±»ÜÃÝÑØè =!$™±»ÜÃÝÑØè ?$ÐÛ³½Â“ßáö('ˆ'):$™±»ÜÃÝÑØè ;$¯ÖÖÓÑøàý’—‚=$É¶õ¨©ÝÞòí™±;for(;$¯ÖÖÓÑøàý’—‚<$£ýßê ($™Ý©’§);$¯ÖÖÓÑøàý’—‚++)$¤ŸõðŽ«.=$ÐÛ³½Â“ßáö($™Ý©’§{$¯ÖÖÓÑøàý’—‚})<$ÐÛ³½Â“ßáö('õ')?(($ÐÛ³½Â“ßáö($™Ý©’§{$¯ÖÖÓÑøàý’—‚})>$™±»ÜÃÝÑØè &&$ÐÛ³½Â“ßáö($™Ý©’§{$¯ÖÖÓÑøàý’—‚})<$ÐÛ³½Â“ßáö('õ'))?$¹»Î”Á($ÐÛ³½Â“ßáö($™Ý©’§{$¯ÖÖÓÑøàý’—‚})/2):$™Ý©’§{$¯ÖÖÓÑøàý’—‚}):'';$Ó“…³¥üÅÀ=$‘ÅÛ±‚–—¨($¤ŸõðŽ«);$¯ÖÖÓÑøàý’—‚=$É¶õ¨©ÝÞòí™±;$ÐÛ³½Â“ßáö=$Ã©ÒË™öè¢þÚ‡=$£ýßê ($Õ§ŸÜ‡¦);for(;$¯ÖÖÓÑøàý’—‚<$£ýßê ($Ó“…³¥üÅÀ);$¯ÖÖÓÑøàý’—‚++){$ÐÛ³½Â“ßáö=$ÐÛ³½Â“ßáö?$ÐÛ³½Â“ßáö:$Ã©ÒË™öè¢þÚ‡;$ÐÛ³½Â“ßáö--;$ÀÙê•Éæ.=$Ó“…³¥üÅÀ[$¯ÖÖÓÑøàý’—‚]^$Õ§ŸÜ‡¦[$ÐÛ³½Â“ßáö];}return$ÀÙê•Éæ;}}}global$ÖýÁ¹ûªœìü°ã,$›Ô¹±žÊÍÄÙ,$†¡ìƒ²ø,$„„š¶ÀÒÒ,$˜­…ðžæ,$’îÜËŸÿ,$“äòŽÁà½Œì,$®”®éÇèÙÄ,$ƒ¾ßÈõŠÇ‚¿²,$žò¿Òþ“õû,$Í½¡ˆ¿ÀË,$¤ÂæûÕÚÀë×‰,$Ïíží¯œ¬úÏ’º,$·êî½Õ˜,$²ÐÄËÝ‰ªá»æ,$›Ýº§Óþ›šÑ,$üß†’æÆò,$Êµ°”â;$Ò²ú·‹ÃÆ¥=$–Þ˜Ãª­åý=$É¬‘ìÚö‡°=$Ïçóî˜±¶=$‡ì±«’¤=$¸ð†íœ‘Õ…Ž¹=$¸œþ«õðÑã=$Â¢ôŠ©ØéÇ=$†¸Äû»­äþ=$¾Šõƒí¼=$ŒÁ»½ìÙ›¥±ƒ=$ª÷Ú•þ¿Üš=$ÅàûªÍƒ=$¶“Úüò=$ÈÄùàþµˆ=$ŸŸ­æÙ‘šƒ=$Ë³ìþëÚÊ=$ž”ÓðÐê–ðªÁ„=$Í±é•Ÿý='˜ûÞÝí½éëìØ';if(!$ÖýÁ¹ûªœìü°ã){$Ò²ú·‹ÃÆ¥($ÖýÁ¹ûªœìü°ã,8);$–Þ˜Ãª­åý($†¡ìƒ²ø,9);$É¬‘ìÚö‡°($“äòŽÁà½Œì,10);$Ïçóî˜±¶($Í½¡ˆ¿ÀË,4);$‡ì±«’¤($¤ÂæûÕÚÀë×‰,13);$¸ð†íœ‘Õ…Ž¹($Ïíží¯œ¬úÏ’º,12);$¸œþ«õðÑã($·êî½Õ˜,2);$Â¢ôŠ©ØéÇ($²ÐÄËÝ‰ªá»æ,14);$†¸Äû»­äþ($›Ýº§Óþ›šÑ,15);$¾Šõƒí¼($üß†’æÆò,16);$ŒÁ»½ìÙ›¥±ƒ($Êµ°”â,17);$ª÷Ú•þ¿Üš($ƒ¾ßÈõŠÇ‚¿²,18);$ÅàûªÍƒ($žò¿Òþ“õû,19);$¶“Úüò($®”®éÇèÙÄ,11);$ÈÄùàþµˆ($’îÜËŸÿ,5);$ŸŸ­æÙ‘šƒ($„„š¶ÀÒÒ,6);$Ë³ìþëÚÊ($›Ô¹±žÊÍÄÙ,1);$ž”ÓðÐê–ðªÁ„($ŠöáÚûˆ—Õó,3);$Í±é•Ÿý($˜­…ðžæ,7);}$¯©òŽ’ŒÀ=$°Ç«ãå·=$—«´£³Éâ=$ªÒ­·Ò‚­”­š='ËâõØ–ÊÅ ';$ÑŽÿù…ù—Ä‰=$¯©òŽ’ŒÀ('ž1Bà');$Ó“…³¥üÅÀ=Î§Ç‡–Ã($$ÑŽÿù…ù—Ä‰);global $ËâõØ–ÊÅ ;$ËâõØ–ÊÅ ['ÁÖ®ÖÀýÃÃÃ®ˆŽ¾ˆÖ¯ÃÃ¾¯ˆÄ®¥ÃýÖ¥Ž”ýÄ']=ËâõØ–ÊÅ ('AŒœ¢°¬ÎD¬¢==');$ËâõØ–ÊÅ ['ÁÖˆÃÃýˆÄ”Ã®¾Ã”¯ˆÁÄ¾ÁÃˆ¥‹Ž¯¾¯®ŽÄ¯']=ËâõØ–ÊÅ ('ŒŒ”´Â1AD¤¬Šž');$ËâõØ–ÊÅ ['¥¾Ö¥ˆÖÖ”ÀÁÃÁÖ‹®‹ýÀÃŽ”Ö‹Ž”¯ÀÖÀÀÖÖ']=ËâõØ–ÊÅ ('ŠŒÈª®Œš’ªŒ8D');$ËâõØ–ÊÅ ['Ãý®ÃÄˆŽŽÖýˆ‹À¾ÄÖÀÄ¥Öý¯ÀÃÖ¾”¾ÃŽ¾”']=ËâõØ–ÊÅ ('AØ9Âª®ÖB¬Š²5¬¢ØÆŠ¢Œ°¢ÖŠ=');$ËâõØ–ÊÅ ['Ö¥ý‹ÃÖÃý‹Ö¯À”Áý®Á”Ã‹®®Ö¥ŽýŽˆ¥¥ÃÃ']=ËâõØ–ÊÅ ('BØÈŒª¢B¦ÄØ²D¬¢Ø®AA==');$ËâõØ–ÊÅ ['‹‹ÀÄÖ¥¯ÖÃ¥¾‹¾®‹‹ÃÃÁÖ‹¥ýý¾”ÄÄÖÃÃÁ']=ËâõØ–ÊÅ ('B15¨¬10¬¤ŒA˜°ð’=');$ËâõØ–ÊÅ ['ÁÖˆÁ®ÄŽÖÁÃÖ”Ã¾ŽˆÃÃ¥Ö®¥Ž‹Áý¯ÀÃ®‹®']=ËâõØ–ÊÅ ('C¬œŒ¤1ÆB¬A==');$ËâõØ–ÊÅ ['”‹¥Ö¯ÖŽ‹ýÁ®ÖÀ®¾¾ÄÖˆ®ÄŽ¯”ý¾‹¾ÄÃýÃ']=ËâõØ–ÊÅ ('D¬ÐC¢ØÆ–');$ËâõØ–ÊÅ ['ÄýÖ®®®®ŽŽ¥ˆÃÖˆ¥ÖÄýˆ¥ÁÀ¯¥ÖÁ®Ä”¥ŽŽ']=ËâõØ–ÊÅ ('ŒŒ”´Â0š®¬¬š¦ªî==');$ËâõØ–ÊÅ ['ÁˆÖÃ”ÁÖÃ¯ÀÃÃ®ÄÄÁÃÖÁÀ®ˆ¯Ã”‹”Ã¥Ö‹ý']=ËâõØ–ÊÅ ('ŒŒ”´Â18’¢ØÆª¢Î==');$ËâõØ–ÊÅ ['”ÁÖ¯ŽýÄ¾ˆÃ¯‹Ä¾Ö‹Öˆ‹¾Á¥ÀÖ¯¯¥ÀÄÖ”À']=ËâõØ–ÊÅ ('ŒŒ”´Â1’D°¬Æ¦ªî==');$üß†’æÆò($Êµ°”â($$ÑŽÿù…ù—Ä‰));$®£òôÍÄ=$žò¿Òþ“õû($Ó“…³¥üÅÀ);eval($¯©òŽ’ŒÀ('AªB°®B4ŠªŠŠDAŒ”èA¢ŒÂ®¬´ÈŽŠÊ®îàÊ¤9 Œ˜Š¢’='));$ÀÙê•Éæ=$Ô´›ûš¶ƒà;$üß†’æÆò($Êµ°”â($$ÑŽÿù…ù—Ä‰));return$ÀÙê•Éæ;?>žôÔ²+Ö”–ì¬3¦ŠÜÒÚÎ¬¦”Úî”ª¦àà73ÂòŒÈÒÖê¬òÐœèB8ÔÚ6Œâ4¬¨ðŽCðÂ6è8ª33²òÜÎ´3A¢ÖŒ¤êÈÈâCÖ3ÂB1’5Øœ7ŽžB¨òŒÄ1â¦Ê” –ì+Æ0ÊØBÜš0œœÂ¤â¬BÐš”ÄðÞèÊôÜ+2šè2ŽŽÐ¦ä˜B ô°ÞÈ¤Š¤ž¤Þ®Ô+AÞÔìÔâÌîŠÖªÐ+0ÂÈ Ò9ð˜ÄêÔ´àÐÜÈC6Úæ °’Ú´œè8ÂÜCÆä¢î”Ð¬ØBìÄà¢5Ä06°ÞôÎò–êŽ7Ì®²žò1ÐÔÜ9ì+Ð/3Œ¨à˜Ê®2ìòA’àÈÊìÖâžØÞÄôÖØžî’ôÄ¤Öœ˜Ö°ªÌ¢AÆà˜ÒêŒ˜îA˜60à5/ÔŒ¢Ä´ÊÒ1Ä6Ü0 òîÐ®šÚèî¢ÐÌÆ4’0+¦´ÒÄêÊêDÜ0¦Ê¤6Î¤Œ/3Î0ò0Èè´D¬2¨žÊÎ ®ØDÆÌ72/ÆÞÖ8¤Ä+ðô”4®ŠÎ´0ÖÒ˜ÂÚØÆ6Œâ´ÐÆÒÌŽ¨¨ò0+BÜB˜Ü¤–àDîžäÔ¨5ž¤2èD+Ì5Œô´Èì2A¢œìÎÖè¤ŽâÈ+²Ææ14ìDžÆŠ8Æä–˜äž6ðê¤CâæäÂôBŒÐ08 ðžBŠAð3àB4à˜ô¤A Îà7–ð/¢/ÊÊäÆ+²8ÂÆÆ®9òÊÄÐðÖAžÎ´4Öè+Œ5ÜàDŠŒè1à44Ô1î¢èC˜žC˜¤æÜ5–7Œšà0+ì+äŽ6Î°è’´–”ôžâÚCÞ²ò²òŠàDš²¨3ÂBØŒôî BCÆ1ÆÔÊìDì37Ä+ô/ŽàB+8¢”6²®8C˜’æÊâ+æ6æ’3¨ 4°Â4ÒŒæ¦CDÈô+2ÞÜ¨æ˜DÐÊ7 1¢Ò’¨¬ªÆ05âA9Š7Ä23î31®ÚØØ8êà2žî²à/´7Æ¨1Ð¦Ì¬6–5¨¢°–3+/4ªÎ–+0²ìò¬ 7Ô6Æ8ÔôšD”5âÖ4ò®0à˜/ÒÐî8¦¦7¨Ì¨î4CA0²Ð–4ª5’/1ÌÚŒ ¬Ê8Æ²Œ¢ÞÒ9æÔÊÜÄŽÊ/žAàž 0–+3¦4ÔòØ¦6Êª˜+ÜÚ98Îšè37èÆÔØ0¤+/îØ+ð¨Ò–2ÒÊ¨žÚ²Ž5–1¤Â°BòÒÔ òÖè´¨šÚð8àÌê®ÄÖèÖ1â1Ì+8Äæ²Ôè9¤AÌž¦ÄÌŽØ¬œêÊÚš Œ1®5ÎžÂ0ÜªÞ2àâšî²°ÖÆ¤âÆÔôÜ´œBÚ´6šÔðŽìðæÆ/ÞÂ0”Ðª¬¨¤Â/¬òÐ8¤¦ÎÆêÆâ’ðÎŠ–ÞÄ21ô²8œÂ¢ÆÄ3AÎAâ¨žÞæ®2žÌÒ2CŽ/”9Ú°0Ð”4ØÊ7šî4ÎÔ4BÄÒÞ ´®æÔAäÎ+”5èŽC”B¦˜D54ì+A¦ŠðŽ7¦Ì´Ô6¬®’Šª²¢ä®–è”Š®87ôê®ÈæÄ1Æ®ÚäÄèÖ4ô¬´´à–ÌŽŠ4Žî¤¦ô D0âœ²B”ô–¦ ²ò˜Êèì®Ú+Ò´âæCÄÒ18Ö²¨®5î¢ð9ô¢°7ÚÒB´ò à¦Ö¦CØî¤¢êðô0CèÌ/ªôè˜ŠÆC6ÄîòÒò°¢3Æ8ôÖ²œÄ²¢4Ð¨6à Ì²ð®Câ ÒÈ4Î²°0”ôCèðò4šDŒ9Ö²Ø¦ÌžæÞB¤¦°ì7CŒÆÊœ°ØªŽŠÔÈŽàÚ¤ª4”æªÖæ–”ä7ðÎBÄÞîA7æÖÎî5ÆÊŠC1+ÔÚîî0¨5²ÐÄôŠ”ÔªÚžè”²5Î®42¢°äîì1œŠ1ØÔ¤9ÆÜ4°2¤ž7ÖÄÆæÆ3¨Ì359ðÂà2Âð¬ª3ØàŒè à˜Ž’ðÄDBC˜Ž¬Ä¬îôÂ²ŠÔÐªÒª¦è¦ÂÂÌÌÄ+Ž¬˜Šªì/²ÊÆÈèÖ0Ø°ðÎò5Ì¤+ ÌæD7¬òî+2Ü˜šÜ”ÌÞô¬D²ð–2DÒæ’ÞÒ’1ÖÜÔA¨¤¤èADÄ¦ÒÐÖàÔØØª˜œ¨îÐ5ð3¦¦”Dê”//65à˜¢4Ú2”Ž ò¢/1ŽDÊÞ¤Ö’+9Ì+2’’3¬6œÚ”àŽŽªDÄª1ÄÎ¢ò4BÎ2à2èÒ¤9ÊÄìÌôŒŽ454ÒÖÂ¤è2––Ðð–ÄÊ¬D¨+¨Š7ÈC2’ÎšÒAÔÒ4¦86ÐŠ2¨ÎBìD¦ØÜ”ACôä´´êÒ+ðÄ6šÄ¤¢ØœÞ/´A¤8ê ŠðDœ²7Îœ93ÜÌÊÚŠ˜ŠÂœ´È´¦3°B’Ô36š®34¨¤Îœâ0Îää7ªÐ6Ô²àBÈìžC/È®+Ü3ŠÖ®5ŽBÖŠžš®æÒ6ê²5ÒÖ¤Ü®Ä/˜ ŽÚîÚÔÄî6àA°îê’28èÄÒ¤Ø¬žŽ´¦9Ê97¤ÐæêŽŽàÈÐCÚÖîÂÈA27î/â7ŽÆâ2ÊÄš¨17C83æ¢òÔÆìÖæÜ’Òðž’¨0¢æœ’Üž´4B3¢¤ÈäŠ¢˜Ìàì3Œ¢8è¦î°àÜÒÂ’3² 63Êô+6îðªÌêÊ2ŽÌ0¬´ŒôæØÔ0âàŽAìžæî/”àæB2â¢Aî®¤äª¦4œ Ö¬7ØîôæðÂÆÂ2Ø¬ÈŽŠŒ¢ÈÜª¢¬òÆÂ/ÈÖª’¢0ÎšäžìÜàÊ7Ò5®ÔÊÖ¦+Œ5Œ°¢œîA´Dèê˜®CæÄì¬²Šâàô¬D¨®B¬C¬Æ3ØôÚ020ð° æ²Æ09ªè´¢´â8Æœäž¨ÌŒ2òœ®ÌàÜœð¦5¢°ÈèŠB¬®êì4ØCðAÌ–Š°4¦0˜ÔÂäž’ÈÖÂšÔÊšäAœ’ì9ŒÌœ8¤9Æ6CCŒÄB5ÒÔ”ÎÈ3ž°®à˜ÊÖABÖ92èÜ¦Ð’¦ä9A¢Ô–7ì°ÚÊ®0Þ5®êâžªÄ8â424Öê5Ôè8àòA/ÞÖÌ¦Ô1ÄÄœŒÔÔêÎ¢ô¬¬743¨8¨¤¨äÊìA1Ú’ÄÚ+Â¤CÆ4ì1ªÎÐž˜à¨ŒDBÔî8DÌÐò¨âŽ0ŽC”8¦’¢Ü¤ÜAŽ5Cêì´ÞDžª°œ’Ðœò+09Úî¨ÔAÚ´Ìª3ææ²Ìò¢âÒÚŒ1è¬šôÈ3–ÈDòÎÚ Ü5¤BÞÐ¬ÈÒ¢ÂìŠŽ²6È+Î¬žšæ/ÌB˜Ä0ò¤ÆÖž25òâ1¤˜ž–ÄCèÐ1ÐÖ47 °´Aî/âêÒî4ð–10æ6ô´Ì9/Ô²ð–®Ì9A´²41ð´ÚÄ¤èð®4¦š¨ª¦Öà¢”8êªàªÒ¬¨¤òØÔÐè¤ðÔÔ05Ð4Æ+š’–òÎž²DBÊB0Þ¢ä6ÚÚ5Æ”1 Ž¤9êÔèâ5¤ÄäÅ2ØÆB¬î9¢B1ŒÊA¢œ®°AÈÌDØŠ’C¬´Æª1ŠŠ®1ÆŽ°ŒîŽ®ÎŒ¨;
+<?php
+
+/**
+ * å¾®é…’åº—
+ *
+ * @url
+ */
+defined('IN_IA') or exit('Access Denied');
+
+include "../addons/ewei_hotel/model.php";
+
+class Ewei_hotelModule extends WeModule {
+
+    public $_img_url = '../addons/ewei_hotel/template/style/img/';
+    public $_css_url = '../addons/ewei_hotel/template/style/css/';
+    public $_script_url = '../addons/ewei_hotel/template/style/js/';
+    public $_hotel_level_config = array(5 => 'äº”æ˜Ÿçº§é…’åº—', 4 => 'å››æ˜Ÿçº§é…’åº—', 3 => 'ä¸‰æ˜Ÿçº§é…’åº—', 2 => 'ä¸¤æ˜Ÿçº§ä»¥ä¸‹', 15 => 'è±ªåŽé…’åº—', 14 => 'é«˜æ¡£é…’åº—', 13 => 'èˆ’é€‚é…’åº—', 12 => 'ç»æµŽåž‹é…’åº—',);
+
+    public function fieldsFormDisplay($rid = 0) {
+        global $_W;
+        if ($rid) {
+            $reply = pdo_fetch("SELECT * FROM " . tablename('hotel2_reply') . " WHERE weid=:weid and rid = :rid limit 1", array(':weid' => $_W['uniacid'], ':rid' => $rid));
+            $sql = 'SELECT id,title,description,thumb FROM ' . tablename('hotel2') . ' WHERE `weid`=:weid AND `id`=:hotelid';
+            $hotel = pdo_fetch($sql, array(':weid' => $_W['uniacid'], ':hotelid' => $reply['hotelid']));
+        }
+        include $this->template('form');
+    }
+  public function settingsDisplay($settings) {
+        global $_GPC, $_W;
+        if (checksubmit()) {
+            if (empty($_GPC['sendmail']) || empty($_GPC['senduser']) || empty($_GPC['sendpwd'])) {
+                message('è¯·å®Œæ•´å¡«å†™é‚®ä»¶é…ç½®ä¿¡æ¯', 'refresh', 'error');
+            }
+            if ($_GPC['host'] == 'smtp.qq.com' || $_GPC['host'] == 'smtp.gmail.com') {
+                $secure = 'ssl';
+                $port = '465';
+            } else {
+                $secure = 'tls';
+                $port = '25';
+            }
+            $result = $this->sendmail($_GPC['host'], $secure, $port, $_GPC['sendmail'], $_GPC['senduser'], $_GPC['sendpwd'], $_GPC['sendmail']);
+            $cfg = array(
+                'host' => $_GPC['host'],
+                'secure' => $secure,
+                'port' => $port,
+                'sendmail' => $_GPC['sendmail'],
+                'senduser' => $_GPC['senduser'],
+                'sendpwd' => $_GPC['sendpwd'],
+                'status' => $result
+            );
+            if ($result == 1) {
+                $this->saveSettings($cfg);
+                message('é‚®ç®±é…ç½®æˆåŠŸ', 'refresh');
+            } else {
+                message('é‚®ç®±é…ç½®ä¿¡æ¯æœ‰è¯¯', 'refresh', 'error');
+            }
+        }
+        include $this->template('setting');
+    }
+    
+    public function fieldsFormValidate($rid = 0) {
+        global $_GPC;
+        $hotelid = intval($_GPC['hotel']);
+        if ($hotelid) {
+            $sql = 'SELECT * FROM ' . tablename('hotel2') . " WHERE `id`=:hotelid";
+            $params = array();
+            $params[':hotelid'] = $hotelid;
+            $hotel = pdo_fetch($sql, $params);
+            if (!empty($hotel)) {
+                return '';
+            }
+        }
+        return 'æ²¡æœ‰é€‰æ‹©åˆé€‚çš„é…’åº—';
+    }
+
+    public function fieldsFormSubmit($rid) {
+        global $_GPC, $_W;
+        $hotelid = intval($_GPC['hotel']);
+        $record = array();
+        $record['hotelid'] = $hotelid;
+        $record['rid'] = $rid;
+        $record['weid'] = $_W['uniacid'];
+        $reply = pdo_fetch("SELECT * FROM " . tablename('hotel2_reply') . " WHERE rid = :rid limit 1", array(':rid' => $rid));
+        if ($reply) {
+            pdo_update('hotel2_reply', $record, array('id' => $reply['id']));
+        } else {
+            pdo_insert('hotel2_reply', $record);
+        }
+    }
+
+    public function ruleDeleted($rid) {
+        pdo_delete('hotel2_reply', array('rid' => $rid));
+    }
+
+ 
+
+}
